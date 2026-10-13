@@ -1,0 +1,290 @@
+[
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayABPlayVerification.cs",
+    "sha256": "109F8DC60BAC51AC1AC726185602E0FFA5A98C09B1899319A39004138DA07FB8"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayArtImport.cs",
+    "sha256": "5AE710434D351DD70A912A9FAE6EF2AD15112E0CBA29D8E018AA40E77EB6C536"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayAudioAuthoring.cs",
+    "sha256": "9A843BCE03B60F4DB5DD34E5904FC03D415804BFD81D47828AF3A413D52E687C"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayAudioVerification.cs",
+    "sha256": "93ED522A2AA98F73E157C39B952CA9C3773EF321F4745FF75EF0055F510B51B1"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayBuildSetup.cs",
+    "sha256": "EFEDB4684A4985CDF629AE6A4270DECF3EA1905C884D1BCF998B6F3EE0B53E97"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayCampaignSmoke.cs",
+    "sha256": "49D5FC84C985FF255F4C7E85DD281A88AD9E2E49070247E42DC7A70089B37FC0"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayDay1SeatChecks.cs",
+    "sha256": "2B92CC243318898D12AF79836DEA3A44EA1A881CE6FB069AAF2E4E18250204F6"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayDay2SafeAreaChecks.cs",
+    "sha256": "BEB67D9DB11554E9339E27BEB449461186F574CE7A611C41377055371A22CE41"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayDay7PortraitImport.cs",
+    "sha256": "848418119B6B23B66DA8193EF01C3BC1DDFD1FE56D1220C546E6F2E81BB6D120"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayDay7Verification.cs",
+    "sha256": "F4E41E880B1B0F2BAD34D6B0B37C322CAAEE34CB1D83CF224D6C3B64B37CA8F7"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayDualEndingAuthoring.cs",
+    "sha256": "3D69BB1A750AB2EF9336E18D2A78DC952EF4517EA369D94AE74AE91623468F54"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayDualEndingVerification.cs",
+    "sha256": "42FDF4A7AB43867CF875D3D45B226DF40665C1887AF0667917664CFC3D4B22A3"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayFinalDecisionVerification.cs",
+    "sha256": "583897C6EB2D04020B3EEC8124A5323C4DE2434655B02C872CBA645BD195B788"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayLatestContentVerification.cs",
+    "sha256": "801507A1CC1D3766209C4844E47DE75F38A305F70B2DCF2CA7B4482AF98CC211"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayMainMenuAuthoring.cs",
+    "sha256": "BE86F45E170C784BAD3996B983E9734AA6C6DF9FB2CD0AB88469FAAFF37075B6"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayMainMenuVerification.cs",
+    "sha256": "AE109C0654C1A2C08196D9310262958B88B76489D8D1191524A47DC3CC528F6D"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayStartupVerification.cs",
+    "sha256": "C3680B3618F8CB01080215864EC9CE8BC4553D715A2DA57BE8E7B85109AD87F4"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayTutorialAuthoring.cs",
+    "sha256": "10280D7030F2C889261EA2604D9C5AB232DB422C1180D9FFBD7BA98C94D4521A"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\DDayTutorialVerification.cs",
+    "sha256": "039A5F188D60E1BA913765A03D9A516221508BF0186B2D05D1EC1442D5E7DDC4"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\HEEndingAuthoring.cs",
+    "sha256": "944841FBBCD145BED885E34C117B61027875B98CEB8BD17AEE7950EB10DD9B1F"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Editor\\HEEndingVerification.cs",
+    "sha256": "3EF1F9599550D4E65E27A090FAF8CE6F1A33B46FE24874EA9D55F57E4E8E59ED"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Prefabs\\DDay\\APISMainMenu.prefab",
+    "sha256": "C0547C4EE5368F3EB0BC77D4A5BABDA9D4A71B009B8F2746E757BAA2E54904C3"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Resources\\DDay\\ABConfig.json",
+    "sha256": "373FB3EF65C3D123E455F2C1F5067D954F4549B900CEB149AE54A047FD8F5FF7"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Resources\\DDay\\ComicPresentation.json",
+    "sha256": "2E530C5FC684FA2F8F6BD767382A9DF1A8355DBDAA63068FCD5369D249D60E72"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Resources\\DDay\\Content.json",
+    "sha256": "E9E3448AFF13A4017CB564BBDD9F76623E6D5DA485172AC5750CDCF7F34F1423"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Resources\\DDay\\DialoguePresentation.json",
+    "sha256": "B46842ACDBD5399CC38A56D9991D5999878CBB3963CFCA0A4ACAE06E2EA90C05"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Resources\\DDay\\SeatExploration.json",
+    "sha256": "D199F583B56B0B632758AB79A177D82F54062814624AD1CC3B6E21DB30C0A09A"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Resources\\DDay\\Audio\\DDayAudioConfig.asset",
+    "sha256": "704D26E8BF6F9ECFA895103B84A22243B2016962A66B484900F09EFDE1C67251"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Resources\\DDay\\Endings\\BE\\BEEndingConfig.asset",
+    "sha256": "C8B1414B91E9602BC0872F06392BD1BFD0BCFCBC33EF8BA87F56A61CF3F45B70"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Resources\\DDay\\Endings\\HE\\HEEndingConfig.asset",
+    "sha256": "FAB04AC4C17A8A040732506B0B49DE05B07FE83DB288955BA9F623EDC310DD4F"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Resources\\DDay\\Story\\Day1\\Day1ComicPresentation.json",
+    "sha256": "EABED24FF7DF64E498BC130B4038A13B36CF93D5A0EAA0EAD8871C15D06336C4"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Resources\\DDay\\Story\\Day2\\Day2ComicPresentation.json",
+    "sha256": "D4B8BC7137168202383AC193CEBF05AFAE5FB62C48005AB76A836268A4AC343C"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Resources\\DDay\\Story\\Day4\\Day4ComicPresentation.json",
+    "sha256": "67148392B08810485EE8AF4FB0C05DCBEF8DF03D74C17359AD48067AB550596A"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Resources\\DDay\\Story\\Day6\\Day6ComicPresentation.json",
+    "sha256": "7B8B4A8B6E6AC33AD3584425F39D9DDB89A02E63D29AE12944872E2D3C894046"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Resources\\DDay\\Tutorial\\Day1Tutorial.json",
+    "sha256": "246A7E0B085F1920FFB8E262DFD4B17CA139D4E279625ADE3AD7396DC550A698"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Resources\\DDay\\UI\\APISMenuFont.asset",
+    "sha256": "1618A66DBB4F7E4E219ED66365D6831B537EF521574FC53A2B70736AEA748623"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scenes\\TodayWhereToSit.unity",
+    "sha256": "DF3FB8A6D2D7DB6CD089E5EF329244C62561B992D3C419069FFD6034187A7CDA"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDay2SliceSmoke.cs",
+    "sha256": "3ABF7D6B7D30E640A12AFED77FCE211CC58AF41036E015795F44C5EEC92DC99B"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayABConfig.cs",
+    "sha256": "0CC38239F4E7D284F41DB091445CBF15A2CEBAA11C364B4084090287754A17A9"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayArt.cs",
+    "sha256": "DCF2C395987E9804F4A4B61801C04A4199B5212FD390D82D908863002C068C83"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayAudioConfig.cs",
+    "sha256": "854DE6E25EE237C9D6967E3DE22C947F6967C64E9DCAE78A03F0FCA8283DC9D2"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayAudioManager.cs",
+    "sha256": "5DE3215080B64C7CA7AE3B493B1316097D5C87E2C439C4EB17E9A78D50D53143"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayCampaign.cs",
+    "sha256": "D6B550183597D17A09FA4341EDA13BF0C5E8994AB81B337C469B3F8CD3CBCBC1"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayComicPage.cs",
+    "sha256": "20A5F6FB2678E81F2D9F350D59DACAF27AE02980ADAC1BF607B92894CE02A4E7"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayComicPresentation.cs",
+    "sha256": "F02F2331B4D08D2BC9F753AC9058D279647FFF21220BA725266619DADDAEA47E"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayComicUI.cs",
+    "sha256": "BF8C4511CE658AE4CE453118C1FE35AE4301D0D09ABF7D090655C7CC58FD2433"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayDialogue.cs",
+    "sha256": "C5868B0CB3DAC92734F2BA0841C86E8762E0BDF591039BCB513D2398A7E6B821"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayDialogueUI.cs",
+    "sha256": "304A9291515043BB4E7E58025DEA8C6C31D914C087F7A9EAC12C420AE4FDABEB"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayFinalDecisionUI.cs",
+    "sha256": "3D921480E90E2D8702AB9D7253E07ECA0AA05FCA8F20A236B9EAD648684A1E2B"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayGame.cs",
+    "sha256": "3E9E8FC2DFFB8D1961E3A57946C44B0B9C319552985D8694E60794FF618AD16D"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayLogic.cs",
+    "sha256": "20E3D06C2AC80B5BAC3821826B8735D233DE84C4ADF53882E0165B820B110A06"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayMainMenu.cs",
+    "sha256": "B8272BAB5B1323E6F83E002BFAE554D9B0647A446E025A96A7918886C16F9258"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayOfficeHud.cs",
+    "sha256": "701646C5A4261C3DF44C287EE35CD0A75563A8FC16D642503AC023DA2F920A8B"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayPaperButton.cs",
+    "sha256": "5C299334389B6A55FA769050734761209EEBE5FB5BA02D27E6DE7C706D0AA069"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayPaperHighlight.cs",
+    "sha256": "13AAB58791AA6FB0BE514B89D1108FD740DA43020F6970D0F623E50029E752DF"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDaySeatExploration.cs",
+    "sha256": "EDD613D7D79C5919E490F1953D307E5587898989AB740792C25E6FB1505106C1"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDaySettings.cs",
+    "sha256": "D66D9BC884C9CEBE34D722888F31678A4DB1725F7BF25904A1DB9298ACB549EA"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDaySmokeRunner.cs",
+    "sha256": "FC163EF38EC098B752BAFFE6AE90630E922CC0D5525B92FF8819E0CD07293E95"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDaySuspectUI.cs",
+    "sha256": "AFE514A253CAB93A37F89EC48846E0EE4EC64C52B9122522B8590D49DA71C484"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayTasks.cs",
+    "sha256": "EB2E60D66A04F1438B5D1B557ED087856E651F6C18E7B6A0110780BEDDEF53D6"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayTutorialController.cs",
+    "sha256": "826E6D090BF778B4130FD49BEDBDD38408325D5F779DB4D59461D573B3F91306"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayTutorialUI.cs",
+    "sha256": "3A13865846DC05166533D34BA9DAB09280A8CFCE15A1A2987B5D18DD99E39EB3"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\DDayUI.cs",
+    "sha256": "8790BDAFF97446A27F6FC581C512C4295210E5754131F882F0FA919725BDE1F3"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\EndingSubtitles.cs",
+    "sha256": "F7B841882047407604E3DE87D005B9A626571BF17E2BA94D7E9CC296D327FB80"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\HEEndingConfig.cs",
+    "sha256": "2BFD0C6E9A8363C54F306D5FB9CC5519187641D83A3C477D23601E05346B3F28"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\Scripts\\DDay\\HEEndingPlayer.cs",
+    "sha256": "4142DF873D985E31920C9E607E9811706B062EB7CF20210BCEFEA5E69C5FF0CC"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\TextMesh Pro\\Resources\\TMP Settings.asset",
+    "sha256": "7BE438062CDC296835A1258B68BCBEB8E9FDC4B01EA27C05A24A1074260F7424"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\TextMesh Pro\\Resources\\Fonts & Materials\\LiberationSans SDF - Fallback.asset",
+    "sha256": "E2D77876F2B90D98BA2424F6FC32B1403EA701DE8FD24A8FE8E571ECC3CDC10A"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\TextMesh Pro\\Resources\\Fonts & Materials\\LiberationSans SDF.asset",
+    "sha256": "C3FF50E3133D989180B187748FFC67903F1FEDE099A5B85B4FCBD8CB6E8BE958"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\TextMesh Pro\\Resources\\Sprite Assets\\EmojiOne.asset",
+    "sha256": "155FFF99F467BAA93DD2D0886DF466BD242CD5E3C8C60C9D43E9CDAD269F7F54"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\TextMesh Pro\\Resources\\Style Sheets\\Default Style Sheet.asset",
+    "sha256": "93E073CDB91B7E3D2FA31E2DD13626D7B9D2F327904BA8C3C2B97A3EECFBABAC"
+  },
+  {
+    "path": "E:\\聚光灯\\Assets\\TextMesh Pro\\Sprites\\EmojiOne.json",
+    "sha256": "B85C4B3001B6BA82D175F4CD5DAB83DA467BBC2527D3D447B66919D2D20C4FAF"
+  }
+]

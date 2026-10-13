@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 3a03fd74b5cc3544faa8d3ea5ad0fb23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9146492321973226494
+    second: D-day_Logo_0
+  - first:
+      213: 9175395359423681844
+    second: D-day_Logo_1
+  - first:
+      213: 2001432017437180494
+    second: D-day_Logo_2
+  - first:
+      213: -8132685698187452985
+    second: D-day_Logo_3
+  - first:
+      213: -5693696833558440504
+    second: D-day_Logo_4
+  - first:
+      213: -607391507192565066
+    second: D-day_Logo_5
+  - first:
+      213: 5303958181825471899
+    second: D-day_Logo_6
+  - first:
+      213: 919340075421320990
+    second: D-day_Logo_7
+  - first:
+      213: 8839959859097428050
+    second: D-day_Logo_8
+  - first:
+      213: 5733567963008159849
+    second: D-day_Logo_9
+  - first:
+      213: 1691541285876748869
+    second: D-day_Logo_10
+  - first:
+      213: 1332044913653601691
+    second: D-day_Logo_11
+  - first:
+      213: 9164535105176410344
+    second: D-day_Logo_12
+  - first:
+      213: 8810310040769297504
+    second: D-day_Logo_13
+  - first:
+      213: -8912300855714750951
+    second: D-day_Logo_14
+  - first:
+      213: -1634381932919038134
+    second: D-day_Logo_15
+  - first:
+      213: -5698449678340201289
+    second: D-day_Logo_16
+  - first:
+      213: 8355221902218880257
+    second: D-day_Logo_17
+  - first:
+      213: -8872218922978407070
+    second: D-day_Logo_18
+  - first:
+      213: 1098701248144293531
+    second: D-day_Logo_19
+  - first:
+      213: -2036946325107790261
+    second: D-day
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: D-day
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 57
+        width: 912
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ea9690c105bb3e0800000000000000
+      internalID: -2036946325107790261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      D-day: -2036946325107790261
+      D-day_Logo_0: -9146492321973226494
+      D-day_Logo_1: 9175395359423681844
+      D-day_Logo_10: 1691541285876748869
+      D-day_Logo_11: 1332044913653601691
+      D-day_Logo_12: 9164535105176410344
+      D-day_Logo_13: 8810310040769297504
+      D-day_Logo_14: -8912300855714750951
+      D-day_Logo_15: -1634381932919038134
+      D-day_Logo_16: -5698449678340201289
+      D-day_Logo_17: 8355221902218880257
+      D-day_Logo_18: -8872218922978407070
+      D-day_Logo_19: 1098701248144293531
+      D-day_Logo_2: 2001432017437180494
+      D-day_Logo_3: -8132685698187452985
+      D-day_Logo_4: -5693696833558440504
+      D-day_Logo_5: -607391507192565066
+      D-day_Logo_6: 5303958181825471899
+      D-day_Logo_7: 919340075421320990
+      D-day_Logo_8: 8839959859097428050
+      D-day_Logo_9: 5733567963008159849
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

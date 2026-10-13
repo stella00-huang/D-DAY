@@ -1,0 +1,1239 @@
+{
+  "days": [
+    {
+      "day": 1,
+      "title": "100%",
+      "intro": [
+        "拖动员工调整工位；放在有人坐的位置可以交换。",
+        "满足工位需求，并打开「任务分配」交代今天的工作。",
+        "布局决定谁会碰面，任务决定大家为什么碰面。"
+      ],
+      "outro": [
+        "18:15。兔子倒下了。",
+        "今天的工作与接触共同压垮了 TA。"
+      ],
+      "rules": [
+        {
+          "animal": "rabbit",
+          "kind": "near_env",
+          "target": "toilet",
+          "distance": 1,
+          "text": "靠近厕所",
+          "group": "工作需求"
+        },
+        {
+          "animal": "wolf",
+          "kind": "far_env",
+          "target": "toilet",
+          "distance": 3,
+          "text": "远离厕所",
+          "group": "工作需求"
+        },
+        {
+          "animal": "fox",
+          "kind": "seat_tag",
+          "target": "window",
+          "distance": 0,
+          "text": "坐在窗边",
+          "group": "工作需求"
+        },
+        {
+          "animal": "shiba",
+          "kind": "near_env",
+          "target": "printer",
+          "distance": 1,
+          "text": "靠近打印机",
+          "group": "工作需求"
+        },
+        {
+          "animal": "cat",
+          "kind": "far_env",
+          "target": "coffee",
+          "distance": 3,
+          "text": "远离咖啡机",
+          "group": "工作需求"
+        },
+        {
+          "animal": "bear",
+          "kind": "far_env",
+          "target": "toilet",
+          "distance": 3,
+          "text": "远离厕所",
+          "group": "工作需求"
+        },
+        {
+          "animal": "panda",
+          "kind": "near_env",
+          "target": "coffee",
+          "distance": 1,
+          "text": "靠近咖啡机",
+          "group": "工作需求"
+        }
+      ],
+      "guaranteedClues": [],
+      "tasks": [
+        {
+          "id": "d1_hr",
+          "title": "人事与秘书事务",
+          "description": "处理入职登记和当天排班。"
+        },
+        {
+          "id": "d1_core",
+          "title": "核心项目",
+          "description": "推进今天必须完成的开发工作。"
+        },
+        {
+          "id": "d1_review",
+          "title": "交付复核",
+          "description": "确认文件与交付顺序。"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "title": "嫌疑人",
+      "intro": [
+        "兔子的工位空着。TA 原本承担的秘书与人事工作需要重新分配。",
+        "调整座位，也要重新安排今天的任务。"
+      ],
+      "outro": [
+        "死亡前一天，兔子与狐狸公开争吵。",
+        "所有人都看见了。",
+        "主要嫌疑：狐狸。"
+      ],
+      "rules": [
+        {
+          "animal": "wolf",
+          "kind": "far_seat",
+          "target": "rabbit_seat",
+          "distance": 2,
+          "text": "不坐在兔子的空工位旁",
+          "group": "心理需求"
+        },
+        {
+          "animal": "fox",
+          "kind": "seat_tag",
+          "target": "window",
+          "distance": 0,
+          "text": "坐在窗边",
+          "group": "工作需求"
+        },
+        {
+          "animal": "fox",
+          "kind": "not_adjacent",
+          "target": "wolf",
+          "distance": 0,
+          "text": "避开灰狼",
+          "group": "心理需求"
+        },
+        {
+          "animal": "shiba",
+          "kind": "adjacent",
+          "target": "fox",
+          "distance": 0,
+          "text": "想坐在狐狸旁边",
+          "group": "心理需求"
+        },
+        {
+          "animal": "shiba",
+          "kind": "far_seat",
+          "target": "rabbit_seat",
+          "distance": 2,
+          "text": "避开兔子的空工位",
+          "group": "心理需求"
+        },
+        {
+          "animal": "cat",
+          "kind": "far_env",
+          "target": "coffee",
+          "distance": 3,
+          "text": "远离咖啡机",
+          "group": "工作需求"
+        },
+        {
+          "animal": "bear",
+          "kind": "far_env",
+          "target": "toilet",
+          "distance": 3,
+          "text": "远离厕所",
+          "group": "工作需求"
+        },
+        {
+          "animal": "panda",
+          "kind": "near_env",
+          "target": "coffee",
+          "distance": 1,
+          "text": "靠近咖啡机",
+          "group": "工作需求"
+        }
+      ],
+      "guaranteedClues": [
+        "fox_argument"
+      ],
+      "tasks": [
+        {
+          "id": "d2_hr",
+          "title": "接管人事工作",
+          "description": "兔子留下的日常人事事务需要有人接手。"
+        },
+        {
+          "id": "d2_project",
+          "title": "项目资料",
+          "description": "整理兔子尚未交接的项目文件。"
+        },
+        {
+          "id": "d2_staff",
+          "title": "员工沟通",
+          "description": "了解大家对空工位的反应。"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "title": "咖啡",
+      "intro": [
+        "相邻员工会谈话。今天新增人物距离规则；完成当天座位要求后才能开始工作。"
+      ],
+      "outro": [
+        "兔子最后喝过一杯咖啡，来源指向柴犬。"
+      ],
+      "rules": [
+        {
+          "animal": "wolf",
+          "kind": "far_seat",
+          "target": "rabbit_seat",
+          "distance": 2,
+          "text": "不坐在兔子的空工位旁",
+          "group": "心理需求"
+        },
+        {
+          "animal": "fox",
+          "kind": "seat_tag",
+          "target": "window",
+          "distance": 0,
+          "text": "坐在窗边",
+          "group": "工作需求"
+        },
+        {
+          "animal": "fox",
+          "kind": "not_adjacent",
+          "target": "wolf",
+          "distance": 0,
+          "text": "避开灰狼",
+          "group": "心理需求"
+        },
+        {
+          "animal": "shiba",
+          "kind": "adjacent",
+          "target": "fox",
+          "distance": 0,
+          "text": "想坐在狐狸旁边",
+          "group": "心理需求"
+        },
+        {
+          "animal": "shiba",
+          "kind": "far_seat",
+          "target": "rabbit_seat",
+          "distance": 2,
+          "text": "避开兔子的空工位",
+          "group": "心理需求"
+        },
+        {
+          "animal": "cat",
+          "kind": "far_env",
+          "target": "coffee",
+          "distance": 3,
+          "text": "远离咖啡机",
+          "group": "工作需求"
+        },
+        {
+          "animal": "bear",
+          "kind": "far_env",
+          "target": "toilet",
+          "distance": 3,
+          "text": "远离厕所",
+          "group": "工作需求"
+        },
+        {
+          "animal": "panda",
+          "kind": "near_env",
+          "target": "coffee",
+          "distance": 1,
+          "text": "靠近咖啡机",
+          "group": "工作需求"
+        },
+        {
+          "animal": "cat",
+          "kind": "far_person",
+          "target": "fox",
+          "distance": 3,
+          "text": "观察狐狸，但保持至少三格",
+          "group": "心理需求"
+        },
+        {
+          "animal": "shiba",
+          "kind": "near_person",
+          "target": "panda",
+          "distance": 2,
+          "text": "与熊猫距离不超过两格",
+          "group": "工作需求"
+        }
+      ],
+      "guaranteedClues": [
+        "last_coffee",
+        "coffee_source"
+      ],
+      "tasks": [
+        {
+          "id": "d3_coffee",
+          "title": "茶水间记录",
+          "description": "核对兔子最后一天的饮品来源。"
+        },
+        {
+          "id": "d3_core",
+          "title": "开发进度",
+          "description": "继续推进原有项目。"
+        },
+        {
+          "id": "d3_hr",
+          "title": "遗留人事文件",
+          "description": "整理兔子没处理完的人事资料。"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "title": "狐狸的秘密",
+      "intro": [
+        "新增同排与不同排规则。人物档案开放。"
+      ],
+      "outro": [
+        "柴犬曾帮狐狸绕过招聘筛选；兔子发现了。",
+        "检测结果：咖啡未发现异常。"
+      ],
+      "rules": [
+        {
+          "animal": "wolf",
+          "kind": "far_seat",
+          "target": "rabbit_seat",
+          "distance": 2,
+          "text": "不坐在兔子的空工位旁",
+          "group": "心理需求"
+        },
+        {
+          "animal": "fox",
+          "kind": "seat_tag",
+          "target": "window",
+          "distance": 0,
+          "text": "坐在窗边",
+          "group": "工作需求"
+        },
+        {
+          "animal": "fox",
+          "kind": "not_adjacent",
+          "target": "wolf",
+          "distance": 0,
+          "text": "避开灰狼",
+          "group": "心理需求"
+        },
+        {
+          "animal": "shiba",
+          "kind": "adjacent",
+          "target": "fox",
+          "distance": 0,
+          "text": "想坐在狐狸旁边",
+          "group": "心理需求"
+        },
+        {
+          "animal": "shiba",
+          "kind": "far_seat",
+          "target": "rabbit_seat",
+          "distance": 2,
+          "text": "避开兔子的空工位",
+          "group": "心理需求"
+        },
+        {
+          "animal": "cat",
+          "kind": "far_env",
+          "target": "coffee",
+          "distance": 3,
+          "text": "远离咖啡机",
+          "group": "工作需求"
+        },
+        {
+          "animal": "bear",
+          "kind": "far_env",
+          "target": "toilet",
+          "distance": 3,
+          "text": "远离厕所",
+          "group": "工作需求"
+        },
+        {
+          "animal": "panda",
+          "kind": "near_env",
+          "target": "coffee",
+          "distance": 1,
+          "text": "靠近咖啡机",
+          "group": "工作需求"
+        },
+        {
+          "animal": "cat",
+          "kind": "far_person",
+          "target": "fox",
+          "distance": 3,
+          "text": "观察狐狸，但保持至少三格",
+          "group": "心理需求"
+        },
+        {
+          "animal": "shiba",
+          "kind": "near_person",
+          "target": "panda",
+          "distance": 2,
+          "text": "与熊猫距离不超过两格",
+          "group": "工作需求"
+        },
+        {
+          "animal": "fox",
+          "kind": "different_row",
+          "target": "shiba",
+          "distance": 0,
+          "text": "怕引人注意，避开柴犬所在排",
+          "group": "心理需求"
+        },
+        {
+          "animal": "cat",
+          "kind": "same_row",
+          "target": "wolf",
+          "distance": 0,
+          "text": "想在同一排观察灰狼",
+          "group": "心理需求"
+        }
+      ],
+      "guaranteedClues": [
+        "hire_secret",
+        "coffee_clear"
+      ],
+      "tasks": [
+        {
+          "id": "d4_hire",
+          "title": "招聘记录",
+          "description": "核对狐狸的入职登记。"
+        },
+        {
+          "id": "d4_promotion",
+          "title": "晋升材料",
+          "description": "重新确认晋升流程相关资料。"
+        },
+        {
+          "id": "d4_review",
+          "title": "项目验收",
+          "description": "完成例行项目验收。"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "title": "不只是履历",
+      "intro": [
+        "调查越深，越发现这家公司规模很小却异常赚钱。",
+        "新的工作接触，可能让旧线索有另一层含义。"
+      ],
+      "outro": [
+        "熊猫注意到业务细节的不对劲。黑猫一直在观察。",
+        "兔子知道的，或许只是这家公司的表面。"
+      ],
+      "rules": [
+        {
+          "animal": "wolf",
+          "kind": "far_seat",
+          "target": "rabbit_seat",
+          "distance": 2,
+          "text": "不坐在兔子的空工位旁",
+          "group": "心理需求"
+        },
+        {
+          "animal": "fox",
+          "kind": "seat_tag",
+          "target": "window",
+          "distance": 0,
+          "text": "坐在窗边",
+          "group": "工作需求"
+        },
+        {
+          "animal": "fox",
+          "kind": "not_adjacent",
+          "target": "wolf",
+          "distance": 0,
+          "text": "避开灰狼",
+          "group": "心理需求"
+        },
+        {
+          "animal": "shiba",
+          "kind": "adjacent",
+          "target": "fox",
+          "distance": 0,
+          "text": "想坐在狐狸旁边",
+          "group": "心理需求"
+        },
+        {
+          "animal": "shiba",
+          "kind": "far_seat",
+          "target": "rabbit_seat",
+          "distance": 2,
+          "text": "避开兔子的空工位",
+          "group": "心理需求"
+        },
+        {
+          "animal": "cat",
+          "kind": "far_env",
+          "target": "coffee",
+          "distance": 3,
+          "text": "远离咖啡机",
+          "group": "工作需求"
+        },
+        {
+          "animal": "bear",
+          "kind": "far_env",
+          "target": "toilet",
+          "distance": 3,
+          "text": "远离厕所",
+          "group": "工作需求"
+        },
+        {
+          "animal": "panda",
+          "kind": "near_env",
+          "target": "coffee",
+          "distance": 1,
+          "text": "靠近咖啡机",
+          "group": "工作需求"
+        },
+        {
+          "animal": "cat",
+          "kind": "exact_person",
+          "target": "fox",
+          "distance": 2,
+          "text": "想看清狐狸，但保持两格距离",
+          "group": "心理需求"
+        },
+        {
+          "animal": "shiba",
+          "kind": "near_person",
+          "target": "panda",
+          "distance": 2,
+          "text": "与熊猫距离不超过两格",
+          "group": "工作需求"
+        },
+        {
+          "animal": "fox",
+          "kind": "different_row",
+          "target": "shiba",
+          "distance": 0,
+          "text": "怕引人注意，避开柴犬所在排",
+          "group": "心理需求"
+        },
+        {
+          "animal": "cat",
+          "kind": "same_row",
+          "target": "wolf",
+          "distance": 0,
+          "text": "想在同一排观察灰狼",
+          "group": "心理需求"
+        }
+      ],
+      "guaranteedClues": [
+        "metrics_changed",
+        "draft_to_boss",
+        "cat_mission"
+      ],
+      "tasks": [
+        {
+          "id": "d5_numbers",
+          "title": "业务数据核对",
+          "description": "核对公司经营数据里不寻常的细节。"
+        },
+        {
+          "id": "d5_draft",
+          "title": "未发草稿",
+          "description": "整理兔子留下的草稿。"
+        },
+        {
+          "id": "d5_core",
+          "title": "核心项目",
+          "description": "把项目继续向前推进。"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "title": "表与里",
+      "intro": [
+        "最后一次综合布局与任务分配。",
+        "棕熊和熊猫对公司似乎知道得比其他人更多。"
+      ],
+      "outro": [
+        "棕熊才是老板真正信任的人；熊猫一直在装傻。",
+        "黑猫的调查还没有结束。兔子的死亡也不是单一谋杀。"
+      ],
+      "rules": [
+        {
+          "animal": "wolf",
+          "kind": "far_seat",
+          "target": "rabbit_seat",
+          "distance": 2,
+          "text": "不坐在兔子的空工位旁",
+          "group": "心理需求"
+        },
+        {
+          "animal": "fox",
+          "kind": "seat_tag",
+          "target": "window",
+          "distance": 0,
+          "text": "坐在窗边",
+          "group": "工作需求"
+        },
+        {
+          "animal": "fox",
+          "kind": "not_adjacent",
+          "target": "wolf",
+          "distance": 0,
+          "text": "避开灰狼",
+          "group": "心理需求"
+        },
+        {
+          "animal": "shiba",
+          "kind": "adjacent",
+          "target": "fox",
+          "distance": 0,
+          "text": "想坐在狐狸旁边",
+          "group": "心理需求"
+        },
+        {
+          "animal": "shiba",
+          "kind": "far_seat",
+          "target": "rabbit_seat",
+          "distance": 2,
+          "text": "避开兔子的空工位",
+          "group": "心理需求"
+        },
+        {
+          "animal": "cat",
+          "kind": "far_env",
+          "target": "coffee",
+          "distance": 3,
+          "text": "远离咖啡机",
+          "group": "工作需求"
+        },
+        {
+          "animal": "bear",
+          "kind": "far_env",
+          "target": "toilet",
+          "distance": 3,
+          "text": "远离厕所",
+          "group": "工作需求"
+        },
+        {
+          "animal": "panda",
+          "kind": "near_env",
+          "target": "coffee",
+          "distance": 1,
+          "text": "靠近咖啡机",
+          "group": "工作需求"
+        },
+        {
+          "animal": "cat",
+          "kind": "exact_person",
+          "target": "fox",
+          "distance": 2,
+          "text": "想看清狐狸，但保持两格距离",
+          "group": "心理需求"
+        },
+        {
+          "animal": "shiba",
+          "kind": "adjacent",
+          "target": "wolf",
+          "distance": 0,
+          "text": "想坐近灰狼，问清那晚的事",
+          "group": "心理需求"
+        },
+        {
+          "animal": "fox",
+          "kind": "different_row",
+          "target": "wolf",
+          "distance": 0,
+          "text": "避开灰狼所在排",
+          "group": "心理需求"
+        },
+        {
+          "animal": "cat",
+          "kind": "same_row",
+          "target": "fox",
+          "distance": 0,
+          "text": "想在同一排观察狐狸",
+          "group": "心理需求"
+        }
+      ],
+      "guaranteedClues": [
+        "wolf_deleted",
+        "rabbit_strategy",
+        "bear_boss",
+        "panda_knows"
+      ],
+      "tasks": [
+        {
+          "id": "d6_logs",
+          "title": "登录记录",
+          "description": "核对兔子电脑的登录时间。"
+        },
+        {
+          "id": "d6_handover",
+          "title": "日常工作移交",
+          "description": "补齐兔子的秘书工作交接。"
+        },
+        {
+          "id": "d6_interview",
+          "title": "员工访谈",
+          "description": "听取同事对当天接触的记忆。"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "d2_fox_shiba",
+      "day": 2,
+      "a": "fox",
+      "b": "shiba",
+      "title": "招聘登记表",
+      "lines": [
+        "狐狸：兔子死前是不是找过你？",
+        "柴犬：问了一些以前的事。",
+        "狐狸：包括那份【招聘登记表】？",
+        "柴犬：……你怎么知道？"
+      ],
+      "reward": "hire_form",
+      "priority": 30,
+      "requires": [],
+      "taskId": "d2_hr",
+      "taskOwner": "shiba"
+    },
+    {
+      "id": "d2_wolf_cat",
+      "day": 2,
+      "a": "wolf",
+      "b": "cat",
+      "title": "咖啡杯",
+      "lines": [
+        "黑猫：你那天一直在看兔子。",
+        "灰狼：没有。",
+        "黑猫：有。",
+        "灰狼：……",
+        "黑猫：兔子喝【咖啡】的时候，你也在看。"
+      ],
+      "reward": "coffee_cup",
+      "priority": 25,
+      "requires": []
+    },
+    {
+      "id": "d2_bear_panda",
+      "day": 2,
+      "a": "bear",
+      "b": "panda",
+      "title": "项目截止",
+      "lines": [
+        "棕熊：我还是觉得那天不该催。",
+        "熊猫：项目当天就截止。",
+        "棕熊：兔子脸色已经很差了。",
+        "熊猫：……当时谁知道会这样。"
+      ],
+      "reward": "",
+      "priority": 20,
+      "requires": []
+    },
+    {
+      "id": "d3_cat_fox",
+      "day": 3,
+      "a": "cat",
+      "b": "fox",
+      "title": "回来的时间",
+      "lines": [
+        "黑猫：前天晚上，你是不是又回来过？",
+        "狐狸：回来拿东西。",
+        "黑猫：几点？",
+        "狐狸：……记不清了。"
+      ],
+      "reward": "fox_returned",
+      "priority": 30,
+      "requires": []
+    },
+    {
+      "id": "d3_shiba_panda",
+      "day": 3,
+      "a": "shiba",
+      "b": "panda",
+      "title": "在查什么",
+      "lines": [
+        "熊猫：兔子最近是不是在查什么？",
+        "柴犬：你听谁说的？"
+      ],
+      "reward": "rabbit_search",
+      "priority": 20,
+      "requires": []
+    },
+    {
+      "id": "d3_cat_panda",
+      "day": 3,
+      "a": "cat",
+      "b": "panda",
+      "title": "不是你的咖啡",
+      "lines": [
+        "熊猫：你平时不喝那个牌子的咖啡吧？",
+        "黑猫：那不是我的。"
+      ],
+      "reward": "last_coffee",
+      "priority": 25,
+      "requires": []
+    },
+    {
+      "id": "d3_cat_shiba",
+      "day": 3,
+      "a": "cat",
+      "b": "shiba",
+      "title": "咖啡来源",
+      "lines": [
+        "黑猫：我拿的是你放在茶水间的咖啡。",
+        "柴犬：……是我买的。"
+      ],
+      "reward": "coffee_source",
+      "priority": 28,
+      "requires": []
+    },
+    {
+      "id": "d4_fox_shiba",
+      "day": 4,
+      "a": "fox",
+      "b": "shiba",
+      "title": "招聘记录",
+      "lines": [
+        "狐狸：TA 查到多少了？",
+        "柴犬：学历筛选那一页。",
+        "狐狸：当年你说不会有人知道。"
+      ],
+      "reward": "hire_secret",
+      "priority": 35,
+      "requires": []
+    },
+    {
+      "id": "d4_fox_wolf",
+      "day": 4,
+      "a": "fox",
+      "b": "wolf",
+      "title": "晋升交易",
+      "lines": [
+        "狐狸：晋升机会，你答应让给我。",
+        "灰狼：别再提 TA。",
+        "狐狸：那就别让我说出你们的关系。"
+      ],
+      "reward": "wolf_threat",
+      "priority": 30,
+      "requires": []
+    },
+    {
+      "id": "d4_wolf_cat",
+      "day": 4,
+      "a": "wolf",
+      "b": "cat",
+      "title": "说不出口的关系",
+      "lines": [
+        "黑猫：你那天一直看着 TA。",
+        "灰狼：我不能过去。",
+        "黑猫：因为你们的关系？"
+      ],
+      "reward": "wolf_love",
+      "priority": 25,
+      "requires": []
+    },
+    {
+      "id": "d5_cat_bear",
+      "day": 5,
+      "a": "cat",
+      "b": "bear",
+      "title": "被改过的数字",
+      "lines": [
+        "黑猫：TA 桌上的文件，不只是狐狸的招聘记录。",
+        "棕熊：还有项目绩效表。数字被人改过。"
+      ],
+      "reward": "metrics_changed",
+      "priority": 35,
+      "requires": [],
+      "taskId": "d5_numbers",
+      "taskOwner": "cat"
+    },
+    {
+      "id": "d5_shiba_wolf",
+      "day": 5,
+      "a": "shiba",
+      "b": "wolf",
+      "title": "没有发出的邮件",
+      "lines": [
+        "柴犬：草稿收件人写着老板。",
+        "灰狼：TA 说过要把记录交出去。"
+      ],
+      "reward": "draft_to_boss",
+      "priority": 32,
+      "requires": []
+    },
+    {
+      "id": "d5_bear_panda",
+      "day": 5,
+      "a": "bear",
+      "b": "panda",
+      "title": "项目截止",
+      "lines": [
+        "棕熊：我只想把项目做完。",
+        "熊猫：我知道 TA 很累，可还是催了。"
+      ],
+      "reward": "bear_pressure",
+      "priority": 24,
+      "requires": []
+    },
+    {
+      "id": "d6_wolf_panda",
+      "day": 6,
+      "a": "wolf",
+      "b": "panda",
+      "title": "18:12",
+      "lines": [
+        "熊猫：18:12，兔子的电脑为什么还亮着？",
+        "灰狼：是我登录的。我删了部分材料。",
+        "灰狼：TA 告诉过我要举报。我害怕。"
+      ],
+      "reward": "wolf_deleted",
+      "priority": 40,
+      "requires": [],
+      "taskId": "d6_logs",
+      "taskOwner": "panda"
+    },
+    {
+      "id": "d6_wolf_cat",
+      "day": 6,
+      "a": "wolf",
+      "b": "cat",
+      "title": "没有走过去",
+      "lines": [
+        "灰狼：那天我看出来 TA 不舒服了。",
+        "灰狼：我本来想过去。",
+        "灰狼：但是所有人都在。我怕别人看出来。",
+        "灰狼：……所以我没有。"
+      ],
+      "reward": "wolf_avoided",
+      "priority": 36,
+      "requires": []
+    },
+    {
+      "id": "d6_fox_shiba",
+      "day": 6,
+      "a": "fox",
+      "b": "shiba",
+      "title": "争吵以后",
+      "lines": [
+        "柴犬：狐狸威胁灰狼的事，兔子知道了。",
+        "狐狸：TA 来找我对峙。我们吵得全办公室都听见。"
+      ],
+      "reward": "rabbit_strategy",
+      "priority": 30,
+      "requires": []
+    },
+    {
+      "id": "d5_cat_panda",
+      "day": 5,
+      "a": "cat",
+      "b": "panda",
+      "title": "不寻常的账目",
+      "lines": [
+        "熊猫：这家公司很小，收入却不太像这个规模。",
+        "黑猫：你也发现了？先别声张。"
+      ],
+      "reward": "cat_mission",
+      "priority": 37,
+      "requires": [],
+      "taskId": "d5_numbers",
+      "taskOwner": "panda"
+    },
+    {
+      "id": "d6_bear_panda",
+      "day": 6,
+      "a": "bear",
+      "b": "panda",
+      "title": "老板真正的联系人",
+      "lines": [
+        "棕熊：有些事，我会直接向老板报告。",
+        "熊猫：我知道。你一直都在看着大家。"
+      ],
+      "reward": "bear_boss",
+      "priority": 42,
+      "requires": [],
+      "taskId": "d6_interview",
+      "taskOwner": "bear"
+    },
+    {
+      "id": "d6_cat_panda",
+      "day": 6,
+      "a": "cat",
+      "b": "panda",
+      "title": "装作不知道",
+      "lines": [
+        "黑猫：你早就看出了问题。",
+        "熊猫：知道得太多的人，不一定能安全离开。"
+      ],
+      "reward": "panda_knows",
+      "priority": 38,
+      "requires": [],
+      "taskId": "d6_logs",
+      "taskOwner": "panda"
+    }
+  ],
+  "clues": [
+    {
+      "id": "hire_form",
+      "title": "招聘登记表",
+      "description": "兔子死亡前似乎调查过狐狸的入职资料。",
+      "category": "物证",
+      "person": "fox"
+    },
+    {
+      "id": "coffee_cup",
+      "title": "咖啡杯",
+      "description": "兔子死亡前曾喝过咖啡。",
+      "category": "物证",
+      "person": "cat"
+    },
+    {
+      "id": "fox_argument",
+      "title": "公开争吵",
+      "description": "死亡前一天，兔子与狐狸在所有人面前争吵。",
+      "category": "时间线",
+      "person": "fox"
+    },
+    {
+      "id": "fox_returned",
+      "title": "狐狸曾返回办公室",
+      "description": "狐狸说是回来取东西；具体时间说不清。",
+      "category": "人物",
+      "person": "fox"
+    },
+    {
+      "id": "rabbit_search",
+      "title": "兔子在调查",
+      "description": "兔子死亡前仍在查一件事。",
+      "category": "人物",
+      "person": "rabbit"
+    },
+    {
+      "id": "last_coffee",
+      "title": "最后饮品：咖啡",
+      "description": "黑猫递给兔子一杯咖啡；杯子留在桌上。",
+      "category": "物证",
+      "person": "cat"
+    },
+    {
+      "id": "coffee_source",
+      "title": "咖啡来源：柴犬",
+      "description": "黑猫使用了柴犬放在办公室的咖啡。",
+      "category": "物证",
+      "person": "shiba"
+    },
+    {
+      "id": "hire_secret",
+      "title": "招聘筛选被绕过",
+      "description": "狐狸的履历有镀金经历；柴犬帮助 TA 进入公司。",
+      "category": "人物",
+      "person": "fox"
+    },
+    {
+      "id": "wolf_threat",
+      "title": "晋升交易",
+      "description": "狐狸利用地下恋情威胁灰狼退出晋升竞争。",
+      "category": "人物",
+      "person": "wolf"
+    },
+    {
+      "id": "coffee_clear",
+      "title": "咖啡未发现异常",
+      "description": "现有调查没有发现咖啡被做过手脚。",
+      "category": "物证",
+      "person": "cat"
+    },
+    {
+      "id": "metrics_changed",
+      "title": "业务数据细节异常",
+      "description": "熊猫从普通业务数据的细节错误里看出公司表里不一；具体业务仍不明。",
+      "category": "物证",
+      "person": "rabbit"
+    },
+    {
+      "id": "draft_to_boss",
+      "title": "未发送草稿",
+      "description": "兔子留下未发出的工作草稿；TA 以为自己掌握了公司大量信息。",
+      "category": "物证",
+      "person": "rabbit"
+    },
+    {
+      "id": "wolf_love",
+      "title": "地下恋人",
+      "description": "灰狼与兔子一直在秘密交往。",
+      "category": "人物",
+      "person": "wolf"
+    },
+    {
+      "id": "login_1812",
+      "title": "18:12再次登录",
+      "description": "18:12，SISY 倒下前三分钟，TA 的电脑被再次登录。",
+      "category": "时间线",
+      "person": "rabbit"
+    },
+    {
+      "id": "wolf_deleted",
+      "title": "灰狼删除材料",
+      "description": "灰狼承认在18:12登录并删除部分材料，但这不是兔子的死因。",
+      "category": "时间线",
+      "person": "wolf"
+    },
+    {
+      "id": "wolf_avoided",
+      "title": "灰狼的回避",
+      "description": "灰狼看到兔子不适，却怕恋情曝光，没有走过去。",
+      "category": "人物",
+      "person": "wolf"
+    },
+    {
+      "id": "bear_pressure",
+      "title": "项目催促",
+      "description": "棕熊和熊猫只想赶上项目截止；兔子当时明显不舒服。",
+      "category": "时间线",
+      "person": "bear"
+    },
+    {
+      "id": "rabbit_strategy",
+      "title": "兔子与狐狸对峙",
+      "description": "兔子知道狐狸威胁灰狼后非常愤怒，两人在死亡前一天公开争吵。",
+      "category": "人物",
+      "person": "rabbit"
+    },
+    {
+      "id": "cat_mission",
+      "title": "黑猫的调查",
+      "description": "国家财务局派黑猫调查公司小规模却异常高额的收入。",
+      "category": "人物",
+      "person": "cat"
+    },
+    {
+      "id": "bear_boss",
+      "title": "老板真正信任的人",
+      "description": "棕熊暗中向老板报告员工行为，也接触真正公司的事务。",
+      "category": "人物",
+      "person": "bear"
+    },
+    {
+      "id": "panda_knows",
+      "title": "熊猫的发现",
+      "description": "熊猫从业务细节错误推断公司另有一层，并暗中帮助黑猫。",
+      "category": "人物",
+      "person": "panda"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "rabbit",
+      "name": "兔子",
+      "public": "秘书 / 人事｜能干、强势",
+      "hidden": "与灰狼秘密交往；害怕权力与地位被狐狸取代",
+      "clue": "wolf_love"
+    },
+    {
+      "id": "wolf",
+      "name": "灰狼",
+      "public": "研发｜天才程序员，沉默寡言",
+      "hidden": "兔子的秘密恋人；曾受狐狸威胁，怕关系曝光",
+      "clue": "wolf_threat"
+    },
+    {
+      "id": "fox",
+      "name": "狐狸",
+      "public": "研发｜野心强、擅长组织",
+      "hidden": "履历镀金；喜欢兔子，并用恋情威胁灰狼",
+      "clue": "hire_secret"
+    },
+    {
+      "id": "shiba",
+      "name": "柴犬",
+      "public": "HR｜轻松、爱跟狐狸待在一起",
+      "hidden": "父亲是投资者；依赖狐狸，曾让兔子替自己工作",
+      "clue": "hire_secret"
+    },
+    {
+      "id": "cat",
+      "name": "黑猫",
+      "public": "研发｜安静、观察力强",
+      "hidden": "国家财务局派来的调查员",
+      "clue": "cat_mission"
+    },
+    {
+      "id": "bear",
+      "name": "棕熊",
+      "public": "研发｜温柔、乐于助人",
+      "hidden": "老板真正的幕后人员，暗中观察同事",
+      "clue": "bear_boss"
+    },
+    {
+      "id": "panda",
+      "name": "熊猫",
+      "public": "研发｜能力强的老员工",
+      "hidden": "从业务细节推断公司真相，暗中帮助黑猫",
+      "clue": "panda_knows"
+    }
+  ],
+  "replay": [
+    "狐狸发现兔子与灰狼的地下恋情，以公开关系威胁灰狼退出晋升。",
+    "兔子得知后与狐狸公开争吵。那是死亡前一天。",
+    "柴犬把自己的人事工作交给兔子，兔子的负担越来越重。",
+    "棕熊和熊猫为了项目交付来找兔子，对接并不顺利。",
+    "灰狼怕恋情曝光，明明看出兔子不适，仍没有走过去。",
+    "黑猫递来咖啡，想帮兔子提神；咖啡并没有被动手脚。",
+    "老板催促兔子继续工作。18:15，TA 倒下了。",
+    "没有一个单独的凶手。压力、沉默、接触顺序与善意叠加成了结果。",
+    "真正公司的具体业务仍未查清；棕熊、熊猫、黑猫各知道一部分。",
+    "你已知道结局。下一次，能否改变足够多的局部条件？"
+  ],
+  "rescueTasks": [
+    {
+      "id": "hr",
+      "title": "HR事务",
+      "description": "把人事工作交回负责它的人。"
+    },
+    {
+      "id": "coordination",
+      "title": "跨组对接",
+      "description": "安排狐狸在关键时段与柴犬共同处理对接。"
+    },
+    {
+      "id": "confirmation",
+      "title": "正常工作确认",
+      "description": "让灰狼通过正式工作流程接触兔子。"
+    },
+    {
+      "id": "core",
+      "title": "核心开发",
+      "description": "把关键项目交给能独立完成的人。"
+    },
+    {
+      "id": "wellbeing",
+      "title": "员工状态核查",
+      "description": "请善于观察的员工留意兔子状态。"
+    },
+    {
+      "id": "review",
+      "title": "最后复核",
+      "description": "让能叫停工作的人收到异常信息。"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+FAIL
+System.Exception: Native first NO immediately enters existing BE
+  at DDayFinalDecisionVerification.Check (System.Boolean pass, System.String message) [0x0001f] in E:\聚光灯\Assets\Editor\DDayFinalDecisionVerification.cs:59 
+  at DDayFinalDecisionVerification+<Sequence>d__18.MoveNext () [0x00206] in E:\聚光灯\Assets\Editor\DDayFinalDecisionVerification.cs:87 
+  at DDayFinalDecisionVerification.Tick () [0x00051] in E:\聚光灯\Assets\Editor\DDayFinalDecisionVerification.cs:46 
+PASS | Final decision uses native UGUI Buttons with the existing campaign
+PASS | First question positions fixed
+SCREENSHOT | 01_FirstQuestion_1280x720

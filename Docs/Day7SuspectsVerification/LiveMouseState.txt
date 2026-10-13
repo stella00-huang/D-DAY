@@ -1,0 +1,1 @@
+READY | phase=Suspects | selected=bear | confirm=True | observed=fox,bear,shiba,wolf,boss,cat,panda | cancelled=False | switched=True

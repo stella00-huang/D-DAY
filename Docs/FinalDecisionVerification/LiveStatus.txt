@@ -1,0 +1,1 @@
+NativeFirstNO | phase=FinalDecision | question=1 | time=2.5 | YES=(-287.20, -410.04) | escapes=1 | paused=False

@@ -1,0 +1,27 @@
+{
+  "accept": "好的",
+  "next": "继续",
+  "skip": "跳过教程",
+  "reviewTitle": "玩法回顾",
+  "reviewText": "今日任务 → 认识角色 → 安排座位 → 分配任务 → 开始工作\n\n排座时可以点击头顶气泡探索。获得的物品与情报会收进记录册。\n\n满足全部座位要求并完成任务分配，才能开始工作。探索是可选的。",
+  "discoveryItem": "获得物品：{0}",
+  "discoveryInfo": "获得情报：{0}",
+  "discoveryNote": "已收入记录册。",
+  "discoverySisy": "有些事情，换个座位就能看见。",
+  "demoSuccess": "对，就是这样。",
+  "idleHint": "可以再看看这条要求：\n{0}",
+  "fixedSeatHint": "我的座位是固定的，不用动。",
+  "steps": [
+    {"stepId":"T00","speaker":"rabbit","targetUiId":"office","completeCondition":"continue","nextStepId":"T01","lines":["老板早。九月的第一个周五，今天要把整个月的工作计划汇总出来。","第一次看这套安排难免有点乱，我陪您过一遍。"]},
+    {"stepId":"T01","speaker":"rabbit","targetUiId":"today_task","completeCondition":"continue","nextStepId":"T02","lines":["今天要做的事都在右侧的「今日任务」里。","今天的任务是：{task}。"]},
+    {"stepId":"T02","speaker":"rabbit","targetUiId":"employees","completeCondition":"employee","nextStepId":"T03","lines":["办公室一共七个人，包括我。点一下头像，可以看大家的公开介绍。"]},
+    {"stepId":"T03","speaker":"rabbit","targetUiId":"seats_rules","completeCondition":"continue","nextStepId":"T03a","lines":["先排座位。拖动动物到工位上，就能交换座位或移到空位。","座位会决定谁和谁挨着、离什么设施近。右侧写着每个人的要求，满足了会打勾。","我的座位是固定的，不用动。"]},
+    {"stepId":"T03a","speaker":"rabbit","targetUiId":"demo_seat","completeCondition":"demo_seat","nextStepId":"T03b","lines":["先试试拖动灰狼 ORIN。","它的要求是：{rule}。高亮的工位都符合这条要求。"]},
+    {"stepId":"T03b","speaker":"rabbit","targetUiId":"rules","completeCondition":"all_seats","nextStepId":"T04","lines":["接下来您自己试试，满足大家的全部座位要求。","头顶出现气泡时，可以点击探索；不探索也能继续工作。"]},
+    {"stepId":"T04","speaker":"rabbit","targetUiId":"assignment","completeCondition":"task","nextStepId":"T08","lines":["座位排好了，接下来分工。打开「分配任务」，点击一位负责人即可。","同一件事交给不同的人，大家的反应也会不一样。负责人由您决定。"]},
+    {"stepId":"T08","speaker":"rabbit","targetUiId":"book","completeCondition":"book_cycle","nextStepId":"T09","lines":["开始工作前，我们看一下记录册。","打开后查看「物品」和「情报」两个分类，再关闭记录册。它只记录您实际发现的内容。"],"emptyLines":["开始工作前，我们看一下记录册。","现在还没有记录。打开后查看「物品」和「情报」两个分类，再关闭即可。探索是可选的。"]},
+    {"stepId":"T09","speaker":"rabbit","targetUiId":"office","completeCondition":"continue","nextStepId":"T05","lines":["好啦，大致就是这些。以后的工作也从今日任务、座位和分工开始。"]},
+    {"stepId":"T05","speaker":"rabbit","targetUiId":"start_work","completeCondition":"work_start","nextStepId":"T06","lines":["都安排好了。点「开始工作」，办公室会自己运转起来。","这段时间您只管看着，工作结束后会进入当天的下班剧情。"]},
+    {"stepId":"T06","speaker":"rabbit","targetUiId":"office","completeCondition":"work_finish","nextStepId":"","lines":[]}
+  ]
+}

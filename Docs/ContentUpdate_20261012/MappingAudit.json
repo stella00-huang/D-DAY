@@ -1,0 +1,3246 @@
+{
+  "source": "C:\\Users\\stella\\Desktop\\配置表AB.xlsx",
+  "sha256": "46140348e0a3e983454f6d2d56bff4270c321d8211c4908254d63f5b59414c34",
+  "checks": [
+    {
+      "passed": true,
+      "check": "Runtime data uses current desktop workbook SHA256"
+    },
+    {
+      "passed": true,
+      "check": "12 A1 / 40 A2 / 24 B1 / 10 B2 mapped"
+    },
+    {
+      "passed": true,
+      "check": "A2_R04 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R04 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R04 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R05 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R05 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R05 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R06 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R06 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R06 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R07 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R07 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R07 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R08 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R08 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R08 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R09 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R09 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R09 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R10 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R10 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R10 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R11 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R11 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R11 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R12 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R12 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R12 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R13 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R13 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R13 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R14 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R14 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R14 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R15 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R15 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R15 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R16 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R16 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R16 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R17 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R17 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R17 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R18 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R18 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R18 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R19 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R19 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R19 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R20 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R20 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R20 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R21 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R21 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R21 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R22 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R22 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R22 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R23 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R23 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R23 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R24 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R24 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R24 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R25 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R25 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R25 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R26 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R26 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R26 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R27 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R27 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R27 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R28 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R28 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R28 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R29 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R29 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R29 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R30 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R30 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R30 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R31 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R31 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R31 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R32 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R32 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R32 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R33 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R33 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R33 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R34 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R34 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R34 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R35 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R35 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R35 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R36 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R36 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R36 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R37 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R37 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R37 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R38 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R38 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R38 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R39 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R39 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R39 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R40 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R40 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R40 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R41 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R41 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R41 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R42 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R42 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R42 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "A2_R43 exact record title"
+    },
+    {
+      "passed": true,
+      "check": "A2_R43 exact record or authorized supplement"
+    },
+    {
+      "passed": true,
+      "check": "A2_R43 all authored exploration words retained"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 4 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 4 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 4 authored line preserved: 九月第一周，要把整月计划汇成一份总表。SISY一边核对，一边把别"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 4 authored line preserved: SISY：这块数据我补了，你们不用管。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 4 authored line preserved: （没有人说谢谢，只是点点头，把下一份交了过来。桌上的文件，已经比"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 4 authored line preserved: ECHO抱着HR统计表晃到兔子旁，把表轻轻放在最上面。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 4 authored line preserved: ECHO：我可爱的SISY~这个你整理得比较快嘛，拜托啦！　SI"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 4 authored line preserved: （ECHO转身去了茶水间，没有回头。在TA看来，这只是一次再平常"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 4 authored line preserved: THANE帮大家跑腿送文件，路过兔子时放慢了脚步，罕见地没有笑。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 4 authored line preserved: THANE：SISY，说句难听的。这些活你撑不起，也不该你一个人"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 4 authored line preserved: SISY：……你什么意思？　THANE：字面的意思。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 4 authored line preserved: （SISY沉默了几秒，再抬头时，把手边又一份文件拉到面前，翻开第"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 4 authored line preserved: SISY：我今天必须做完。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 4 authored line preserved: （THANE看了TA一眼，没再说话，把一颗薄荷糖放在桌角，转身走"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 4 authored line preserved: ORIN：交上技术部分，看见SISY桌上摞着三个部门的收尾，只轻"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 4 authored line preserved: NARCIS：强调晋升考核看的就是质量，路过时瞥见SISY桌上的"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 4 authored line preserved: CASSIA：核对版本时，发现一个旧档案的编号对不上，嘴上说“没"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 4 authored line preserved: METIS：安静检查汇总资料，留意文件流向。傍晚路过咖啡机，顺手"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 5 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 5 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 5 authored line preserved: CASSIA一项项清点SISY名下的工作，越数越安静。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 5 authored line preserved: CASSIA：SISY名下一共四十三项，真正属于它自己岗位的，十"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 5 authored line preserved: （TA顿了顿，把清单翻到最后一页。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 5 authored line preserved: CASSIA：……这个X项目，去年底就结项了，怎么还有上周的版本"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 5 authored line preserved: （指尖在日期上停了一下，语气随即重新变得懒散。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 5 authored line preserved: CASSIA：大概是返工吧，我看错了也说不定。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 5 authored line preserved: （嘴上这么说，它却把那一页单独抽了出来，夹进自己的文件夹，没有放"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 5 authored line preserved: ——工作量之外，第一次出现“X项目”这个名字。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 5 authored line preserved: ECHO：看着一堆原本属于HR的表格，先说“SISY自己愿意帮忙"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 5 authored line preserved: ORIN：认出SISY的工作习惯和私人备注，默默把那几份文件拿到"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 5 authored line preserved: NARCIS：只扫了一眼清单，什么也没说，回座位后笔尖在桌面上点"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 5 authored line preserved: METIS：对X项目的版本编号格外留意，抬眼看了CASSIA一下"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 5 authored line preserved: THANE：热心帮忙搬箱子，边搬边顺口问谁在整理哪一部分，把大家"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 6 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 6 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 6 authored line preserved: 警方已经找过ORIN，现在轮到老板。ORIN坐在会议室最靠门的位"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 6 authored line preserved: 老板：警方在SISY身上发现了你的旧照片。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 6 authored line preserved: ORIN：……大学时我们在同一个社团，我是学弟。现在是同事。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 6 authored line preserved: 老板：只是这样？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 6 authored line preserved: ORIN：（沉默片刻）……只是这样。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 6 authored line preserved: 老板：照片为什么会在TA的口袋里？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 6 authored line preserved: ORIN：我不知道。……我从来没有给过它。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 6 authored line preserved: （每一句都是真话，只是每一句都少说了一半。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 6 authored line preserved: ORIN：（忽然抬头）那张照片，警方……会还回来吗？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 6 authored line preserved: 老板：那是证物。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 6 authored line preserved: ORIN：……我知道了。（低下头，再没开口。走出会议室时，它在门"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 7 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 7 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 7 authored line preserved: ECHO翻开交接清单，从“入职手续”看到“年度体检预约”，每一项"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 7 authored line preserved: ECHO：这些……原来都是我的吗？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 7 authored line preserved: 老板：HR的职责表上写得很清楚。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 7 authored line preserved: ECHO：可是SISY从来没说过啊。每次我问，它都说“顺手”，我"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 7 authored line preserved: （它下意识想把最麻烦的几份推给旁边的METIS。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 7 authored line preserved: ECHO：METIS，这个你要不要看一下，你整理得比较——"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 7 authored line preserved: METIS：这份的审批链，原来是谁在签？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 7 authored line preserved: ECHO：……（笑容僵了僵）你问这个干嘛？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 7 authored line preserved: METIS：想知道该找谁。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 7 authored line preserved: （ECHO低头看着那一栏，答案只有一个。它第一次没有把话说完。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 7 authored line preserved: ECHO：（很小声）……我是不是，真的有点过分。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 7 authored line preserved: ORIN：恋情已经公开，它不再回避，只是整个上午都对着SISY的"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 7 authored line preserved: NARCIS：把注意力转回晋升材料，偶尔往ECHO的方向瞟一眼，"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 7 authored line preserved: CASSIA：看似在摸鱼，实际上一直在观察METIS。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 7 authored line preserved: METIS：接过审批单后追问原审批链，让ECHO很不自在。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 7 authored line preserved: THANE：观察重新分配后各人的反应，在ECHO手忙脚乱时递过去"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 8 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 8 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 8 authored line preserved: ORIN接手SISY留下的技术协调文档，几位同事围在旁边提问。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 8 authored line preserved: CASSIA：这个接口的版本，怎么是三个版本前的？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 8 authored line preserved: ORIN：不是。是SISY手改过的——TA习惯把日期写成“9/3"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 8 authored line preserved: （会议室安静了一下。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 8 authored line preserved: ORIN：……抱歉。我只是看过很多次。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 8 authored line preserved: （TA继续往下翻，在备注栏的最后一行停住：“周五下班前，把那个给"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 8 authored line preserved: （鼠标悬在那一行上，很久没有动。TA把那行字选中，又取消，什么也"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 8 authored line preserved: ——ORIN对SISY的熟悉，早已超出同事；而那件没来得及送出去"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 8 authored line preserved: CASSIA：评价ORIN技术可靠，提醒“以后别把整个组的协调压"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 8 authored line preserved: ECHO：不懂技术，只在旁边问“这个能不能不改”。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 8 authored line preserved: NARCIS：看着ORIN，目光复杂，似乎想说什么，最后只丢下一"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 8 authored line preserved: METIS：记录文档的修改时间，对其中的异常时间点格外留意。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 8 authored line preserved: THANE：路过时听见那句“看过很多次”，脚步顿了一下，继续往前"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: CASSIA一页页翻过已归档目录，翻到X项目时停住了。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: CASSIA：这个版本号……不太对。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: METIS：（接过去，指尖在编号上轻点）最终版和归档版，差了一次"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: CASSIA：……我怎么知道。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: METIS：交接记录里没有这一环。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: CASSIA：那就是没人交。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: METIS：或者有人，不想让它出现在交接里。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: （CASSIA抬眼看了METIS很久。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: CASSIA：新来的，话别说太满。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: METIS：我只是问问。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: CASSIA：……你昨天也在看这个编号，别以为我没发现。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: METIS：那你为什么没说？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: CASSIA：我什么都没说，你也什么都没听到。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: （那份X项目的最终版边缘，有一行不属于任何程序规范的注释，像写给"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: ——是疏漏，还是有人刻意留下？两人都倾向后者，但谁也不肯先说出口"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: ECHO：嫌归档目录太乱，提议“反正都结项了，扔掉算了”，被CA"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: ORIN：在一旁处理技术对接，只扫了一眼归档箱，目光始终在另一个"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: NARCIS：路过时问“这个也要我签字？”，只关心流程，没有留意"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 9 authored line preserved: THANE：站在不远处搬箱子，视线却在CASSIA与METIS之"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 10 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 10 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 10 authored line preserved: 交材料时，老板指着名单上被划掉的名字。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 10 authored line preserved: 老板：ORIN九月三号就退出了。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 10 authored line preserved: NARCIS：对。那天它提交的模块出了个很低级的错，你们不觉得奇"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 10 authored line preserved: 老板：你知道得很清楚。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 10 authored line preserved: NARCIS：……我是候选人，当然要知道对手什么时候倒下。（笑了"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 10 authored line preserved: 老板：九月四号，你和SISY吵过一架。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 10 authored line preserved: NARCIS：（尾巴停了一下）那是私事。……我从没想过让谁出事，"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 10 authored line preserved: ORIN：是我自己的决定，和别人没关系。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 10 authored line preserved: 老板：你原本想做什么？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 10 authored line preserved: ORIN：（过了很久）下班，回家，吃饭，周末睡到自然醒。……不需"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 10 authored line preserved: （TA看向兔子的空座位。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 10 authored line preserved: ORIN：TA说过，想要有一天，什么都不用证明。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 10 authored line preserved: ECHO：替NARCIS说好话，“换谁都得选NARCIS”，没察"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 10 authored line preserved: CASSIA：对晋升毫无兴趣，嘴上说“当不当管理都一样”，眼睛却"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 10 authored line preserved: METIS：按流程整理名单，把ORIN退出与NARCIS递交材料"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 10 authored line preserved: THANE：笑着说“这次肯定是NARCIS”，目光却落在ORIN"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 11 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 11 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 11 authored line preserved: 清点到SISY抽屉最底层，是一本边角起毛的笔记本。ECHO嫌麻烦"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 11 authored line preserved: NARCIS翻开第一页，是工作清单，字迹工整；再往后，夹着一张社"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 11 authored line preserved: （NARCIS的指尖停在最后一页。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 11 authored line preserved: NARCIS：……我以为SISY拼命，是为了爬到我前面。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 11 authored line preserved: （没有人回答。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 11 authored line preserved: NARCIS：九月四号，我跟SISY说过，你们两个的事，我“不会"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 11 authored line preserved: （NARCIS把笔记本合上，捏得指节发白，随即松开，像在命令自己"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 11 authored line preserved: NARCIS：……这些都还给家属。继续吧。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 11 authored line preserved: （转身时，尾巴僵硬地垂在身后。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 11 authored line preserved: ORIN：认出SISY的几件旧物，悲伤而克制，只把一支旧笔握在手"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 11 authored line preserved: ECHO：着急清点完，把照片、文具和杂物一股脑塞进同一个箱子，完"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 11 authored line preserved: CASSIA：帮着打包，看到ORIN的反应后别过脸，什么也没说。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 11 authored line preserved: METIS：登记物品清单，留意哪些东西没有出现在警方的物证里。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 11 authored line preserved: THANE：主动把箱子搬去前台，放下时低声说了一句“该还的，都还"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 12 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 12 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 12 authored line preserved: ECHO：打开空白的HR统计表发了半天呆，才意识到“以前是SIS"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 12 authored line preserved: ORIN：只肯完成技术部分，把文件推回去说“别的，我不管”。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 12 authored line preserved: NARCIS：以新晋升者的身份接手统筹，两小时后发现每个人都在问"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 12 authored line preserved: CASSIA：翻出9.5的旧报告，指出“多部门协同完成”的背后，"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 12 authored line preserved: METIS：把各部门提交的文件逐一核对出处，发现几份数据的原始来"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 12 authored line preserved: THANE：在旁边“看似随意”地观察大家的反应，笑着说一句“ME"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 13 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 13 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 13 authored line preserved: ECHO翻着手机通讯录，一边划一边说话。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 13 authored line preserved: ECHO：招人哪有那么麻烦，我打几个电话就行了。NARCIS当初"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 13 authored line preserved: 老板：METIS呢？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 13 authored line preserved: ECHO：METIS……（翻了翻）哦对，是我爸说有个朋友的孩子想"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 13 authored line preserved: 老板：你父亲经常给你介绍人？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 13 authored line preserved: ECHO：（笑）我爸认识的人太多了嘛——做安保的，做企业的，什么"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 13 authored line preserved: （说完，自己愣了一下。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 13 authored line preserved: ECHO：……奇怪，我爸每次介绍人，好像都是我还没开口，他就先“"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 13 authored line preserved: （它摇了摇头，把这个念头甩开，继续翻通讯录。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 13 authored line preserved: ——APIS的人，为什么大多靠熟人进来。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 13 authored line preserved: NARCIS：对新人提出高要求，“能独立干活的，别再是塞进来混日"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 13 authored line preserved: METIS：被问起入职经历，淡淡一句“熟人介绍”，把话题带了过去"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 13 authored line preserved: ORIN：被要求参与技术面试，一直在看表，只想尽快结束。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 13 authored line preserved: CASSIA：对招聘毫无兴趣，只在被问到岗位要求时说了一句“最好"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 13 authored line preserved: THANE：表示愿意帮忙筛选简历，笑着说“熟人推荐的，靠谱”。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 14 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 14 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 14 authored line preserved: ORIN：对着SISY的空位把文件翻了两遍，最后推给NARCIS"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 14 authored line preserved: NARCIS：作为今晚的主角，和ECHO忙着确认订位，一旦话题碰"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 14 authored line preserved: ECHO：兴奋地打电话订位，一遍遍确认“今晚的主角别迟到”。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 14 authored line preserved: CASSIA：偷看THANE后迅速低头，把辞职申请改了最后一遍，"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 14 authored line preserved: METIS：把零散的时间线贴在屏幕后，圈出9月5日下午到傍晚的空"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 14 authored line preserved: THANE：笑着递给METIS一颗薄荷糖，嘱咐“别太累”；转身时"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: 这是SISY入职以来第一次，一整天，任务栏是空的。TA坐在靠边的"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: SISY：……我是不是该去问问ECHO，有没有什么能帮忙的？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: ORIN：（头也不抬）不用。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: SISY：你怎么知道我要说什么？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: ORIN：你每隔十分钟都要说一遍。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: SISY：……我只是不习惯。好像一停下来，就会被丢下。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: ORIN：（沉默了一会儿）不会。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: SISY：你怎么知道？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: ORIN：因为我在这。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: （SISY没有说话。过了一会儿，TA把手边那份想主动接过来的文件"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: ECHO对着HR统计表敲了五分钟，终于抬头看向SISY的座位——"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: ECHO：……好烦。SISY以前居然天天做这个？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: （它想开口求助，被ORIN淡淡的一眼拦了回去。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: ECHO：我自己做就是了嘛！……这表为什么有这么多栏？！"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: （这是它第一次对着“麻烦”本身抱怨，而不是对着“某个人”。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: NARCIS：整理晋升相关材料，经过SISY座位时没有再皱眉，只"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: CASSIA：对着旧项目版本表眉头紧锁，随口叫METIS“帮个忙"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: METIS：检查汇总资料，全程没靠近咖啡机，手边只有一杯白水。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 15 authored line preserved: THANE：路过时看见SISY的桌面第一次这么空，笑容没变，目光"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 authored line preserved: CASSIA把差异页拍在桌上，又立刻翻了过去。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 authored line preserved: CASSIA：已结项的X项目，上周还有版本记录。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 authored line preserved: METIS：谁改的？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 authored line preserved: CASSIA：改不改不重要，重要的是谁看过。（翻到访问记录）……"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 authored line preserved: METIS：……"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 authored line preserved: CASSIA：账号是SISY。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 authored line preserved: （两人同时看向不远处的SISY，它正低头喝水，专心得像个什么都不"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 authored line preserved: CASSIA：这孩子，什么都想自己查到底。（压低声音）所以才得有"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 authored line preserved: METIS：你的意思是——"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 authored line preserved: CASSIA：我什么意思都没有。（把文件合上）这份我来处理，别让"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 authored line preserved: ——危险不只是过劳：SISY碰过不该碰的东西。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 authored line preserved: SISY：想接着核对X项目，被CASSIA一句“这不是你的”挡了"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 authored line preserved: METIS：辨认可继续追踪的交接痕迹，在便签上写下一个编号，不暴"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 authored line preserved: ORIN：把技术积压悄悄揽到自己名下，对SISY说“你去喝水”。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 authored line preserved: ECHO：处理自己未完成的行政事务，拖拖拉拉，但这次没有再开口求"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 authored line preserved: NARCIS：仍想找SISY聊几句，欲言又止，在旁边徘徊。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 16 authored line preserved: THANE：观察SISY是否还在接触敏感资料；见CASSIA接手"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: SISY又在偷偷把积压里最重的一份拖到自己桌上。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: ORIN：（把文件拿回去）这份不行。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: SISY：我做得比你快。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: ORIN：我知道。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: SISY：那为什么——"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: ORIN：因为你做完这份，还会去拿下一份。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: （SISY张了张嘴，没有反驳。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: SISY：……你知道我以前是怎么活的吗？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: ORIN：知道。大学时你拿了第一名，转头说“这次运气好”，然后通"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: SISY：你记得这么清楚。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: ORIN：我一直在看。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: SISY：……可是我停不下来。好像我一放手，就什么都没有了。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: ORIN：（沉默片刻）那就放下一半。我替你拿着，你看着我拿。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: SISY：……就一半？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: ORIN：就一半。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: （SISY把文件放到ORIN桌上，视线却一直追着那份文件，像在看"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: ECHO：习惯性开口想找SISY，被任务边界拦住，改为埋头自己处"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: CASSIA：提醒几个旧项目不要再交给SISY核对，语气随意，态"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: NARCIS：在旁边帮忙消化积压，目光几次飘向SISY与ORIN"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: METIS：帮忙打印整理，不改变任何事件节点。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 17 authored line preserved: THANE：路过时看到SISY把文件交给ORIN，眼神里掠过一丝"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 18 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 18 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 18 authored line preserved: 老板把HR与行政整份交还给ECHO。这一次，没有“请SISY帮忙"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 18 authored line preserved: ECHO：入职手续、考勤、报销、体检……SISY以前一个人做的，"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 18 authored line preserved: 老板：嗯。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 18 authored line preserved: ECHO：（翻到第三页，声音低下去）我以前，一直以为那些表格是“"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 18 authored line preserved: （TA做到一半，习惯性地抬头看向SISY，SISY正低头做自己的"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 18 authored line preserved: ECHO：……（把手放下来，对着屏幕，慢慢敲下第一行字。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 18 authored line preserved: （一小时后，它第一次完整地提交了一份报销审批。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 18 authored line preserved: ECHO：（对着自己的屏幕，小声）……原来做完，是这种感觉。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 18 authored line preserved: ——阻断转嫁的方式，不是惩罚，而是让它发现“自己也做得到”。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 18 authored line preserved: SISY：想伸手帮忙，被ORIN按住，改为坐在一旁看着ECHO一"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 18 authored line preserved: ORIN：站在SISY身后，只说一句“让TA自己来”。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 18 authored line preserved: NARCIS：路过时嫌ECHO的格式乱，嘴上刻薄，却还是随手替它"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 18 authored line preserved: METIS：若被交付该任务，会指出审批线索，但不替ECHO填一个"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 18 authored line preserved: CASSIA：嘴上说“年轻人就该多干点”，转头把自己的零食分了一"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 18 authored line preserved: THANE：观察重新分配后各人的反应，看到ECHO的变化，露出一"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: 下午三点，ORIN与SISY交接技术协调。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: ORIN：接口文档我重新整理了一遍，每一项都标了负责人，以后找人"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: SISY：（翻着文档）……你什么时候写的？比我这个原作者还细。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: ORIN：昨晚。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: SISY：你昨晚不是说要早点睡吗？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: ORIN：（耳尖微红）……睡了。睡之前写的。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: SISY：（看到最后一页）“交接完成后，SISY每天最晚六点下班"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: ORIN：我。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: SISY：你凭什么？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: ORIN：（顿了顿）凭我想让你，有一天可以什么都不用扛。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: （SISY笑出了声，笑着笑着眼睛有点红。它把文档合上，轻声说：）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: SISY：那你写完，我们就走。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: ORIN：……嗯。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: ——让照顾发生在真实的工作里；ORIN离开APIS的动机逐步明朗"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: ECHO：刚开始自己做HR，经过时看见两人，难得没有起哄，只小声"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: NARCIS：瞥见两人并肩看文档，神色一暗，转身回座位，尾巴垂着"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: CASSIA：作为技术前辈翻了一遍ORIN的方案，点点头，“不错"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: METIS：静静看着两人，把“离开”这个词在本子上圈了一下。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 19 authored line preserved: THANE：路过时看到ORIN把SISY的下班时间写进文档，脚步"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 authored line preserved: CASSIA把X项目的归档箱搬到打印区背后，那里是监控的死角。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 authored line preserved: CASSIA：这几个编号，客户不同，经办人不同，模板却一模一样。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 authored line preserved: METIS：谁定的流程？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 authored line preserved: CASSIA：我哪知道……（停了停）知道的话，我还会坐在这儿摸鱼"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 authored line preserved: METIS：流转记录能调吗？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 authored line preserved: CASSIA：能。但不能从你的账号调。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 authored line preserved: METIS：明白。你找异常，我追链条。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 authored line preserved: CASSIA：……你这话，听着像个干这行的。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 authored line preserved: METIS：我只是爱追问。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 authored line preserved: （CASSIA盯着METIS看了很久，最终把一份标好编号的清单推"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 authored line preserved: CASSIA：看完就还给我。还有——别让SISY碰这个。它好奇起"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 authored line preserved: METIS：（把清单收进文件夹）我也是这么想的。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 authored line preserved: SISY：想上前帮忙，被ORIN拦住，只能远远看着，小声说“我就"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 authored line preserved: ORIN：一边处理技术交接，一边留意SISY有没有靠近归档区。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 authored line preserved: ECHO：路过时嫌归档箱占地方，被CASSIA一个眼神吓退。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 authored line preserved: NARCIS：对归档不感兴趣，只在经过时瞥了一眼那串编号，似乎觉"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 20 authored line preserved: THANE：在中心区看到CASSIA与METIS同时低头，笑着走"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 21 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 21 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 21 authored line preserved: 晋升名单的草稿放在ORIN桌上，最后一行写着它的名字——名单上本"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 21 authored line preserved: ORIN：我没有提交过申请。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 21 authored line preserved: SISY：老板说，是“公司觉得你合适”。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 21 authored line preserved: ORIN：我上周才跟老板提过，想谈离职的事。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 21 authored line preserved: SISY：（压低声音）所以他给你升职？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 21 authored line preserved: ORIN：……升了职，离职就要走更长的交接流程。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 21 authored line preserved: （两人对视了一眼，没有人把那个猜测说出口。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 21 authored line preserved: SISY：也许只是巧合。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 21 authored line preserved: ORIN：（把名单放回去）也许。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 21 authored line preserved: （TA没有签字，只是把那张纸放在桌角，像放着一块不想碰的石头。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 21 authored line preserved: NARCIS：反复核对自己的晋升材料，一页写歪就重打，心里笃定这"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 21 authored line preserved: ECHO：在NARCIS身边打气，“肯定是你”，说得比任何人都满"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 21 authored line preserved: CASSIA：按程序提交材料，对结果不抱期待，只留意着老板办公室"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 21 authored line preserved: METIS：整理名单，把“名单中途被改动”的时间记了下来。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 21 authored line preserved: THANE：笑着说“这次一定是NARCIS”，手里捏着一颗薄荷糖"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 authored line preserved: NARCIS在历史客户名录里翻到一行熟悉的名字，手停在半空。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 authored line preserved: NARCIS：……这家公司。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 authored line preserved: ECHO：怎么了？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 authored line preserved: NARCIS：（抽出那一页，对着光看）我爸以前的公司。（声音平得"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 authored line preserved: ECHO：你爸的公司？在我们这儿做过客户？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 authored line preserved: NARCIS：不可能。那家公司在我十几岁那年就垮了，所有人都说是"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 authored line preserved: ECHO：那……会不会只是同名？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 authored line preserved: NARCIS：同名，同地址，同一位联系人。（翻到下一份记录，指尖"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 authored line preserved: （TA把复印件折好，塞进内袋。）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 authored line preserved: NARCIS：这件事，别告诉任何人，包括老板。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 authored line preserved: ECHO：（愣愣地）……好。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 authored line preserved: ——NARCIS的个人过去，第一次与公司暗线连接。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 authored line preserved: CASSIA：知道这些旧档案不正常，提醒NARCIS“有些东西，"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 authored line preserved: METIS：趁机复印了一份与NARCIS相同的客户记录，CASS"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 authored line preserved: SISY：整理自己的人事材料时，看到某个眼熟的项目编号，想了半天"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 authored line preserved: ORIN：整理常规人事文件，没有察觉NARCIS的异样，心思都在"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 22 authored line preserved: THANE：在走廊里瞥见NARCIS手里的复印件，没有出声，只是"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 23 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 23 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 23 authored line preserved: SISY：习惯性想补缺，被ORIN一句“不用”拦住，缩回手时有点"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 23 authored line preserved: ORIN：晋升后的第一次站会被点名，答应得很勉强，转头看了SIS"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 23 authored line preserved: ECHO：自己做自己的那一份，虽然拖拉，却再没找过SISY。把交"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 23 authored line preserved: NARCIS：落选后主动远离老板座位，对报告敷衍了事，被ECHO"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 23 authored line preserved: CASSIA：对着归档流向表眯起眼睛，低声对METIS说“流向有"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 23 authored line preserved: METIS：点点头，“和X有关”，把数据传输的时间标在自己的本子"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 23 authored line preserved: THANE：站在老板办公区附近，注意到CASSIA与METIS的"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 authored line preserved: ECHO对着岗位描述打字，念着念着，自己都愣了。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 authored line preserved: ECHO：行政协调、项目资料整理、老板日程对接、跨部门沟通……老"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 authored line preserved: METIS：（在旁边翻着文档属性）这份JD，创建时间是上周五。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 authored line preserved: ECHO：……上周五？老板昨天才跟我说要招人呀。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 authored line preserved: METIS：可能是模板。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 authored line preserved: ECHO：对对，肯定是模板。（笑了笑，笑得不太稳）"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 authored line preserved: CASSIA：（路过，随口）咱们现在，有那么缺人吗？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 authored line preserved: ECHO：……没有吧，SISY不是还在这儿吗？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 authored line preserved: （话说出口，ECHO自己先停住了。它看着岗位描述的最后一行：“能"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 authored line preserved: ECHO：……奇怪，这个“现有岗位”，到底是谁？"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 authored line preserved: （没有人回答。METIS在笔记上写下了一个时间，CASSIA把零"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 authored line preserved: METIS：察觉岗位替代意图，记录招聘通知与JD创建时间的差。"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 authored line preserved: CASSIA：指出现有人手并不紧缺，半真半假地叹气，“我看是缺活"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 authored line preserved: SISY：在ORIN身边做着少量的收尾工作，听到招聘时抬头看了一"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 authored line preserved: ORIN：晋升后被频繁叫去对接，对招聘毫不关心，只是下意识看了S"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 authored line preserved: NARCIS：落选后语气偏冷，问“新人谁带”，听到岗位描述时眼神"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 24 authored line preserved: THANE：守在老板办公区附近，注意METIS的动向，看到TA记"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 25 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 25 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 25 authored line preserved: SISY：对着X项目版本表皱眉，发现自己上周核对过的数值已经被改"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 25 authored line preserved: CASSIA：低声说“这不是出错，是有人在改”，整理好技术层面的"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 25 authored line preserved: METIS：把证据整理成时间线，只放在自己能随时带走的地方，今天"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 25 authored line preserved: NARCIS：对着旧合作记录看了很久，指尖在父亲旧公司的名字上停"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 25 authored line preserved: ORIN：隔着两个座位始终看着SISY，只说了一句“今晚，我陪你"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 25 authored line preserved: THANE：路过SISY时脚步放慢，张了张嘴，什么也没说，只把一"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 25 authored line preserved: ECHO：察觉每个人都怪怪的，嘟囔“你们今天怎么都不理我”，依旧"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 26 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 26 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 27 exact task title"
+    },
+    {
+      "passed": true,
+      "check": "B1 row 27 no internal question in UI description"
+    },
+    {
+      "passed": true,
+      "check": "B2_L1_D1 complete fixed-event original retained"
+    },
+    {
+      "passed": true,
+      "check": "B2_L1_D1 full original bound to existing comic, no deleted prose"
+    },
+    {
+      "passed": true,
+      "check": "B2_L1_D2 complete fixed-event original retained"
+    },
+    {
+      "passed": true,
+      "check": "B2_L1_D2 full original bound to existing comic, no deleted prose"
+    },
+    {
+      "passed": true,
+      "check": "B2_L1_D4 complete fixed-event original retained"
+    },
+    {
+      "passed": true,
+      "check": "B2_L1_D4 full original bound to existing comic, no deleted prose"
+    },
+    {
+      "passed": true,
+      "check": "B2_L1_D6 complete fixed-event original retained"
+    },
+    {
+      "passed": true,
+      "check": "B2_L1_D7 complete fixed-event original retained"
+    },
+    {
+      "passed": true,
+      "check": "B2_L2_D1 complete fixed-event original retained"
+    },
+    {
+      "passed": true,
+      "check": "B2_L2_D2 complete fixed-event original retained"
+    },
+    {
+      "passed": true,
+      "check": "B2_L2_D4 complete fixed-event original retained"
+    },
+    {
+      "passed": true,
+      "check": "B2_L2_D6 complete fixed-event original retained"
+    },
+    {
+      "passed": true,
+      "check": "B2_L2_D7 complete fixed-event original retained"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 8 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 8 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 8 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 8 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 8 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 8 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 8 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 4 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 8 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "B1 internal column 6 not bound to public text"
+    },
+    {
+      "passed": true,
+      "check": "Only authored ORIN inquiry is fixed"
+    },
+    {
+      "passed": true,
+      "check": "Both no-B1 Day7 records retained as data only"
+    },
+    {
+      "passed": true,
+      "check": "A1 latest table unchanged: all rules/presence/start positions identical"
+    },
+    {
+      "passed": true,
+      "check": "Preserved existing presentation: Assets/Scripts/DDay/HEEndingPlayer.cs"
+    },
+    {
+      "passed": true,
+      "check": "Preserved existing presentation: Assets/Scripts/DDay/HEEndingConfig.cs"
+    },
+    {
+      "passed": true,
+      "check": "Preserved existing presentation: Assets/Scripts/DDay/EndingSubtitles.cs"
+    },
+    {
+      "passed": true,
+      "check": "Preserved existing presentation: Assets/Scripts/DDay/DDayFinalDecisionUI.cs"
+    },
+    {
+      "passed": true,
+      "check": "Preserved existing presentation: Assets/Resources/DDay/ComicPresentation.json"
+    },
+    {
+      "passed": true,
+      "check": "Unchanged comic image/focus/effects configuration Day1"
+    },
+    {
+      "passed": true,
+      "check": "Unchanged comic image/focus/effects configuration Day2"
+    },
+    {
+      "passed": true,
+      "check": "Unchanged comic image/focus/effects configuration Day4"
+    },
+    {
+      "passed": true,
+      "check": "Unchanged comic image/focus/effects configuration Day6"
+    }
+  ],
+  "mappings": [
+    {
+      "system": "A2",
+      "row": 4,
+      "id": "A2_R04",
+      "loop": 1,
+      "window": [
+        1,
+        1
+      ],
+      "condition": "adjacent",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 5,
+      "id": "A2_R05",
+      "loop": 1,
+      "window": [
+        1,
+        1
+      ],
+      "condition": "adjacent",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 6,
+      "id": "A2_R06",
+      "loop": 1,
+      "window": [
+        1,
+        1
+      ],
+      "condition": "center",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 7,
+      "id": "A2_R07",
+      "loop": 1,
+      "window": [
+        1,
+        1
+      ],
+      "condition": "seat_b3",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 8,
+      "id": "A2_R08",
+      "loop": 1,
+      "window": [
+        2,
+        2
+      ],
+      "condition": "edge_not_b3",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 9,
+      "id": "A2_R09",
+      "loop": 1,
+      "window": [
+        2,
+        3
+      ],
+      "condition": "printer",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 10,
+      "id": "A2_R10",
+      "loop": 1,
+      "window": [
+        3,
+        3
+      ],
+      "condition": "adjacent",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 11,
+      "id": "A2_R11",
+      "loop": 1,
+      "window": [
+        3,
+        3
+      ],
+      "condition": "boss",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 12,
+      "id": "A2_R12",
+      "loop": 1,
+      "window": [
+        4,
+        4
+      ],
+      "condition": "desk",
+      "requiredEvent": "",
+      "recordSupplement": true
+    },
+    {
+      "system": "A2",
+      "row": 13,
+      "id": "A2_R13",
+      "loop": 1,
+      "window": [
+        4,
+        4
+      ],
+      "condition": "boss",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 14,
+      "id": "A2_R14",
+      "loop": 1,
+      "window": [
+        4,
+        5
+      ],
+      "condition": "desk",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 15,
+      "id": "A2_R15",
+      "loop": 1,
+      "window": [
+        5,
+        5
+      ],
+      "condition": "adjacent",
+      "requiredEvent": "B2_L1_D4",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 16,
+      "id": "A2_R16",
+      "loop": 1,
+      "window": [
+        5,
+        5
+      ],
+      "condition": "desk",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 17,
+      "id": "A2_R17",
+      "loop": 1,
+      "window": [
+        5,
+        6
+      ],
+      "condition": "lounge",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 18,
+      "id": "A2_R18",
+      "loop": 1,
+      "window": [
+        6,
+        6
+      ],
+      "condition": "desk_or_lounge",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 19,
+      "id": "A2_R19",
+      "loop": 1,
+      "window": [
+        6,
+        6
+      ],
+      "condition": "near",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 20,
+      "id": "A2_R20",
+      "loop": 2,
+      "window": [
+        1,
+        1
+      ],
+      "condition": "adjacent",
+      "requiredEvent": "",
+      "recordSupplement": true
+    },
+    {
+      "system": "A2",
+      "row": 21,
+      "id": "A2_R21",
+      "loop": 2,
+      "window": [
+        1,
+        1
+      ],
+      "condition": "adjacent",
+      "requiredEvent": "",
+      "recordSupplement": true
+    },
+    {
+      "system": "A2",
+      "row": 22,
+      "id": "A2_R22",
+      "loop": 2,
+      "window": [
+        1,
+        1
+      ],
+      "condition": "not_adjacent_no_sisy_task",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 23,
+      "id": "A2_R23",
+      "loop": 2,
+      "window": [
+        1,
+        1
+      ],
+      "condition": "not_coffee",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 24,
+      "id": "A2_R24",
+      "loop": 2,
+      "window": [
+        2,
+        2
+      ],
+      "condition": "adjacent",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 25,
+      "id": "A2_R25",
+      "loop": 2,
+      "window": [
+        2,
+        2
+      ],
+      "condition": "printer",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 26,
+      "id": "A2_R26",
+      "loop": 2,
+      "window": [
+        2,
+        3
+      ],
+      "condition": "either_boss",
+      "requiredEvent": "B2_L2_D2",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 27,
+      "id": "A2_R27",
+      "loop": 2,
+      "window": [
+        3,
+        3
+      ],
+      "condition": "adjacent",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 28,
+      "id": "A2_R28",
+      "loop": 2,
+      "window": [
+        3,
+        3
+      ],
+      "condition": "adjacent_or_printer",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 29,
+      "id": "A2_R29",
+      "loop": 2,
+      "window": [
+        5,
+        5
+      ],
+      "condition": "after_promotion",
+      "requiredEvent": "B2_L2_D4",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 30,
+      "id": "A2_R30",
+      "loop": 2,
+      "window": [
+        4,
+        5
+      ],
+      "condition": "printer",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 31,
+      "id": "A2_R31",
+      "loop": 2,
+      "window": [
+        4,
+        5
+      ],
+      "condition": "desk",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 32,
+      "id": "A2_R32",
+      "loop": 2,
+      "window": [
+        5,
+        5
+      ],
+      "condition": "boss",
+      "requiredEvent": "B2_L2_D4",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 33,
+      "id": "A2_R33",
+      "loop": 2,
+      "window": [
+        5,
+        5
+      ],
+      "condition": "desk",
+      "requiredEvent": "B2_L2_D4",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 34,
+      "id": "A2_R34",
+      "loop": 2,
+      "window": [
+        5,
+        5
+      ],
+      "condition": "bear_center",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 35,
+      "id": "A2_R35",
+      "loop": 2,
+      "window": [
+        5,
+        6
+      ],
+      "condition": "adjacent",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 36,
+      "id": "A2_R36",
+      "loop": 2,
+      "window": [
+        6,
+        6
+      ],
+      "condition": "desk_x_prereq",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 37,
+      "id": "A2_R37",
+      "loop": 2,
+      "window": [
+        6,
+        6
+      ],
+      "condition": "adjacent",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 38,
+      "id": "A2_R38",
+      "loop": 2,
+      "window": [
+        6,
+        6
+      ],
+      "condition": "adjacent",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 39,
+      "id": "A2_R39",
+      "loop": 0,
+      "window": [
+        1,
+        5
+      ],
+      "condition": "adjacent_or_lounge",
+      "requiredEvent": "",
+      "recordSupplement": true
+    },
+    {
+      "system": "A2",
+      "row": 40,
+      "id": "A2_R40",
+      "loop": 0,
+      "window": [
+        1,
+        5
+      ],
+      "condition": "lounge",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 41,
+      "id": "A2_R41",
+      "loop": 0,
+      "window": [
+        1,
+        5
+      ],
+      "condition": "desk",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 42,
+      "id": "A2_R42",
+      "loop": 0,
+      "window": [
+        1,
+        5
+      ],
+      "condition": "desk",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "A2",
+      "row": 43,
+      "id": "A2_R43",
+      "loop": 0,
+      "window": [
+        1,
+        5
+      ],
+      "condition": "center_or_desk",
+      "requiredEvent": "",
+      "recordSupplement": false
+    },
+    {
+      "system": "B1",
+      "row": 4,
+      "id": "report",
+      "loop": 1,
+      "day": 1,
+      "fixed": false,
+      "owners": [
+        "rabbit",
+        "shiba",
+        "bear",
+        "wolf",
+        "fox",
+        "panda",
+        "cat"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 5,
+      "id": "legacy",
+      "loop": 1,
+      "day": 2,
+      "fixed": false,
+      "owners": [
+        "panda",
+        "shiba",
+        "wolf",
+        "fox",
+        "cat",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 6,
+      "id": "orin_inquiry",
+      "loop": 1,
+      "day": 2,
+      "fixed": true,
+      "owners": [
+        "wolf"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 7,
+      "id": "hr",
+      "loop": 1,
+      "day": 3,
+      "fixed": false,
+      "owners": [
+        "shiba",
+        "wolf",
+        "fox",
+        "panda",
+        "cat",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 8,
+      "id": "coordination",
+      "loop": 1,
+      "day": 3,
+      "fixed": false,
+      "owners": [
+        "wolf",
+        "panda",
+        "shiba",
+        "fox",
+        "cat",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 9,
+      "id": "archive",
+      "loop": 1,
+      "day": 3,
+      "fixed": false,
+      "owners": [
+        "cat",
+        "panda",
+        "shiba",
+        "wolf",
+        "fox",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 10,
+      "id": "promotion",
+      "loop": 1,
+      "day": 4,
+      "fixed": false,
+      "owners": [
+        "fox",
+        "wolf",
+        "shiba",
+        "panda",
+        "cat",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 11,
+      "id": "belongings",
+      "loop": 1,
+      "day": 4,
+      "fixed": false,
+      "owners": [
+        "fox",
+        "wolf",
+        "shiba",
+        "panda",
+        "cat",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 12,
+      "id": "revised_report",
+      "loop": 1,
+      "day": 5,
+      "fixed": false,
+      "owners": [
+        "shiba",
+        "wolf",
+        "fox",
+        "panda",
+        "cat",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 13,
+      "id": "recruitment",
+      "loop": 1,
+      "day": 5,
+      "fixed": false,
+      "owners": [
+        "shiba",
+        "fox",
+        "cat",
+        "wolf",
+        "panda",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 14,
+      "id": "day6_wrap",
+      "loop": 1,
+      "day": 6,
+      "fixed": false,
+      "owners": [
+        "wolf",
+        "fox",
+        "shiba",
+        "panda",
+        "cat",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 15,
+      "id": "report",
+      "loop": 2,
+      "day": 1,
+      "fixed": false,
+      "owners": [
+        "rabbit",
+        "rabbit",
+        "wolf",
+        "shiba",
+        "fox",
+        "panda",
+        "cat",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 16,
+      "id": "unfinished",
+      "loop": 2,
+      "day": 2,
+      "fixed": false,
+      "owners": [
+        "panda",
+        "rabbit",
+        "cat",
+        "wolf",
+        "shiba",
+        "fox",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 17,
+      "id": "backlog",
+      "loop": 2,
+      "day": 2,
+      "fixed": false,
+      "owners": [
+        "rabbit",
+        "wolf",
+        "shiba",
+        "panda",
+        "fox",
+        "cat",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 18,
+      "id": "hr",
+      "loop": 2,
+      "day": 3,
+      "fixed": false,
+      "owners": [
+        "shiba",
+        "rabbit",
+        "wolf",
+        "fox",
+        "cat",
+        "panda",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 19,
+      "id": "coordination",
+      "loop": 2,
+      "day": 3,
+      "fixed": false,
+      "owners": [
+        "rabbit",
+        "wolf",
+        "shiba",
+        "fox",
+        "panda",
+        "cat",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 20,
+      "id": "archive",
+      "loop": 2,
+      "day": 3,
+      "fixed": false,
+      "owners": [
+        "cat",
+        "panda",
+        "rabbit",
+        "wolf",
+        "shiba",
+        "fox",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 21,
+      "id": "promotion",
+      "loop": 2,
+      "day": 4,
+      "fixed": false,
+      "owners": [
+        "rabbit",
+        "wolf",
+        "fox",
+        "shiba",
+        "panda",
+        "cat",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 22,
+      "id": "history",
+      "loop": 2,
+      "day": 4,
+      "fixed": false,
+      "owners": [
+        "fox",
+        "panda",
+        "cat",
+        "rabbit",
+        "wolf",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 23,
+      "id": "revised_report",
+      "loop": 2,
+      "day": 5,
+      "fixed": false,
+      "owners": [
+        "rabbit",
+        "wolf",
+        "shiba",
+        "fox",
+        "panda",
+        "cat",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 24,
+      "id": "recruitment",
+      "loop": 2,
+      "day": 5,
+      "fixed": false,
+      "owners": [
+        "shiba",
+        "cat",
+        "panda",
+        "rabbit",
+        "wolf",
+        "fox",
+        "bear"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 25,
+      "id": "day6_wrap",
+      "loop": 2,
+      "day": 6,
+      "fixed": false,
+      "owners": [
+        "rabbit",
+        "panda",
+        "cat",
+        "fox",
+        "wolf",
+        "bear",
+        "shiba"
+      ]
+    },
+    {
+      "system": "B1",
+      "row": 26,
+      "id": "no_b1",
+      "loop": 1,
+      "day": 7,
+      "fixed": false,
+      "owners": []
+    },
+    {
+      "system": "B1",
+      "row": 27,
+      "id": "no_b1",
+      "loop": 2,
+      "day": 7,
+      "fixed": false,
+      "owners": []
+    },
+    {
+      "system": "B2",
+      "row": 4,
+      "id": "B2_L1_D1",
+      "loop": 1,
+      "day": 1
+    },
+    {
+      "system": "B2",
+      "row": 5,
+      "id": "B2_L1_D2",
+      "loop": 1,
+      "day": 2
+    },
+    {
+      "system": "B2",
+      "row": 6,
+      "id": "B2_L1_D4",
+      "loop": 1,
+      "day": 4
+    },
+    {
+      "system": "B2",
+      "row": 7,
+      "id": "B2_L1_D6",
+      "loop": 1,
+      "day": 6
+    },
+    {
+      "system": "B2",
+      "row": 8,
+      "id": "B2_L1_D7",
+      "loop": 1,
+      "day": 7
+    },
+    {
+      "system": "B2",
+      "row": 9,
+      "id": "B2_L2_D1",
+      "loop": 2,
+      "day": 1
+    },
+    {
+      "system": "B2",
+      "row": 10,
+      "id": "B2_L2_D2",
+      "loop": 2,
+      "day": 2
+    },
+    {
+      "system": "B2",
+      "row": 11,
+      "id": "B2_L2_D4",
+      "loop": 2,
+      "day": 4
+    },
+    {
+      "system": "B2",
+      "row": 12,
+      "id": "B2_L2_D6",
+      "loop": 2,
+      "day": 6
+    },
+    {
+      "system": "B2",
+      "row": 13,
+      "id": "B2_L2_D7",
+      "loop": 2,
+      "day": 7
+    }
+  ],
+  "missingAuthoredOwnerBranches": [
+    {
+      "row": 22,
+      "owner": "shiba",
+      "fallback": "已完成分配的工作。"
+    }
+  ],
+  "modifiedBackedUpFiles": [
+    "Assets/Scripts/DDay/DDayABConfig.cs",
+    "Assets/Scripts/DDay/DDayCampaign.cs",
+    "Assets/Scripts/DDay/DDayComicPage.cs",
+    "Assets/Scripts/DDay/DDayDialogue.cs",
+    "Assets/Scripts/DDay/DDayGame.cs",
+    "Assets/Scripts/DDay/DDaySeatExploration.cs",
+    "Assets/Scripts/DDay/DDayUI.cs",
+    "Assets/Resources/DDay/ABConfig.json",
+    "Assets/Resources/DDay/DialoguePresentation.json",
+    "Tools/dday_ab_export.py"
+  ]
+}

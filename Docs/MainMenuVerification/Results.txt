@@ -1,0 +1,79 @@
+PASS
+Authored scene/prefab and real Play Mode UI rendered at three 16:9 sizes. UGUI event dispatch tested; physical mouse/Windows quit not claimed.
+PASS | Existing scene has bound APIS menu canvas
+PASS | Exactly one menu canvas/controller
+PASS | Continue disabled without save
+PASS | Exactly four menu buttons with no credits placeholder
+PASS | Old top title and credits object removed
+PASS | Original handwritten logo bound in existing prefab and scene
+PASS | Logo preserves aspect and cannot intercept button clicks
+PASS | Logo finishes its unscaled .8 second fade
+PASS | Independent TMP button 开始游戏
+PASS | Sprite Swap states 开始游戏
+PASS | Independent TMP button 继续游戏
+PASS | Sprite Swap states 继续游戏
+PASS | Independent TMP button 设置
+PASS | Sprite Swap states 设置
+PASS | Independent TMP button 退出游戏
+PASS | Sprite Swap states 退出游戏
+PASS | Real Game View (1920, 1080) actual=1920x1080
+PASS | No TMP clipping (1920, 1080) 开始游戏
+PASS | Chinese glyphs present 开始游戏
+PASS | No TMP clipping (1920, 1080) 继续游戏
+PASS | Chinese glyphs present 继续游戏
+PASS | No TMP clipping (1920, 1080) 设置
+PASS | Chinese glyphs present 设置
+PASS | No TMP clipping (1920, 1080) 退出游戏
+PASS | Chinese glyphs present 退出游戏
+PASS | Aspect-preserved full screen without exposed edges (1920, 1080)
+PASS | Background aspect preserved (1920, 1080)
+PASS | Complete logo inside viewport (1920, 1080)
+PASS | Logo ratio unchanged (1920, 1080)
+PASS | Logo occupies twenty percent of screen width (1920, 1080)
+PASS | Logo and last paper button do not overlap (1920, 1080)
+PASS | Keyboard navigation contains four live buttons only
+PASS | Real Game View (1600, 900) actual=1600x900
+PASS | No TMP clipping (1600, 900) 开始游戏
+PASS | Chinese glyphs present 开始游戏
+PASS | No TMP clipping (1600, 900) 继续游戏
+PASS | Chinese glyphs present 继续游戏
+PASS | No TMP clipping (1600, 900) 设置
+PASS | Chinese glyphs present 设置
+PASS | No TMP clipping (1600, 900) 退出游戏
+PASS | Chinese glyphs present 退出游戏
+PASS | Aspect-preserved full screen without exposed edges (1600, 900)
+PASS | Background aspect preserved (1600, 900)
+PASS | Complete logo inside viewport (1600, 900)
+PASS | Logo ratio unchanged (1600, 900)
+PASS | Logo occupies twenty percent of screen width (1600, 900)
+PASS | Logo and last paper button do not overlap (1600, 900)
+PASS | Keyboard navigation contains four live buttons only
+PASS | Real Game View (1280, 720) actual=1280x720
+PASS | No TMP clipping (1280, 720) 开始游戏
+PASS | Chinese glyphs present 开始游戏
+PASS | No TMP clipping (1280, 720) 继续游戏
+PASS | Chinese glyphs present 继续游戏
+PASS | No TMP clipping (1280, 720) 设置
+PASS | Chinese glyphs present 设置
+PASS | No TMP clipping (1280, 720) 退出游戏
+PASS | Chinese glyphs present 退出游戏
+PASS | Aspect-preserved full screen without exposed edges (1280, 720)
+PASS | Background aspect preserved (1280, 720)
+PASS | Complete logo inside viewport (1280, 720)
+PASS | Logo ratio unchanged (1280, 720)
+PASS | Logo occupies twenty percent of screen width (1280, 720)
+PASS | Logo and last paper button do not overlap (1280, 720)
+PASS | Keyboard navigation contains four live buttons only
+PASS | Hover reaches 1.04 using unscaled animation
+PASS | Hover swaps actual PNG
+PASS | Hover has no repeated click SFX
+PASS | Press reaches .97 at timeScale zero
+PASS | Press swaps actual PNG
+PASS | Exit restores paper size
+PASS | Start disables duplicate clicks and waits for transition
+PASS | Unscaled .8s transition calls original StartGame
+PASS | One click sound for double-click guarded entry
+PASS | Continue calls original load with saved loop/day
+PASS | Continue preserves collected record data
+PASS | Quit callback leaves save intact (Application.Quit is ignored in Editor; Windows close needs standalone test)
+PASS | Settings reuses existing settings and hides menu click targets

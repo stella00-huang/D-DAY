@@ -1,0 +1,245 @@
+{
+  "eventId": "B2_L1_D2",
+  "presentationId": "Day2PageV1",
+  "resource": "DDay/Story/Day2/Day2ComicPage",
+  "width": 1536,
+  "height": 1024,
+  "legacyLinePanels": [
+    0,
+    3,
+    6,
+    4
+  ],
+  "panels": [
+    {
+      "id": "Day2_P01_police",
+      "outline": [
+        {
+          "x": 12,
+          "y": 11
+        },
+        {
+          "x": 495,
+          "y": 11
+        },
+        {
+          "x": 495,
+          "y": 304
+        },
+        {
+          "x": 12,
+          "y": 304
+        }
+      ],
+      "focus": {
+        "x": 276,
+        "y": 90,
+        "width": 213,
+        "height": 212
+      },
+      "focusOnly": false,
+      "effect": "cool",
+      "ambience": "rain",
+      "sound": "",
+      "narration": "9月8日。警方已向 ORIN 了解情况。面对有关 SISY 的询问，他终于承认了两人的恋情。"
+    },
+    {
+      "id": "Day2_P02_boss_interview",
+      "outline": [
+        {
+          "x": 516,
+          "y": 11
+        },
+        {
+          "x": 1102,
+          "y": 11
+        },
+        {
+          "x": 1102,
+          "y": 304
+        },
+        {
+          "x": 516,
+          "y": 304
+        }
+      ],
+      "focus": {
+        "x": 915,
+        "y": 111,
+        "width": 182,
+        "height": 190
+      },
+      "focusOnly": false,
+      "effect": "push",
+      "ambience": "",
+      "sound": "",
+      "narration": "随后，老板又单独找 ORIN 了解情况。有关 SISY 的事情，他已经没有继续隐瞒的必要了。"
+    },
+    {
+      "id": "Day2_P03_memory",
+      "outline": [
+        {
+          "x": 1120,
+          "y": 11
+        },
+        {
+          "x": 1523,
+          "y": 11
+        },
+        {
+          "x": 1523,
+          "y": 304
+        },
+        {
+          "x": 1120,
+          "y": 304
+        }
+      ],
+      "focus": {
+        "x": 1290,
+        "y": 15,
+        "width": 225,
+        "height": 281
+      },
+      "focusOnly": false,
+      "effect": "memory",
+      "ambience": "",
+      "sound": "",
+      "narration": "在与老板谈话后，ORIN 和 SISY 的恋情终于公开。可惜，这份迟来的坦白，SISY 再也听不到了。",
+      "accent": {
+        "x": 1126,
+        "y": 28,
+        "width": 167,
+        "height": 233
+      }
+    },
+    {
+      "id": "Day2_P04_comfort",
+      "outline": [
+        {
+          "x": 13,
+          "y": 325
+        },
+        {
+          "x": 769,
+          "y": 325
+        },
+        {
+          "x": 698,
+          "y": 634
+        },
+        {
+          "x": 13,
+          "y": 634
+        }
+      ],
+      "focus": {
+        "x": 50,
+        "y": 344,
+        "width": 677,
+        "height": 287
+      },
+      "focusOnly": false,
+      "effect": "push",
+      "ambience": "crowd",
+      "sound": "",
+      "narration": "ORIN 走出办公室后，同事们纷纷上前安慰。其实大多数人早已察觉这段恋情，此刻却仍装作第一次听说。"
+    },
+    {
+      "id": "Day2_P05_tomorrow_work",
+      "outline": [
+        {
+          "x": 789,
+          "y": 325
+        },
+        {
+          "x": 1523,
+          "y": 325
+        },
+        {
+          "x": 1523,
+          "y": 634
+        },
+        {
+          "x": 718,
+          "y": 634
+        }
+      ],
+      "focus": {
+        "x": 877,
+        "y": 340,
+        "width": 552,
+        "height": 291
+      },
+      "focusOnly": false,
+      "effect": "push",
+      "ambience": "",
+      "sound": "paper",
+      "narration": "老板随后通知所有人：从明天起，SISY 原本负责的工作将重新分摊，大家提前做好准备。"
+    },
+    {
+      "id": "Day2_P06_sadness",
+      "outline": [
+        {
+          "x": 15,
+          "y": 655
+        },
+        {
+          "x": 885,
+          "y": 655
+        },
+        {
+          "x": 839,
+          "y": 1008
+        },
+        {
+          "x": 15,
+          "y": 1008
+        }
+      ],
+      "focus": {
+        "x": 31,
+        "y": 708,
+        "width": 803,
+        "height": 291
+      },
+      "focusOnly": false,
+      "effect": "somber",
+      "ambience": "",
+      "sound": "",
+      "narration": "失去 SISY 的悲伤尚未散去，新的工作安排又让办公室陷入沉默。大家都意识到，她曾承担了多少工作。"
+    },
+    {
+      "id": "Day2_P07_echo_pressure",
+      "outline": [
+        {
+          "x": 906,
+          "y": 655
+        },
+        {
+          "x": 1523,
+          "y": 655
+        },
+        {
+          "x": 1523,
+          "y": 1008
+        },
+        {
+          "x": 861,
+          "y": 1008
+        }
+      ],
+      "focus": {
+        "x": 1175,
+        "y": 662,
+        "width": 265,
+        "height": 297
+      },
+      "focusOnly": false,
+      "effect": "push",
+      "ambience": "",
+      "sound": "paper",
+      "narration": "只有 ECHO，是真的直到今天才知道 ORIN 与 SISY 的恋情。而想到那些过去交给 SISY 处理的工作可能重新落到自己身上，它更感到压力巨大。"
+    }
+  ]
+}

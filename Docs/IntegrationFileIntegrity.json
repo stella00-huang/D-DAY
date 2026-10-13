@@ -1,0 +1,22 @@
+{
+  "audioOriginalHashes": "PASS",
+  "flacPCM": "PASS (sample equality checked during conversion)",
+  "menuOriginalHashes": "PASS",
+  "deletedOriginalFiles": [],
+  "changedOriginalFiles": [
+    "Assets/Scenes/TodayWhereToSit.unity",
+    "Assets/Scripts/DDay/HEEndingConfig.cs",
+    "Assets/Scripts/DDay/DDayUI.cs",
+    "Assets/Editor/HEEndingAuthoring.cs",
+    "Assets/Scripts/DDay/DDayComicPage.cs",
+    "Assets/Editor/HEEndingVerification.cs",
+    "Assets/Scripts/DDay/DDayGame.cs",
+    "Assets/Scripts/DDay/DDayCampaign.cs",
+    "Assets/Scripts/DDay/HEEndingPlayer.cs",
+    "Assets/Scripts/DDay/DDayFinalDecisionUI.cs",
+    "Assets/Scripts/DDay/DDayOfficeHud.cs",
+    "Assets/Editor/DDayFinalDecisionVerification.cs",
+    "Assets/Resources/DDay/Endings/HE/HEEndingConfig.asset",
+    "Assets/Scripts/DDay/DDaySettings.cs"
+  ]
+}

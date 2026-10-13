@@ -1,0 +1,143 @@
+PASS
+Real Day1 through B2 to Day2 passed. UI callbacks/rendering tested; native physical mouse not claimed.
+PASS | Scene binds one configured tutorial controller
+PASS | No duplicate controller
+PASS | Tutorial stage T00
+PASS | Start menu enters formal Day1 directly
+PASS | Teaching does not grant records or owners
+PASS | No text overflow in 01_Opening_1280x720: 
+SCREENSHOT | 01_Opening_1280x720
+PASS | Rapid double advance only moves one teaching sentence
+PASS | Real dialogue/profile gate can advance T00
+PASS | GameView Space reveals then advances shared SISY dialogue
+PASS | Real dialogue/profile gate can advance T01
+PASS | Employee operation cannot be skipped with Space/Continue
+PASS | Space cannot replace the required public-profile operation
+PASS | One actual public profile suffices; employee red dot state recorded
+PASS | Continue restores employee step and viewed red dot
+PASS | No text overflow in 02_Employees_1280x720: 
+SCREENSHOT | 02_Employees_1280x720
+PASS | Real dialogue/profile gate can advance T02
+PASS | Real dialogue/profile gate can advance T03
+PASS | Tutorial stage T03a
+PASS | No text overflow in 03_DragInstructions_1280x720: 
+SCREENSHOT | 03_DragInstructions_1280x720
+PASS | Operation speech uses the official bottom dialogue: T03a
+PASS | Reading speech does not complete actual operation: T03a
+PASS | After retracting speech, demonstration still requires a real drag
+PASS | Formal fixed B3 remains locked
+PASS | Invalid drop leaves demo incomplete and seat unchanged
+PASS | Non-edge legal placement keeps teaching gate unsatisfied
+PASS | No text overflow in 03_DragTargets_1280x720: 
+SCREENSHOT | 03_DragTargets_1280x720
+PASS | Tutorial stage T03b
+PASS | Operation speech uses the official bottom dialogue: T03b
+PASS | Reading speech does not complete actual operation: T03b
+PASS | Free seating removes forced world input restrictions
+PASS | Unmet formal A1 blocks B1 and work
+PASS | Continue restores completed drag and free seating
+PASS | No text overflow in 04_FreeSeats_1280x720: 
+SCREENSHOT | 04_FreeSeats_1280x720
+PASS | Actual A2 bubble remains available before A1 solved
+PASS | A2 owns its dialogue; tutorial hides and awards nothing on opening
+PASS | Actual A2 completion records the first discovery exactly once
+PASS | Real A2 claim still deduplicates
+PASS | No text overflow in 05_ActualDiscovery_1280x720: 
+SCREENSHOT | 05_ActualDiscovery_1280x720
+PASS | Early optional book browsing cannot replace the required post-task visit
+PASS | Formal Day1 still has 44 exhaustive solutions
+PASS | Real swaps/empty-seat moves satisfy every Day1 rule
+PASS | Tutorial stage T04
+PASS | No text overflow in 06_AssignHint_1280x720: 
+SCREENSHOT | 06_AssignHint_1280x720
+PASS | Operation speech uses the official bottom dialogue: T04
+PASS | Reading speech does not complete actual operation: T04
+PASS | Assignment panel has no tutorial dialogue over its controls
+PASS | No text overflow in 06b_AssignmentPanel_1280x720: 
+SCREENSHOT | 06b_AssignmentPanel_1280x720
+PASS | Non-SISY owner allowed; original B1 feedback owns dialogue
+PASS | No text overflow in 07_FormalB1Feedback_1280x720: 
+SCREENSHOT | 07_FormalB1Feedback_1280x720
+PASS | Mid-B1 Continue restores exact formal feedback line without reassigning task
+PASS | Tutorial stage T08
+PASS | Formal B1 feedback automatically returns to the office before record teaching
+PASS | Book stage starts with actual post-task actions still required
+PASS | No text overflow in 07b_RecordGuideOffice_1280x720: 
+SCREENSHOT | 07b_RecordGuideOffice_1280x720
+PASS | Operation speech uses the official bottom dialogue: T08
+PASS | Reading speech does not complete actual operation: T08
+PASS | Start Work awaits real book operation during tutorial
+PASS | Actual toolbar opens record book
+PASS | One book category alone cannot complete teaching
+PASS | No text overflow in 08_RecordBook_1280x720: 
+SCREENSHOT | 08_RecordBook_1280x720
+PASS | Book teaching does not issue rewards
+PASS | Viewing the actual new record clears its existing unread badge
+PASS | Tutorial stage T09
+PASS | Real dialogue/profile gate can advance T09
+PASS | No text overflow in 09_StartWorkSpeech_1920x1080: 
+SCREENSHOT | 09_StartWorkSpeech_1920x1080
+PASS | Operation speech uses the official bottom dialogue: T05
+PASS | Reading speech does not complete actual operation: T05
+PASS | No text overflow in 09b_StartWorkTarget_1920x1080: 
+SCREENSHOT | 09b_StartWorkTarget_1920x1080
+PASS | Real Start Work starts original work; no teaching mask over animation
+PASS | Mid-work Continue restores original work playback without repeating B1 response
+PASS | No extra work-finished popup
+PASS | Original work completion finishes tutorial and automatically starts 18:15 B2
+PASS | No text overflow in 10_Original1815Comic_1920x1080: 
+SCREENSHOT | 10_Original1815Comic_1920x1080
+PASS | Original B2 completes once, enters Day2 without repeating tutorial
+PASS | Day2 death/B3 empty/photo not auto-granted remain unchanged
+PASS | Skip at opening removes guidance only
+PASS | Skipped flag persists via normal save
+PASS | Opening skip still allows real seats, assignment and work
+PASS | Work save after skipping at the opening resumes work instead of reassigning
+PASS | Skipped teaching still enters the original 18:15 B2
+PASS | Empty-record run also returns automatically to office
+PASS | No A2 discovery required to reach book teaching
+PASS | No text overflow in 11_EmptyRecordBook_1920x1080: 
+SCREENSHOT | 11_EmptyRecordBook_1920x1080
+PASS | Existing manual slot 15 stores tutorial alongside campaign
+PASS | Manual slot keeps real book category state
+PASS | Mid-book save restores viewed categories without faking the required close
+PASS | Skip near completion retains solved seats and real owner
+PASS | Skip in free seating releases all tutorial locks
+PASS | Tutorial stage T02
+PASS | Settings suspend overlay without changing campaign stage
+PASS | No text overflow in 12_StaticReview_1920x1080: 
+SCREENSHOT | 12_StaticReview_1920x1080
+PASS | Static settings review fires no tasks, clues or tutorial replay
+PASS | Skipping while B1 feedback plays preserves its dialogue and owner
+PASS | B1 still returns to original task panel after teaching is skipped
+PASS | Second-loop Day1 never starts tutorial
+PASS | Direct daily entry with original phase, no repeated tutorial: loop 1 day 2
+PASS | Daily task/seat requirements remain present: loop 1 day 2
+PASS | No text overflow in 13_Day2_DirectOffice_1920x1080: 
+SCREENSHOT | 13_Day2_DirectOffice_1920x1080
+PASS | Direct daily entry with original phase, no repeated tutorial: loop 1 day 3
+PASS | Daily task/seat requirements remain present: loop 1 day 3
+PASS | Direct daily entry with original phase, no repeated tutorial: loop 1 day 4
+PASS | Daily task/seat requirements remain present: loop 1 day 4
+PASS | Direct daily entry with original phase, no repeated tutorial: loop 1 day 5
+PASS | Daily task/seat requirements remain present: loop 1 day 5
+PASS | Direct daily entry with original phase, no repeated tutorial: loop 1 day 6
+PASS | Daily task/seat requirements remain present: loop 1 day 6
+PASS | Direct daily entry with original phase, no repeated tutorial: loop 1 day 7
+PASS | Direct daily entry with original phase, no repeated tutorial: loop 2 day 1
+PASS | Daily task/seat requirements remain present: loop 2 day 1
+PASS | Direct daily entry with original phase, no repeated tutorial: loop 2 day 2
+PASS | Daily task/seat requirements remain present: loop 2 day 2
+PASS | Direct daily entry with original phase, no repeated tutorial: loop 2 day 3
+PASS | Daily task/seat requirements remain present: loop 2 day 3
+PASS | Direct daily entry with original phase, no repeated tutorial: loop 2 day 4
+PASS | Daily task/seat requirements remain present: loop 2 day 4
+PASS | Direct daily entry with original phase, no repeated tutorial: loop 2 day 5
+PASS | Daily task/seat requirements remain present: loop 2 day 5
+PASS | Direct daily entry with original phase, no repeated tutorial: loop 2 day 6
+PASS | Daily task/seat requirements remain present: loop 2 day 6
+PASS | Direct daily entry with original phase, no repeated tutorial: loop 2 day 7
+PASS | Completed tutorial Day1 save never repeats guidance
+PASS | Old T09 save pointing at the deleted sentence resumes the next existing step
+PASS | Deleted sentence absent, progress counts ten spoken steps without blank pages
+PASS | Final rendered text has no measured overflow

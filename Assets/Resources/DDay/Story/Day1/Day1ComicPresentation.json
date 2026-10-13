@@ -1,0 +1,233 @@
+{
+  "eventId": "B2_L1_D1",
+  "presentationId": "Day1PageV1",
+  "resource": "DDay/Story/Day1/Day1ComicPage",
+  "width": 1536,
+  "height": 1024,
+  "panels": [
+    {
+      "id": "Day1_P01_storm",
+      "outline": [
+        {
+          "x": 8,
+          "y": 5
+        },
+        {
+          "x": 1527,
+          "y": 5
+        },
+        {
+          "x": 1527,
+          "y": 296
+        },
+        {
+          "x": 8,
+          "y": 296
+        }
+      ],
+      "focus": {
+        "x": 264,
+        "y": 10,
+        "width": 900,
+        "height": 194
+      },
+      "focusOnly": false,
+      "effect": "lightning",
+      "ambience": "wind",
+      "sound": "thunder",
+      "narration": "9月5日，18:15。窗外乌云压城，暴雨似乎随时都会落下。"
+    },
+    {
+      "id": "Day1_P02_fatigue",
+      "outline": [
+        {
+          "x": 9,
+          "y": 308
+        },
+        {
+          "x": 542,
+          "y": 308
+        },
+        {
+          "x": 497,
+          "y": 634
+        },
+        {
+          "x": 9,
+          "y": 634
+        }
+      ],
+      "focus": {
+        "x": 150,
+        "y": 318,
+        "width": 281,
+        "height": 274
+      },
+      "focusOnly": false,
+      "effect": "fatigue",
+      "ambience": "wind",
+      "sound": "",
+      "narration": "SISY 的桌上堆满了文件和咖啡杯。今天的工作，似乎依旧没有尽头。"
+    },
+    {
+      "id": "Day1_P03_collapse",
+      "outline": [
+        {
+          "x": 552,
+          "y": 309
+        },
+        {
+          "x": 1051,
+          "y": 309
+        },
+        {
+          "x": 1000,
+          "y": 634
+        },
+        {
+          "x": 507,
+          "y": 634
+        }
+      ],
+      "focus": {
+        "x": 633,
+        "y": 433,
+        "width": 361,
+        "height": 181
+      },
+      "focusOnly": false,
+      "effect": "impact",
+      "ambience": "wind",
+      "sound": "impact",
+      "narration": "下一刻，一声闷响打破了办公室的平静。SISY 从椅子上摔了下来。"
+    },
+    {
+      "id": "Day1_P04_falling_photo",
+      "outline": [
+        {
+          "x": 1061,
+          "y": 309
+        },
+        {
+          "x": 1526,
+          "y": 309
+        },
+        {
+          "x": 1526,
+          "y": 634
+        },
+        {
+          "x": 1011,
+          "y": 634
+        }
+      ],
+      "focus": {
+        "x": 1128,
+        "y": 421,
+        "width": 371,
+        "height": 206
+      },
+      "focusOnly": false,
+      "effect": "wind",
+      "ambience": "wind",
+      "sound": "",
+      "narration": "一阵风从窗外吹进来，卷起散落的纸张。一张旧照片悄然落在地上。"
+    },
+    {
+      "id": "Day1_P05_floor_photo",
+      "outline": [
+        {
+          "x": 9,
+          "y": 644
+        },
+        {
+          "x": 489,
+          "y": 644
+        },
+        {
+          "x": 427,
+          "y": 1015
+        },
+        {
+          "x": 9,
+          "y": 1015
+        }
+      ],
+      "focus": {
+        "x": 25,
+        "y": 884,
+        "width": 383,
+        "height": 128
+      },
+      "focusOnly": true,
+      "effect": "photo",
+      "ambience": "",
+      "sound": "",
+      "narration": "照片上只有一只年轻的灰狼。那是大学时期的 ORIN。"
+    },
+    {
+      "id": "Day1_P06_emergency_call",
+      "outline": [
+        {
+          "x": 500,
+          "y": 644
+        },
+        {
+          "x": 1022,
+          "y": 644
+        },
+        {
+          "x": 1042,
+          "y": 1015
+        },
+        {
+          "x": 437,
+          "y": 1015
+        }
+      ],
+      "focus": {
+        "x": 568,
+        "y": 670,
+        "width": 319,
+        "height": 259
+      },
+      "focusOnly": false,
+      "effect": "phone",
+      "ambience": "crowd",
+      "sound": "dial",
+      "narration": "ORIN 慌忙拨打急救电话。同事们围了过来，办公室顿时陷入混乱。"
+    },
+    {
+      "id": "Day1_P07_ambulance",
+      "outline": [
+        {
+          "x": 1032,
+          "y": 645
+        },
+        {
+          "x": 1526,
+          "y": 645
+        },
+        {
+          "x": 1526,
+          "y": 1015
+        },
+        {
+          "x": 1052,
+          "y": 1015
+        }
+      ],
+      "focus": {
+        "x": 1139,
+        "y": 647,
+        "width": 387,
+        "height": 357
+      },
+      "focusOnly": false,
+      "effect": "ambulance",
+      "ambience": "rain",
+      "sound": "siren",
+      "narration": "救护车终于赶到。雨幕中，SISY 被送往医院。没有人知道，这一天将如何改变 APIS。"
+    }
+  ]
+}

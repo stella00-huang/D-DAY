@@ -1,0 +1,2 @@
+PASS: Unity Play Mode, 1080p, actual menu callback, real move, checkpoint restore, path rejection, preferences and formal-save protection. Native mouse input and video recording were not tested.
+Session: E:\聚光灯\Docs\PVRecording\Sessions\20261013_133312_b3f73fad96ff4940acb1b60655d13bc7

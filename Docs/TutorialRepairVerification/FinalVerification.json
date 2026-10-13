@@ -1,0 +1,19 @@
+{
+  "protectedCount": 221,
+  "changedCount": 0,
+  "freeBytesE": 0,
+  "runtimeCompile": [
+    {
+      "assembly": "Assembly-CSharp",
+      "exitCode": 0,
+      "errors": [],
+      "warnings": 1
+    },
+    {
+      "assembly": "Assembly-CSharp-Editor",
+      "exitCode": 0,
+      "errors": [],
+      "warnings": 0
+    }
+  ]
+}

@@ -1,0 +1,1296 @@
+{
+  "source": "C:\\Users\\stella\\Desktop\\配置表AB.xlsx",
+  "source_sha256": "97e00e7a2755e8f81433db1e92ccd6069a5ce75d90e6e5e606fed919e21cdffe",
+  "grid": {
+    "A1": [
+      0,
+      0
+    ],
+    "A2": [
+      0,
+      1
+    ],
+    "A3": [
+      0,
+      2
+    ],
+    "A4": [
+      0,
+      3
+    ],
+    "B1": [
+      1,
+      0
+    ],
+    "B2": [
+      1,
+      1
+    ],
+    "B3": [
+      1,
+      2
+    ],
+    "B4": [
+      1,
+      3
+    ]
+  },
+  "semantics": {
+    "adjacent": "Manhattan distance 1",
+    "near_person": "Manhattan <=2",
+    "far_person": "Manhattan >=3",
+    "seatB3": 6,
+    "first_loop_day2_to_day6_B3": "unavailable and empty"
+  },
+  "baseline_zones": {
+    "edge": [
+      "A1",
+      "A4",
+      "B1",
+      "B4"
+    ],
+    "center": [
+      "A2",
+      "A3",
+      "B2",
+      "B3"
+    ],
+    "boss": [
+      "B3",
+      "B4"
+    ],
+    "printer": [
+      "A3",
+      "A4",
+      "B3"
+    ],
+    "lounge": [
+      "B1",
+      "B2"
+    ],
+    "coffee": [
+      "A1",
+      "A2",
+      "A3",
+      "A4"
+    ],
+    "far_boss": [
+      "A1",
+      "A2",
+      "A3",
+      "B1"
+    ],
+    "far_coffee": [
+      "B1",
+      "B4"
+    ]
+  },
+  "tuned_zones": {
+    "edge": [
+      "A1",
+      "A4",
+      "B1",
+      "B4"
+    ],
+    "center": [
+      "A2",
+      "A3",
+      "B2",
+      "B3"
+    ],
+    "boss": [
+      "B2",
+      "B3",
+      "B4"
+    ],
+    "printer": [
+      "A3",
+      "A4",
+      "B3"
+    ],
+    "lounge": [
+      "B1",
+      "B2",
+      "B3"
+    ],
+    "coffee": [
+      "A1",
+      "A2",
+      "A3",
+      "A4"
+    ],
+    "far_boss": [
+      "A1",
+      "A2",
+      "A3",
+      "B1"
+    ],
+    "far_coffee": [
+      "B1",
+      "B4"
+    ]
+  },
+  "days": [
+    {
+      "row": 4,
+      "loop": 1,
+      "day": 1,
+      "roster": [
+        "SISY",
+        "ORIN",
+        "NARCIS",
+        "ECHO",
+        "METIS",
+        "CASSIA",
+        "THANE"
+      ],
+      "rules": [
+        {
+          "actor": "SISY",
+          "kind": "seat",
+          "target": "B3",
+          "source": "固定在B3"
+        },
+        {
+          "actor": "ORIN",
+          "kind": "zone",
+          "target": "edge",
+          "source": "位于边缘位置"
+        },
+        {
+          "actor": "NARCIS",
+          "kind": "zone",
+          "target": "boss",
+          "source": "靠近老板"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "near_person",
+          "target": "NARCIS",
+          "source": "靠近NARCIS"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "near_person",
+          "target": "SISY",
+          "source": "靠近SISY"
+        },
+        {
+          "actor": "METIS",
+          "kind": "zone",
+          "target": "coffee",
+          "source": "靠近咖啡机"
+        },
+        {
+          "actor": "CASSIA",
+          "kind": "zone",
+          "target": "lounge",
+          "source": "靠近休息区"
+        },
+        {
+          "actor": "THANE",
+          "kind": "zone",
+          "target": "center",
+          "source": "靠近中心"
+        }
+      ],
+      "notes": [],
+      "baseline": {
+        "count": 28,
+        "example": {
+          "SISY": "B3",
+          "ORIN": "A1",
+          "NARCIS": "B4",
+          "ECHO": "A3",
+          "METIS": "A2",
+          "CASSIA": "B1",
+          "THANE": "B2"
+        }
+      },
+      "tuned": {
+        "count": 44,
+        "example": {
+          "SISY": "B3",
+          "ORIN": "A1",
+          "NARCIS": "B2",
+          "ECHO": "A2",
+          "METIS": "A4",
+          "CASSIA": "B1",
+          "THANE": "A3"
+        }
+      }
+    },
+    {
+      "row": 5,
+      "loop": 1,
+      "day": 2,
+      "roster": [
+        "ORIN",
+        "NARCIS",
+        "ECHO",
+        "METIS",
+        "CASSIA",
+        "THANE"
+      ],
+      "rules": [
+        {
+          "actor": "ORIN",
+          "kind": "zone",
+          "target": "edge",
+          "source": "位于边缘位置"
+        },
+        {
+          "actor": "ORIN",
+          "kind": "not_adjacent_seat",
+          "target": "B3",
+          "source": "不与B3相邻"
+        },
+        {
+          "actor": "NARCIS",
+          "kind": "zone",
+          "target": "boss",
+          "source": "靠近老板"
+        },
+        {
+          "actor": "NARCIS",
+          "kind": "near_person",
+          "target": "ECHO",
+          "source": "靠近ECHO"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "zone",
+          "target": "boss",
+          "source": "靠近老板"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "near_person",
+          "target": "NARCIS",
+          "source": "靠近NARCIS"
+        },
+        {
+          "actor": "METIS",
+          "kind": "zone",
+          "target": "printer",
+          "source": "靠近打印机"
+        },
+        {
+          "actor": "METIS",
+          "kind": "zone",
+          "target": "coffee",
+          "source": "靠近咖啡机"
+        },
+        {
+          "actor": "CASSIA",
+          "kind": "zone",
+          "target": "lounge",
+          "source": "靠近休息区"
+        },
+        {
+          "actor": "THANE",
+          "kind": "zone",
+          "target": "center",
+          "source": "靠近中心"
+        }
+      ],
+      "notes": [],
+      "baseline": {
+        "count": 0,
+        "example": null
+      },
+      "tuned": {
+        "count": 8,
+        "example": {
+          "ORIN": "A1",
+          "NARCIS": "B2",
+          "ECHO": "B4",
+          "METIS": "A3",
+          "CASSIA": "B1",
+          "THANE": "A2"
+        }
+      }
+    },
+    {
+      "row": 6,
+      "loop": 1,
+      "day": 3,
+      "roster": [
+        "ORIN",
+        "NARCIS",
+        "ECHO",
+        "METIS",
+        "CASSIA",
+        "THANE"
+      ],
+      "rules": [
+        {
+          "actor": "ORIN",
+          "kind": "zone",
+          "target": "edge",
+          "source": "位于边缘位置"
+        },
+        {
+          "actor": "ORIN",
+          "kind": "near_seat",
+          "target": "B3",
+          "source": "靠近B3"
+        },
+        {
+          "actor": "NARCIS",
+          "kind": "zone",
+          "target": "boss",
+          "source": "靠近老板"
+        },
+        {
+          "actor": "NARCIS",
+          "kind": "zone",
+          "target": "center",
+          "source": "靠近中心"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "zone",
+          "target": "boss",
+          "source": "靠近老板"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "near_person",
+          "target": "METIS",
+          "source": "靠近METIS"
+        },
+        {
+          "actor": "METIS",
+          "kind": "zone",
+          "target": "printer",
+          "source": "靠近打印机"
+        },
+        {
+          "actor": "METIS",
+          "kind": "zone",
+          "target": "coffee",
+          "source": "靠近咖啡机"
+        },
+        {
+          "actor": "CASSIA",
+          "kind": "near_person",
+          "target": "METIS",
+          "source": "靠近METIS"
+        },
+        {
+          "actor": "THANE",
+          "kind": "zone",
+          "target": "center",
+          "source": "靠近中心"
+        }
+      ],
+      "notes": [],
+      "baseline": {
+        "count": 0,
+        "example": null
+      },
+      "tuned": {
+        "count": 5,
+        "example": {
+          "ORIN": "A4",
+          "NARCIS": "B2",
+          "ECHO": "B4",
+          "METIS": "A3",
+          "CASSIA": "A1",
+          "THANE": "A2"
+        }
+      }
+    },
+    {
+      "row": 7,
+      "loop": 1,
+      "day": 4,
+      "roster": [
+        "ORIN",
+        "NARCIS",
+        "ECHO",
+        "METIS",
+        "CASSIA",
+        "THANE"
+      ],
+      "rules": [
+        {
+          "actor": "ORIN",
+          "kind": "zone",
+          "target": "edge",
+          "source": "位于边缘位置"
+        },
+        {
+          "actor": "ORIN",
+          "kind": "zone",
+          "target": "boss",
+          "source": "靠近老板"
+        },
+        {
+          "actor": "NARCIS",
+          "kind": "zone",
+          "target": "boss",
+          "source": "靠近老板"
+        },
+        {
+          "actor": "NARCIS",
+          "kind": "near_person",
+          "target": "ORIN",
+          "source": "靠近ORIN"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "near_person",
+          "target": "NARCIS",
+          "source": "靠近NARCIS"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "near_person",
+          "target": "METIS",
+          "source": "靠近METIS"
+        },
+        {
+          "actor": "METIS",
+          "kind": "zone",
+          "target": "coffee",
+          "source": "靠近咖啡机"
+        },
+        {
+          "actor": "METIS",
+          "kind": "near_person",
+          "target": "ECHO",
+          "source": "靠近ECHO"
+        },
+        {
+          "actor": "CASSIA",
+          "kind": "zone",
+          "target": "lounge",
+          "source": "靠近休息区"
+        },
+        {
+          "actor": "THANE",
+          "kind": "near_person",
+          "target": "METIS",
+          "source": "靠近METIS"
+        }
+      ],
+      "notes": [],
+      "baseline": {
+        "count": 0,
+        "example": null
+      },
+      "tuned": {
+        "count": 12,
+        "example": {
+          "ORIN": "B4",
+          "NARCIS": "B2",
+          "ECHO": "A1",
+          "METIS": "A2",
+          "CASSIA": "B1",
+          "THANE": "A3"
+        }
+      }
+    },
+    {
+      "row": 8,
+      "loop": 1,
+      "day": 5,
+      "roster": [
+        "ORIN",
+        "NARCIS",
+        "ECHO",
+        "METIS",
+        "CASSIA",
+        "THANE"
+      ],
+      "rules": [
+        {
+          "actor": "ORIN",
+          "kind": "zone",
+          "target": "edge",
+          "source": "位于边缘位置"
+        },
+        {
+          "actor": "ORIN",
+          "kind": "near_person",
+          "target": "CASSIA",
+          "source": "靠近CASSIA"
+        },
+        {
+          "actor": "NARCIS",
+          "kind": "zone",
+          "target": "boss",
+          "source": "靠近老板"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "zone",
+          "target": "boss",
+          "source": "靠近老板"
+        },
+        {
+          "actor": "METIS",
+          "kind": "near_person",
+          "target": "NARCIS",
+          "source": "靠近NARCIS和ECHO"
+        },
+        {
+          "actor": "METIS",
+          "kind": "near_person",
+          "target": "ECHO",
+          "source": "靠近NARCIS和ECHO"
+        },
+        {
+          "actor": "CASSIA",
+          "kind": "zone",
+          "target": "lounge",
+          "source": "靠近休息区"
+        },
+        {
+          "actor": "CASSIA",
+          "kind": "near_person",
+          "target": "ORIN",
+          "source": "靠近ORIN"
+        },
+        {
+          "actor": "THANE",
+          "kind": "zone",
+          "target": "center",
+          "source": "靠近中心"
+        },
+        {
+          "actor": "THANE",
+          "kind": "near_person",
+          "target": "METIS",
+          "source": "靠近METIS"
+        }
+      ],
+      "notes": [],
+      "baseline": {
+        "count": 0,
+        "example": null
+      },
+      "tuned": {
+        "count": 2,
+        "example": {
+          "ORIN": "A1",
+          "NARCIS": "B2",
+          "ECHO": "B4",
+          "METIS": "A3",
+          "CASSIA": "B1",
+          "THANE": "A2"
+        }
+      }
+    },
+    {
+      "row": 9,
+      "loop": 1,
+      "day": 6,
+      "roster": [
+        "ORIN",
+        "NARCIS",
+        "ECHO",
+        "METIS",
+        "CASSIA",
+        "THANE"
+      ],
+      "rules": [
+        {
+          "actor": "ORIN",
+          "kind": "zone",
+          "target": "edge",
+          "source": "位于边缘位置"
+        },
+        {
+          "actor": "NARCIS",
+          "kind": "zone",
+          "target": "boss",
+          "source": "靠近老板"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "near_person",
+          "target": "NARCIS",
+          "source": "靠近NARCIS"
+        },
+        {
+          "actor": "METIS",
+          "kind": "near_person",
+          "target": "NARCIS",
+          "source": "靠近NARCIS和ECHO"
+        },
+        {
+          "actor": "METIS",
+          "kind": "near_person",
+          "target": "ECHO",
+          "source": "靠近NARCIS和ECHO"
+        },
+        {
+          "actor": "CASSIA",
+          "kind": "zone",
+          "target": "lounge",
+          "source": "靠近休息区"
+        },
+        {
+          "actor": "CASSIA",
+          "kind": "near_person",
+          "target": "THANE",
+          "source": "靠近THANE"
+        },
+        {
+          "actor": "THANE",
+          "kind": "zone",
+          "target": "center",
+          "source": "靠近中心"
+        },
+        {
+          "actor": "THANE",
+          "kind": "near_person",
+          "target": "METIS",
+          "source": "靠近METIS"
+        }
+      ],
+      "notes": [],
+      "baseline": {
+        "count": 11,
+        "example": {
+          "ORIN": "A1",
+          "NARCIS": "B4",
+          "ECHO": "A3",
+          "METIS": "A4",
+          "CASSIA": "B1",
+          "THANE": "A2"
+        }
+      },
+      "tuned": {
+        "count": 17,
+        "example": {
+          "ORIN": "A1",
+          "NARCIS": "B2",
+          "ECHO": "B4",
+          "METIS": "A3",
+          "CASSIA": "B1",
+          "THANE": "A2"
+        }
+      }
+    },
+    {
+      "row": 12,
+      "loop": 2,
+      "day": 1,
+      "roster": [
+        "SISY",
+        "ORIN",
+        "NARCIS",
+        "ECHO",
+        "METIS",
+        "CASSIA",
+        "THANE"
+      ],
+      "rules": [
+        {
+          "actor": "SISY",
+          "kind": "zone",
+          "target": "edge",
+          "source": "靠近边缘"
+        },
+        {
+          "actor": "SISY",
+          "kind": "adjacent",
+          "target": "ORIN",
+          "source": "与ORIN相邻"
+        },
+        {
+          "actor": "ORIN",
+          "kind": "zone",
+          "target": "edge",
+          "source": "靠近边缘"
+        },
+        {
+          "actor": "ORIN",
+          "kind": "adjacent",
+          "target": "SISY",
+          "source": "与SISY相邻"
+        },
+        {
+          "actor": "NARCIS",
+          "kind": "zone",
+          "target": "boss",
+          "source": "靠近老板"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "near_person",
+          "target": "NARCIS",
+          "source": "靠近NARCIS"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "far_person",
+          "target": "SISY",
+          "source": "远离SISY"
+        },
+        {
+          "actor": "METIS",
+          "kind": "zone",
+          "target": "far_coffee",
+          "source": "远离咖啡机"
+        },
+        {
+          "actor": "CASSIA",
+          "kind": "zone",
+          "target": "lounge",
+          "source": "靠近休息区"
+        },
+        {
+          "actor": "THANE",
+          "kind": "zone",
+          "target": "center",
+          "source": "靠近中心"
+        }
+      ],
+      "notes": [
+        "另需B1不给SISY分配工作，才满足生还条件"
+      ],
+      "baseline": {
+        "count": 6,
+        "example": {
+          "SISY": "A1",
+          "ORIN": "B1",
+          "NARCIS": "B3",
+          "ECHO": "A4",
+          "METIS": "B4",
+          "CASSIA": "B2",
+          "THANE": "A2"
+        }
+      },
+      "tuned": {
+        "count": 12,
+        "example": {
+          "SISY": "A1",
+          "ORIN": "B1",
+          "NARCIS": "B3",
+          "ECHO": "A4",
+          "METIS": "B4",
+          "CASSIA": "B2",
+          "THANE": "A2"
+        }
+      }
+    },
+    {
+      "row": 13,
+      "loop": 2,
+      "day": 2,
+      "roster": [
+        "SISY",
+        "ORIN",
+        "NARCIS",
+        "ECHO",
+        "METIS",
+        "CASSIA",
+        "THANE"
+      ],
+      "rules": [
+        {
+          "actor": "SISY",
+          "kind": "zone",
+          "target": "edge",
+          "source": "靠近边缘"
+        },
+        {
+          "actor": "SISY",
+          "kind": "near_person",
+          "target": "ORIN",
+          "source": "靠近ORIN"
+        },
+        {
+          "actor": "ORIN",
+          "kind": "zone",
+          "target": "edge",
+          "source": "靠近边缘"
+        },
+        {
+          "actor": "ORIN",
+          "kind": "near_person",
+          "target": "SISY",
+          "source": "靠近SISY"
+        },
+        {
+          "actor": "NARCIS",
+          "kind": "zone",
+          "target": "boss",
+          "source": "靠近老板"
+        },
+        {
+          "actor": "NARCIS",
+          "kind": "near_person",
+          "target": "SISY",
+          "source": "靠近SISY"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "near_person",
+          "target": "SISY",
+          "source": "靠近SISY"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "near_person",
+          "target": "NARCIS",
+          "source": "靠近NARCIS"
+        },
+        {
+          "actor": "METIS",
+          "kind": "zone",
+          "target": "printer",
+          "source": "靠近打印机"
+        },
+        {
+          "actor": "METIS",
+          "kind": "zone",
+          "target": "coffee",
+          "source": "靠近咖啡机"
+        },
+        {
+          "actor": "CASSIA",
+          "kind": "zone",
+          "target": "lounge",
+          "source": "靠近休息区"
+        },
+        {
+          "actor": "THANE",
+          "kind": "zone",
+          "target": "center",
+          "source": "靠近中心"
+        },
+        {
+          "actor": "THANE",
+          "kind": "near_person",
+          "target": "SISY",
+          "source": "靠近SISY"
+        }
+      ],
+      "notes": [],
+      "baseline": {
+        "count": 0,
+        "example": null
+      },
+      "tuned": {
+        "count": 2,
+        "example": {
+          "SISY": "A1",
+          "ORIN": "B1",
+          "NARCIS": "B2",
+          "ECHO": "A2",
+          "METIS": "A4",
+          "CASSIA": "B3",
+          "THANE": "A3"
+        }
+      }
+    },
+    {
+      "row": 14,
+      "loop": 2,
+      "day": 3,
+      "roster": [
+        "SISY",
+        "ORIN",
+        "NARCIS",
+        "ECHO",
+        "METIS",
+        "CASSIA",
+        "THANE"
+      ],
+      "rules": [
+        {
+          "actor": "SISY",
+          "kind": "near_person",
+          "target": "ORIN",
+          "source": "靠近ORIN"
+        },
+        {
+          "actor": "ORIN",
+          "kind": "near_person",
+          "target": "SISY",
+          "source": "靠近SISY"
+        },
+        {
+          "actor": "ORIN",
+          "kind": "near_person",
+          "target": "NARCIS",
+          "source": "靠近NARCIS"
+        },
+        {
+          "actor": "NARCIS",
+          "kind": "zone",
+          "target": "boss",
+          "source": "靠近老板"
+        },
+        {
+          "actor": "NARCIS",
+          "kind": "near_person",
+          "target": "SISY",
+          "source": "靠近SISY"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "zone",
+          "target": "boss",
+          "source": "靠近老板"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "near_person",
+          "target": "METIS",
+          "source": "靠近METIS"
+        },
+        {
+          "actor": "METIS",
+          "kind": "zone",
+          "target": "printer",
+          "source": "靠近打印机"
+        },
+        {
+          "actor": "METIS",
+          "kind": "zone",
+          "target": "coffee",
+          "source": "靠近咖啡机"
+        },
+        {
+          "actor": "CASSIA",
+          "kind": "near_person",
+          "target": "METIS",
+          "source": "靠近METIS"
+        },
+        {
+          "actor": "THANE",
+          "kind": "zone",
+          "target": "center",
+          "source": "靠近中心"
+        }
+      ],
+      "notes": [],
+      "baseline": {
+        "count": 16,
+        "example": {
+          "SISY": "A2",
+          "ORIN": "A4",
+          "NARCIS": "B3",
+          "ECHO": "B4",
+          "METIS": "A3",
+          "CASSIA": "A1",
+          "THANE": "B2"
+        }
+      },
+      "tuned": {
+        "count": 84,
+        "example": {
+          "SISY": "A1",
+          "ORIN": "A2",
+          "NARCIS": "B2",
+          "ECHO": "B3",
+          "METIS": "A4",
+          "CASSIA": "B4",
+          "THANE": "A3"
+        }
+      }
+    },
+    {
+      "row": 15,
+      "loop": 2,
+      "day": 4,
+      "roster": [
+        "SISY",
+        "ORIN",
+        "NARCIS",
+        "ECHO",
+        "METIS",
+        "CASSIA",
+        "THANE"
+      ],
+      "rules": [
+        {
+          "actor": "SISY",
+          "kind": "near_person",
+          "target": "ORIN",
+          "source": "靠近ORIN"
+        },
+        {
+          "actor": "ORIN",
+          "kind": "zone",
+          "target": "boss",
+          "source": "靠近老板"
+        },
+        {
+          "actor": "ORIN",
+          "kind": "near_person",
+          "target": "SISY",
+          "source": "靠近SISY"
+        },
+        {
+          "actor": "NARCIS",
+          "kind": "zone",
+          "target": "boss",
+          "source": "靠近老板"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "near_person",
+          "target": "NARCIS",
+          "source": "靠近NARCIS"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "near_person",
+          "target": "METIS",
+          "source": "靠近METIS"
+        },
+        {
+          "actor": "METIS",
+          "kind": "near_person",
+          "target": "ECHO",
+          "source": "靠近ECHO"
+        },
+        {
+          "actor": "METIS",
+          "kind": "near_person",
+          "target": "SISY",
+          "source": "靠近SISY"
+        },
+        {
+          "actor": "CASSIA",
+          "kind": "zone",
+          "target": "lounge",
+          "source": "靠近休息区"
+        },
+        {
+          "actor": "CASSIA",
+          "kind": "zone",
+          "target": "printer",
+          "source": "靠近打印区"
+        },
+        {
+          "actor": "THANE",
+          "kind": "zone",
+          "target": "center",
+          "source": "靠近中心"
+        }
+      ],
+      "notes": [],
+      "baseline": {
+        "count": 0,
+        "example": null
+      },
+      "tuned": {
+        "count": 8,
+        "example": {
+          "SISY": "A1",
+          "ORIN": "B2",
+          "NARCIS": "B4",
+          "ECHO": "A4",
+          "METIS": "A2",
+          "CASSIA": "B3",
+          "THANE": "A3"
+        }
+      }
+    },
+    {
+      "row": 16,
+      "loop": 2,
+      "day": 5,
+      "roster": [
+        "SISY",
+        "ORIN",
+        "NARCIS",
+        "ECHO",
+        "METIS",
+        "CASSIA",
+        "THANE"
+      ],
+      "rules": [
+        {
+          "actor": "SISY",
+          "kind": "near_person",
+          "target": "ORIN",
+          "source": "靠近ORIN"
+        },
+        {
+          "actor": "ORIN",
+          "kind": "zone",
+          "target": "boss",
+          "source": "靠近老板"
+        },
+        {
+          "actor": "ORIN",
+          "kind": "near_person",
+          "target": "SISY",
+          "source": "靠近SISY"
+        },
+        {
+          "actor": "NARCIS",
+          "kind": "zone",
+          "target": "far_boss",
+          "source": "远离老板"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "near_person",
+          "target": "NARCIS",
+          "source": "靠近NARCIS"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "zone",
+          "target": "lounge",
+          "source": "靠近休息区"
+        },
+        {
+          "actor": "METIS",
+          "kind": "zone",
+          "target": "printer",
+          "source": "靠近打印机"
+        },
+        {
+          "actor": "METIS",
+          "kind": "zone",
+          "target": "coffee",
+          "source": "靠近咖啡机"
+        },
+        {
+          "actor": "CASSIA",
+          "kind": "near_person",
+          "target": "METIS",
+          "source": "靠近METIS"
+        },
+        {
+          "actor": "THANE",
+          "kind": "zone",
+          "target": "boss",
+          "source": "靠近老板"
+        }
+      ],
+      "notes": [],
+      "baseline": {
+        "count": 52,
+        "example": {
+          "SISY": "A2",
+          "ORIN": "B3",
+          "NARCIS": "A1",
+          "ECHO": "B1",
+          "METIS": "A3",
+          "CASSIA": "A4",
+          "THANE": "B4"
+        }
+      },
+      "tuned": {
+        "count": 139,
+        "example": {
+          "SISY": "A1",
+          "ORIN": "B2",
+          "NARCIS": "A2",
+          "ECHO": "B1",
+          "METIS": "A3",
+          "CASSIA": "A4",
+          "THANE": "B3"
+        }
+      }
+    },
+    {
+      "row": 17,
+      "loop": 2,
+      "day": 6,
+      "roster": [
+        "SISY",
+        "ORIN",
+        "NARCIS",
+        "ECHO",
+        "METIS",
+        "CASSIA",
+        "THANE"
+      ],
+      "rules": [
+        {
+          "actor": "SISY",
+          "kind": "near_person",
+          "target": "ORIN",
+          "source": "靠近ORIN"
+        },
+        {
+          "actor": "ORIN",
+          "kind": "near_person",
+          "target": "SISY",
+          "source": "靠近SISY"
+        },
+        {
+          "actor": "ORIN",
+          "kind": "zone",
+          "target": "far_boss",
+          "source": "远离老板"
+        },
+        {
+          "actor": "NARCIS",
+          "kind": "zone",
+          "target": "far_boss",
+          "source": "远离老板"
+        },
+        {
+          "actor": "ECHO",
+          "kind": "near_person",
+          "target": "NARCIS",
+          "source": "靠近NARCIS"
+        },
+        {
+          "actor": "METIS",
+          "kind": "zone",
+          "target": "printer",
+          "source": "靠近打印机"
+        },
+        {
+          "actor": "METIS",
+          "kind": "zone",
+          "target": "coffee",
+          "source": "靠近咖啡机"
+        },
+        {
+          "actor": "CASSIA",
+          "kind": "near_person",
+          "target": "METIS",
+          "source": "靠近METIS"
+        },
+        {
+          "actor": "THANE",
+          "kind": "near_person",
+          "target": "SISY",
+          "source": "靠近SISY"
+        }
+      ],
+      "notes": [],
+      "baseline": {
+        "count": 524,
+        "example": {
+          "SISY": "A1",
+          "ORIN": "A2",
+          "NARCIS": "A3",
+          "ECHO": "B2",
+          "METIS": "A4",
+          "CASSIA": "B3",
+          "THANE": "B1"
+        }
+      },
+      "tuned": {
+        "count": 524,
+        "example": {
+          "SISY": "A1",
+          "ORIN": "A2",
+          "NARCIS": "A3",
+          "ECHO": "B2",
+          "METIS": "A4",
+          "CASSIA": "B3",
+          "THANE": "B1"
+        }
+      }
+    }
+  ]
+}

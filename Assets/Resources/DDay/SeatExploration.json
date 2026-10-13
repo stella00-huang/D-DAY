@@ -1,0 +1,95 @@
+{
+  "events": [
+    {
+      "id": "l1_orin_cares", "loop": 1, "firstDay": 1, "lastDay": 1,
+      "actor": "wolf", "condition": "adjacent", "target": "rabbit",
+      "recordId": "orin_reaction", "category": "情报", "title": "ORIN 的反应",
+      "description": "SISY 忙碌时，ORIN 总会先看 TA 一眼，却没有走近。",
+      "lines": ["ORIN 从屏幕前抬头，留意到 SISY 手边堆起的文件。", "SISY：没事，我做完这份就好。ORIN 没有再追问。"]
+    },
+    {
+      "id": "l1_echo_handoff", "loop": 1, "firstDay": 1, "lastDay": 1,
+      "actor": "shiba", "condition": "adjacent", "target": "rabbit",
+      "recordId": "echo_transfer", "category": "情报", "title": "工作转移",
+      "description": "ECHO 将原本由自己处理的人事事项放到了 SISY 桌边。",
+      "lines": ["ECHO 把一叠表格推到 SISY 旁边。", "ECHO：你处理得比我快。SISY 只好先收下。"]
+    },
+    {
+      "id": "l1_thane_observes", "loop": 1, "firstDay": 1, "lastDay": 2,
+      "actor": "bear", "condition": "zone", "target": "high_traffic",
+      "recordId": "thane_observes", "category": "情报", "title": "THANE 的视线",
+      "description": "THANE 坐在工作动线旁，数次留意 SISY 的工位与不断转手的文件。",
+      "lines": ["THANE 暂停手头工作，看向来回传递文件的工位。", "TA 问了一句是否需要帮忙，却没有得到明确答复。"]
+    },
+    {
+      "id": "l1_orin_charm", "loop": 1, "firstDay": 2, "lastDay": 4,
+      "actor": "wolf", "condition": "zone", "target": "edge",
+      "recordId": "lucky_charm", "category": "物品", "title": "幸运兔脚",
+      "description": "ORIN 随身带着旧护身符，避开同事追问它从哪里来。",
+      "lines": ["ORIN 在安静的边缘工位翻找资料，旧护身符从口袋滑出。", "TA 迅速收起，没解释那件小东西的来历。"]
+    },
+    {
+      "id": "l1_cassia_worklog", "loop": 1, "firstDay": 3, "lastDay": 5,
+      "actor": "panda", "condition": "zone", "target": "near_lounge",
+      "recordId": "sisy_worklog", "category": "物品", "title": "SISY 的工作记录",
+      "description": "CASSIA 对照旧记录：HR、技术协调和归档长期压在 SISY 一人身上。",
+      "lines": ["CASSIA 在休息区旁把几页工作记录摊开。", "TA 发现三个部门的交接，最后都写着 SISY 的名字。"]
+    },
+    {
+      "id": "l1_cassia_metis_whisper", "loop": 1, "firstDay": 3, "lastDay": 5,
+      "actor": "panda", "condition": "adjacent", "target": "cat",
+      "recordId": "quiet_exchange", "category": "情报", "title": "低声交换",
+      "description": "CASSIA 与 METIS 提到一个已结项却仍在变化的项目，没有在办公室里说完。",
+      "lines": ["CASSIA 把版本号指给 METIS 看。", "METIS：先别在这里谈。两人把话停在了文件页边。"]
+    },
+    {
+      "id": "l1_narcis_promotion", "loop": 1, "firstDay": 4, "lastDay": 5,
+      "actor": "fox", "condition": "zone", "target": "near_printer",
+      "recordId": "promotion_notice", "category": "物品", "title": "9.1 晋升通知",
+      "description": "NARCIS 在打印区看到旧晋升名单，ORIN 的名字曾在候选栏里。",
+      "lines": ["打印机吐出一页旧名单，NARCIS 先看到了 ORIN 的名字。", "TA 把纸翻过去，等走廊里没人再继续看。"]
+    },
+    {
+      "id": "l1_metis_version", "loop": 1, "firstDay": 5, "lastDay": 6,
+      "actor": "cat", "condition": "zone", "target": "near_printer",
+      "recordId": "x_version", "category": "物品", "title": "X 项目最终版本",
+      "description": "METIS 注意到归档版本与常规工作记录不一致，尚无法确定原因。",
+      "lines": ["METIS 在打印区核对页码，停在一处版本差异上。", "TA 没有声张，只把这一页记了下来。"]
+    },
+    {
+      "id": "l2_orin_stays", "loop": 2, "firstDay": 1, "lastDay": 3,
+      "actor": "wolf", "condition": "adjacent", "target": "rabbit",
+      "recordId": "orin_stays", "category": "情报", "title": "ORIN 没有回避",
+      "description": "ORIN 借工作接触留意 SISY 的状态，这次没有假装只是普通同事。",
+      "lines": ["ORIN 从相邻工位看到 SISY 停下动作，立刻起身。", "ORIN：这份我来接。你先休息一会儿。"]
+    },
+    {
+      "id": "l2_x_handoff", "loop": 2, "firstDay": 2, "lastDay": 6,
+      "actor": "panda", "condition": "adjacent", "target": "cat",
+      "recordId": "x_handoff", "category": "情报", "title": "安全的信息交接",
+      "description": "CASSIA 将 X 项目版本异常悄悄告诉 METIS，避免信息再回到 SISY 桌上。",
+      "lines": ["CASSIA 把文件夹转向相邻工位的 METIS。", "CASSIA：结项后还有修改。METIS：我会核对，不让 SISY 一个人碰它。"]
+    },
+    {
+      "id": "l2_narcis_metis_history", "loop": 2, "firstDay": 4, "lastDay": 6,
+      "actor": "fox", "condition": "adjacent", "target": "cat",
+      "recordId": "history_to_metis", "category": "情报", "title": "旧案交汇",
+      "description": "NARCIS 把父亲旧公司的资料交给 METIS，开始正视自己的过去。",
+      "lines": ["NARCIS 将一份旧客户资料推给 METIS。", "NARCIS：我以前只盯着晋升。这里也许更重要。"]
+    },
+    {
+      "id": "l2_thane_watches", "loop": 2, "firstDay": 3, "lastDay": 5,
+      "actor": "bear", "condition": "zone", "target": "high_traffic",
+      "recordId": "thane_watches", "category": "情报", "title": "THANE 的犹豫",
+      "description": "THANE 留在主要工作动线，几次看向 SISY，却始终没有执行收到的指令。",
+      "lines": ["THANE 在经过的同事之间停住，望向仍在工作的 SISY。", "有人叫 TA 继续核对进度，TA 没有马上回答。"]
+    },
+    {
+      "id": "l2_sisy_metis_note", "loop": 2, "firstDay": 6, "lastDay": 6,
+      "actor": "rabbit", "condition": "distance_le", "target": "cat", "distance": 2,
+      "recordId": "sisy_note", "category": "物品", "title": "SISY 的交接笔记",
+      "description": "SISY 将自己发现的版本异常整理成笔记，准备在聚餐时交给 METIS。",
+      "lines": ["SISY 把几页笔记叠好，没有再独自留在电脑前核对。", "METIS 看到 TA 递来的页角，点头示意晚些再谈。"]
+    }
+  ]
+}

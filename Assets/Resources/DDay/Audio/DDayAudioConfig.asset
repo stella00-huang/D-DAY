@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64fe39e27dd530c409c9ac25fc31e38d, type: 3}
+  m_Name: DDayAudioConfig
+  m_EditorClassIdentifier: 
+  crossfadeSeconds: 1.5
+  music:
+  - cue: 0
+    clip: {fileID: 8300000, guid: f30f062c0d8401c42960a13d738f8e5e, type: 3}
+    gain: 0.32058
+    loop: 1
+  - cue: 1
+    clip: {fileID: 8300000, guid: 0284f3ca96d75eb4d91f6a3405d78eca, type: 3}
+    gain: 0.88516
+    loop: 1
+  - cue: 2
+    clip: {fileID: 8300000, guid: f2acd728f4cce164ea04a05b3ab019ad, type: 3}
+    gain: 0.37848
+    loop: 1
+  - cue: 3
+    clip: {fileID: 8300000, guid: 267965859db66b04c92814220db22289, type: 3}
+    gain: 0.23782
+    loop: 1
+  - cue: 4
+    clip: {fileID: 8300000, guid: a48140203d3906a4fb1d989ef64299b1, type: 3}
+    gain: 0.31494
+    loop: 1
+  - cue: 5
+    clip: {fileID: 8300000, guid: 49cae46e0e6b5e24aa404c2cd4c1fbb7, type: 3}
+    gain: 0.74095
+    loop: 0
+  - cue: 6
+    clip: {fileID: 8300000, guid: 26b1dd1adba1df345a980e2735733472, type: 3}
+    gain: 0.68376
+    loop: 0
+  sounds:
+  - cue: 0
+    clip: {fileID: 8300000, guid: 648b6b805c7b9424c82e95d5a895dae6, type: 3}
+    gain: 0.53234
+    repeatInterval: 0.12
+  - cue: 1
+    clip: {fileID: 8300000, guid: 607aa75def72fa6428b30c525a8f9f26, type: 3}
+    gain: 0.19118
+    repeatInterval: 0.12
+  - cue: 2
+    clip: {fileID: 8300000, guid: 19676c4bf554a494a88206517bbf2f1f, type: 3}
+    gain: 0.26232
+    repeatInterval: 0.12
+  - cue: 3
+    clip: {fileID: 8300000, guid: e9471375aef95094d8caa906612a6c66, type: 3}
+    gain: 0.22569
+    repeatInterval: 0.12
+  - cue: 4
+    clip: {fileID: 8300000, guid: 5598b8494b349fb4e893a1fbd0f8f0ec, type: 3}
+    gain: 0.09239
+    repeatInterval: 0.12
+  - cue: 5
+    clip: {fileID: 8300000, guid: fae0da8a8ea436c43abfaaa5979ea359, type: 3}
+    gain: 0.29681
+    repeatInterval: 0.12
+  - cue: 6
+    clip: {fileID: 8300000, guid: d2373f3cc3c09d348b7a4f95a8eb1ceb, type: 3}
+    gain: 0.09734
+    repeatInterval: 0.12
+  - cue: 7
+    clip: {fileID: 8300000, guid: b51ebb98122fe9c4f9a4ad1344c98ba8, type: 3}
+    gain: 0.12748
+    repeatInterval: 0.12
+  - cue: 8
+    clip: {fileID: 8300000, guid: 648b6b805c7b9424c82e95d5a895dae6, type: 3}
+    gain: 0.159702
+    repeatInterval: 0.2

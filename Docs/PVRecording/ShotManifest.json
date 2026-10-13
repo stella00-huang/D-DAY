@@ -1,0 +1,390 @@
+{
+  "project": "D-DAY",
+  "audit_date": "2026-10-13",
+  "status": "recording_prepared_no_raw_video",
+  "scene": "Assets/Scenes/TodayWhereToSit.unity",
+  "target": {
+    "width": 1920,
+    "height": 1080,
+    "aspect": "16:9",
+    "fps": 30,
+    "pv_seconds": 60
+  },
+  "fallback": {
+    "width": 1280,
+    "height": 720,
+    "note": "屏幕无法1:1容纳1080p时；如实标注"
+  },
+  "recorder_installed": false,
+  "shots": [
+    {
+      "id": "01",
+      "base_name": "DDAY_PV_01_MenuFull",
+      "status": "planned_not_recorded",
+      "loop": 1,
+      "day": 0,
+      "phase": "Title",
+      "operation": "完整 D-DAY/APIS/四按钮；等待淡入",
+      "cursor": false,
+      "pv_interval_seconds": [
+        0,
+        6
+      ],
+      "raw_seconds_without_handles": [
+        10,
+        12
+      ],
+      "handles_each_end_seconds": 2,
+      "takes": 2,
+      "recorded_files": [],
+      "source_timecodes": null,
+      "checkpoint_path": null,
+      "audio": "原 BGM / SFX",
+      "spoiler_review": "待实际录片后复核"
+    },
+    {
+      "id": "02",
+      "base_name": "DDAY_PV_02_StartTransition",
+      "status": "planned_not_recorded",
+      "loop": 1,
+      "day": 0,
+      "phase": "Title → Layout",
+      "operation": "悬停、点击原开始游戏与原转场",
+      "cursor": true,
+      "pv_interval_seconds": [
+        6,
+        8
+      ],
+      "raw_seconds_without_handles": [
+        5,
+        8
+      ],
+      "handles_each_end_seconds": 2,
+      "takes": 2,
+      "recorded_files": [],
+      "source_timecodes": null,
+      "checkpoint_path": null,
+      "audio": "原 BGM / SFX",
+      "spoiler_review": "待实际录片后复核"
+    },
+    {
+      "id": "03",
+      "base_name": "DDAY_PV_03_D1OfficeWide",
+      "status": "planned_not_recorded",
+      "loop": 1,
+      "day": 1,
+      "phase": "Layout",
+      "operation": "七员工与完整办公室；原跳过教程",
+      "cursor": false,
+      "pv_interval_seconds": [
+        8,
+        13
+      ],
+      "raw_seconds_without_handles": [
+        10,
+        12
+      ],
+      "handles_each_end_seconds": 2,
+      "takes": 2,
+      "recorded_files": [],
+      "source_timecodes": null,
+      "checkpoint_path": null,
+      "audio": "原 BGM / SFX",
+      "spoiler_review": "待实际录片后复核"
+    },
+    {
+      "id": "04",
+      "base_name": "DDAY_PV_04_D1SeatDrag",
+      "status": "planned_not_recorded",
+      "loop": 1,
+      "day": 1,
+      "phase": "Layout",
+      "operation": "真实拖拽/交换，规则即时变化",
+      "cursor": true,
+      "pv_interval_seconds": [
+        13,
+        21
+      ],
+      "raw_seconds_without_handles": [
+        18,
+        25
+      ],
+      "handles_each_end_seconds": 2,
+      "takes": 2,
+      "recorded_files": [],
+      "source_timecodes": null,
+      "checkpoint_path": null,
+      "audio": "原 BGM / SFX",
+      "spoiler_review": "待实际录片后复核"
+    },
+    {
+      "id": "05",
+      "base_name": "DDAY_PV_05_D1RulesReady",
+      "status": "planned_not_recorded",
+      "loop": 1,
+      "day": 1,
+      "phase": "Layout",
+      "operation": "全部右侧要求达标；无效率数值",
+      "cursor": true,
+      "pv_interval_seconds": [
+        21,
+        25
+      ],
+      "raw_seconds_without_handles": [
+        8,
+        10
+      ],
+      "handles_each_end_seconds": 2,
+      "takes": 2,
+      "recorded_files": [],
+      "source_timecodes": null,
+      "checkpoint_path": null,
+      "audio": "原 BGM / SFX",
+      "spoiler_review": "待实际录片后复核"
+    },
+    {
+      "id": "06",
+      "base_name": "DDAY_PV_06_D1Assignment",
+      "status": "planned_not_recorded",
+      "loop": 1,
+      "day": 1,
+      "phase": "Layout / Narrative",
+      "operation": "负责人选择与正式反馈",
+      "cursor": true,
+      "pv_interval_seconds": [
+        25,
+        29
+      ],
+      "raw_seconds_without_handles": [
+        12,
+        20
+      ],
+      "handles_each_end_seconds": 2,
+      "takes": 2,
+      "recorded_files": [],
+      "source_timecodes": null,
+      "checkpoint_path": null,
+      "audio": "原 BGM / SFX",
+      "spoiler_review": "待实际录片后复核"
+    },
+    {
+      "id": "07",
+      "base_name": "DDAY_PV_07_D1_1815Storm",
+      "status": "planned_not_recorded",
+      "loop": 1,
+      "day": 1,
+      "phase": "AfterHours / Narrative",
+      "operation": "18:15、Day1_P01_storm",
+      "cursor": false,
+      "pv_interval_seconds": [
+        29,
+        32
+      ],
+      "raw_seconds_without_handles": [
+        10,
+        15
+      ],
+      "handles_each_end_seconds": 2,
+      "takes": 2,
+      "recorded_files": [],
+      "source_timecodes": null,
+      "checkpoint_path": null,
+      "audio": "原 BGM / SFX",
+      "spoiler_review": "待实际录片后复核"
+    },
+    {
+      "id": "08",
+      "base_name": "DDAY_PV_08_D1Collapse",
+      "status": "planned_not_recorded",
+      "loop": 1,
+      "day": 1,
+      "phase": "Narrative",
+      "operation": "疲劳→Day1_P03_collapse；不解释原因",
+      "cursor": false,
+      "pv_interval_seconds": [
+        32,
+        37
+      ],
+      "raw_seconds_without_handles": [
+        18,
+        25
+      ],
+      "handles_each_end_seconds": 2,
+      "takes": 2,
+      "recorded_files": [],
+      "source_timecodes": null,
+      "checkpoint_path": null,
+      "audio": "原 BGM / SFX",
+      "spoiler_review": "待实际录片后复核"
+    },
+    {
+      "id": "09",
+      "base_name": "DDAY_PV_09_D2EmptyDesk",
+      "status": "planned_not_recorded",
+      "loop": 1,
+      "day": 2,
+      "phase": "Layout",
+      "operation": "小兔缺席与 B3 空工位",
+      "cursor": false,
+      "pv_interval_seconds": [
+        37,
+        40
+      ],
+      "raw_seconds_without_handles": [
+        8,
+        12
+      ],
+      "handles_each_end_seconds": 2,
+      "takes": 2,
+      "recorded_files": [],
+      "source_timecodes": null,
+      "checkpoint_path": null,
+      "audio": "原 BGM / SFX",
+      "spoiler_review": "待实际录片后复核"
+    },
+    {
+      "id": "10",
+      "base_name": "DDAY_PV_10_D2Investigation",
+      "status": "planned_not_recorded",
+      "loop": 1,
+      "day": 2,
+      "phase": "Narrative",
+      "operation": "原探索气泡 A2_R08；非关键词高亮玩法",
+      "cursor": true,
+      "pv_interval_seconds": [
+        40,
+        47
+      ],
+      "raw_seconds_without_handles": [
+        18,
+        25
+      ],
+      "handles_each_end_seconds": 2,
+      "takes": 2,
+      "recorded_files": [],
+      "source_timecodes": null,
+      "checkpoint_path": null,
+      "audio": "原 BGM / SFX",
+      "spoiler_review": "待实际录片后复核"
+    },
+    {
+      "id": "11",
+      "base_name": "DDAY_PV_11_RecordUpdate",
+      "status": "planned_not_recorded",
+      "loop": 1,
+      "day": 2,
+      "phase": "Layout",
+      "operation": "真实情报入册、未读和详情",
+      "cursor": true,
+      "pv_interval_seconds": [
+        47,
+        52
+      ],
+      "raw_seconds_without_handles": [
+        12,
+        18
+      ],
+      "handles_each_end_seconds": 2,
+      "takes": 2,
+      "recorded_files": [],
+      "source_timecodes": null,
+      "checkpoint_path": null,
+      "audio": "原 BGM / SFX",
+      "spoiler_review": "待实际录片后复核"
+    },
+    {
+      "id": "12",
+      "base_name": "DDAY_PV_12_LaterSeating",
+      "status": "planned_not_recorded",
+      "loop": 1,
+      "day": 3,
+      "phase": "Layout",
+      "operation": "Day3 或实际到达的 Day5 排座；不播关键下班剧情",
+      "cursor": true,
+      "pv_interval_seconds": [
+        52,
+        57
+      ],
+      "raw_seconds_without_handles": [
+        18,
+        25
+      ],
+      "handles_each_end_seconds": 2,
+      "takes": 2,
+      "recorded_files": [],
+      "source_timecodes": null,
+      "checkpoint_path": null,
+      "audio": "原 BGM / SFX",
+      "spoiler_review": "待实际录片后复核"
+    },
+    {
+      "id": "13",
+      "base_name": "DDAY_PV_13_MenuClosing",
+      "status": "planned_not_recorded",
+      "loop": 1,
+      "day": 0,
+      "phase": "Title",
+      "operation": "原返回菜单后空镜",
+      "cursor": false,
+      "pv_interval_seconds": [
+        57,
+        60
+      ],
+      "raw_seconds_without_handles": [
+        8,
+        10
+      ],
+      "handles_each_end_seconds": 2,
+      "takes": 2,
+      "recorded_files": [],
+      "source_timecodes": null,
+      "checkpoint_path": null,
+      "audio": "原 BGM / SFX",
+      "spoiler_review": "待实际录片后复核"
+    }
+  ],
+  "optional": [
+    {
+      "base_name": "DDAY_PV_B01_EarlyRelationship",
+      "day": 1,
+      "event": "A2_R04",
+      "seconds": [
+        12,
+        20
+      ]
+    },
+    {
+      "base_name": "DDAY_PV_B02_TaskFeedback",
+      "seconds": [
+        8,
+        15
+      ]
+    },
+    {
+      "base_name": "DDAY_PV_B03_WorkMotion",
+      "day": 1,
+      "seconds": [
+        5,
+        8
+      ]
+    },
+    {
+      "base_name": "DDAY_PV_B04_FallingPhoto",
+      "day": 1,
+      "panel": "Day1_P04_falling_photo",
+      "seconds": [
+        5,
+        8
+      ]
+    }
+  ],
+  "excluded": [
+    "效率数值或效率结算",
+    "可点击/红色关键词玩法",
+    "动态关系图或好感数值",
+    "未绑定的二周目整页漫画",
+    "真凶/因果回放/最终选择/HE/BE"
+  ],
+  "verification_report": "Docs/PVRecording/Verification.txt",
+  "guide": "Docs/PVRecording/RecordingGuide.md"
+}

@@ -1,0 +1,159 @@
+PASS
+Final cover rendered at three 16:9 sizes, 4:3 and ultrawide. UGUI raycasts/events and original actions tested; physical mouse, listening and Windows quit not claimed.
+PASS | Existing scene/menu campaign binding intact
+PASS | Menu begins with a black fade-in
+PASS | Menu fade-in completes after one unscaled second
+PASS | Exactly one existing menu controller
+PASS | Exactly one existing audio service
+PASS | Continue disabled without save
+PASS | No old logo or duplicate title object
+PASS | No added menu text or labels over baked cover
+PASS | Supplied final cover bound
+PASS | Imported dimensions preserved
+PASS | Four existing menu actions only
+PASS | Transparent hit area: 开始游戏
+PASS | Non-blocking paper effect: 开始游戏
+PASS | Original keyboard navigation: 开始游戏
+PASS | Transparent hit area: 继续游戏
+PASS | Non-blocking paper effect: 继续游戏
+PASS | Original keyboard navigation: 继续游戏
+PASS | Transparent hit area: 设置
+PASS | Non-blocking paper effect: 设置
+PASS | Original keyboard navigation: 设置
+PASS | Transparent hit area: 退出游戏
+PASS | Non-blocking paper effect: 退出游戏
+PASS | Original keyboard navigation: 退出游戏
+PASS | Background/fade cannot intercept clicks
+PASS | Actual Game View (1920, 1080)
+PASS | Cover has original aspect: (1920, 1080)
+PASS | Cover-aligned hit area: (1920, 1080) 开始游戏 expected=(967.44, 647.07) actual=(967.44, 647.07, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (1920, 1080) 开始游戏
+PASS | Button completely inside viewport: 开始游戏
+PASS | Cover-aligned hit area: (1920, 1080) 继续游戏 expected=(967.44, 531.41) actual=(967.44, 531.41, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (1920, 1080) 继续游戏
+PASS | Button completely inside viewport: 继续游戏
+PASS | No overlapping hit areas: 继续游戏
+PASS | Cover-aligned hit area: (1920, 1080) 设置 expected=(967.44, 415.18) actual=(967.44, 415.18, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (1920, 1080) 设置
+PASS | Button completely inside viewport: 设置
+PASS | No overlapping hit areas: 设置
+PASS | Cover-aligned hit area: (1920, 1080) 退出游戏 expected=(967.44, 298.95) actual=(967.44, 298.95, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (1920, 1080) 退出游戏
+PASS | Button completely inside viewport: 退出游戏
+PASS | No overlapping hit areas: 退出游戏
+PASS | Original title/APIS visible: (1920, 1080) (580.00, 150.00)
+PASS | Original title/APIS visible: (1920, 1080) (1120.00, 315.00)
+PASS | Original title/APIS visible: (1920, 1080) (138.00, 235.00)
+PASS | Original title/APIS visible: (1920, 1080) (210.00, 286.00)
+PASS | Cover outside buttons does not intercept clicks: (1920, 1080)
+PASS | Actual Game View (1600, 900)
+PASS | Cover has original aspect: (1600, 900)
+PASS | Cover-aligned hit area: (1600, 900) 开始游戏 expected=(806.20, 539.24) actual=(806.20, 539.24, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (1600, 900) 开始游戏
+PASS | Button completely inside viewport: 开始游戏
+PASS | Cover-aligned hit area: (1600, 900) 继续游戏 expected=(806.20, 442.84) actual=(806.20, 442.84, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (1600, 900) 继续游戏
+PASS | Button completely inside viewport: 继续游戏
+PASS | No overlapping hit areas: 继续游戏
+PASS | Cover-aligned hit area: (1600, 900) 设置 expected=(806.20, 345.97) actual=(806.20, 345.97, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (1600, 900) 设置
+PASS | Button completely inside viewport: 设置
+PASS | No overlapping hit areas: 设置
+PASS | Cover-aligned hit area: (1600, 900) 退出游戏 expected=(806.20, 249.10) actual=(806.20, 249.10, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (1600, 900) 退出游戏
+PASS | Button completely inside viewport: 退出游戏
+PASS | No overlapping hit areas: 退出游戏
+PASS | Original title/APIS visible: (1600, 900) (580.00, 150.00)
+PASS | Original title/APIS visible: (1600, 900) (1120.00, 315.00)
+PASS | Original title/APIS visible: (1600, 900) (138.00, 235.00)
+PASS | Original title/APIS visible: (1600, 900) (210.00, 286.00)
+PASS | Cover outside buttons does not intercept clicks: (1600, 900)
+PASS | Actual Game View (1280, 720)
+PASS | Cover has original aspect: (1280, 720)
+PASS | Cover-aligned hit area: (1280, 720) 开始游戏 expected=(644.97, 431.43) actual=(644.97, 431.43, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (1280, 720) 开始游戏
+PASS | Button completely inside viewport: 开始游戏
+PASS | Cover-aligned hit area: (1280, 720) 继续游戏 expected=(644.97, 354.27) actual=(644.97, 354.27, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (1280, 720) 继续游戏
+PASS | Button completely inside viewport: 继续游戏
+PASS | No overlapping hit areas: 继续游戏
+PASS | Cover-aligned hit area: (1280, 720) 设置 expected=(644.97, 276.73) actual=(644.97, 276.73, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (1280, 720) 设置
+PASS | Button completely inside viewport: 设置
+PASS | No overlapping hit areas: 设置
+PASS | Cover-aligned hit area: (1280, 720) 退出游戏 expected=(644.97, 199.20) actual=(644.97, 199.20, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (1280, 720) 退出游戏
+PASS | Button completely inside viewport: 退出游戏
+PASS | No overlapping hit areas: 退出游戏
+PASS | Original title/APIS visible: (1280, 720) (580.00, 150.00)
+PASS | Original title/APIS visible: (1280, 720) (1120.00, 315.00)
+PASS | Original title/APIS visible: (1280, 720) (138.00, 235.00)
+PASS | Original title/APIS visible: (1280, 720) (210.00, 286.00)
+PASS | Cover outside buttons does not intercept clicks: (1280, 720)
+PASS | Actual Game View (1024, 768)
+PASS | Cover has original aspect: (1024, 768)
+PASS | Cover-aligned hit area: (1024, 768) 开始游戏 expected=(515.97, 441.16) actual=(515.97, 441.16, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (1024, 768) 开始游戏
+PASS | Button completely inside viewport: 开始游戏
+PASS | Cover-aligned hit area: (1024, 768) 继续游戏 expected=(515.97, 379.42) actual=(515.97, 379.42, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (1024, 768) 继续游戏
+PASS | Button completely inside viewport: 继续游戏
+PASS | No overlapping hit areas: 继续游戏
+PASS | Cover-aligned hit area: (1024, 768) 设置 expected=(515.97, 317.37) actual=(515.97, 317.37, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (1024, 768) 设置
+PASS | Button completely inside viewport: 设置
+PASS | No overlapping hit areas: 设置
+PASS | Cover-aligned hit area: (1024, 768) 退出游戏 expected=(515.97, 255.32) actual=(515.97, 255.32, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (1024, 768) 退出游戏
+PASS | Button completely inside viewport: 退出游戏
+PASS | No overlapping hit areas: 退出游戏
+PASS | Original title/APIS visible: (1024, 768) (580.00, 150.00)
+PASS | Original title/APIS visible: (1024, 768) (1120.00, 315.00)
+PASS | Original title/APIS visible: (1024, 768) (138.00, 235.00)
+PASS | Original title/APIS visible: (1024, 768) (210.00, 286.00)
+PASS | Cover outside buttons does not intercept clicks: (1024, 768)
+PASS | Actual Game View (2560, 1080)
+PASS | Cover has original aspect: (2560, 1080)
+PASS | Cover-aligned hit area: (2560, 1080) 开始游戏 expected=(1287.50, 647.86) actual=(1287.50, 647.86, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (2560, 1080) 开始游戏
+PASS | Button completely inside viewport: 开始游戏
+PASS | Cover-aligned hit area: (2560, 1080) 继续游戏 expected=(1287.50, 531.35) actual=(1287.50, 531.35, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (2560, 1080) 继续游戏
+PASS | Button completely inside viewport: 继续游戏
+PASS | No overlapping hit areas: 继续游戏
+PASS | Cover-aligned hit area: (2560, 1080) 设置 expected=(1287.50, 414.26) actual=(1287.50, 414.26, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (2560, 1080) 设置
+PASS | Button completely inside viewport: 设置
+PASS | No overlapping hit areas: 设置
+PASS | Cover-aligned hit area: (2560, 1080) 退出游戏 expected=(1287.50, 297.17) actual=(1287.50, 297.17, 0.00) parent=Menu buttons offsets=(0.00, 0.00)/(0.00, 0.00)
+PASS | Real UGUI raycast reaches correct action: (2560, 1080) 退出游戏
+PASS | Button completely inside viewport: 退出游戏
+PASS | No overlapping hit areas: 退出游戏
+PASS | Original title/APIS visible: (2560, 1080) (580.00, 150.00)
+PASS | Original title/APIS visible: (2560, 1080) (1120.00, 315.00)
+PASS | Original title/APIS visible: (2560, 1080) (138.00, 235.00)
+PASS | Original title/APIS visible: (2560, 1080) (210.00, 286.00)
+PASS | Cover outside buttons does not intercept clicks: (2560, 1080)
+PASS | Menu BGM not restarted by resize or repaint
+PASS | Warm paper highlight fades in
+PASS | Baked buttons never scale or rotate
+PASS | Hover has no repeated sound
+PASS | Subtle press shade works at timeScale zero
+PASS | Paper overlay clears after leaving
+PASS | Keyboard focus receives the same subtle highlight
+PASS | Keyboard Start disables repeated clicks and fades menu
+PASS | Original StartGame enters real Day1
+PASS | Existing Day1 tutorial still activates
+PASS | Exactly one guarded Start click sound
+PASS | Continue enabled with an existing save
+PASS | Hit area tracks the peak zoom: 开始游戏
+PASS | Hit area tracks the peak zoom: 继续游戏
+PASS | Hit area tracks the peak zoom: 设置
+PASS | Hit area tracks the peak zoom: 退出游戏
+PASS | Action dispatched to raycast target: 继续游戏
+PASS | Continue restores original loop/day
+PASS | Continue preserves record data
+PASS | Action dispatched to raycast target: 退出游戏
+PASS | Original Quit callback keeps save (Editor ignores OS quit)
+PASS | Action dispatched to raycast target: 设置
+PASS | Settings opens the existing UI and disables all cover targets

@@ -1,0 +1,89 @@
+PASS
+HE live validation completed.
+PASS | Runtime HE player and Inspector config connected
+PASS | Exactly 3 shots; 10+10+12=32 seconds
+PASS | Original image size HE_01_Truth
+PASS | No recompression/resizing HE_01_Truth
+PASS | Original image size HE_02_Consequences
+PASS | No recompression/resizing HE_02_Consequences
+PASS | Original image size HE_03_NewTomorrow
+PASS | No recompression/resizing HE_03_NewTomorrow
+PASS | No suitable project audio: optional AudioClip slots remain empty
+PASS | First vote never skips second question
+PASS | BE unchanged for False/False
+PASS | First vote never skips second question
+PASS | BE unchanged for False/True
+PASS | First vote never skips second question
+PASS | BE unchanged for True/False
+PASS | Two native Game View YES clicks enter HE through existing Day7 decision
+PASS | Shot1 subtitle 7-9s
+SCREENSHOT | 01_Truth_1280x720
+PASS | EaseInOut push respects safe zoom
+PASS | Normal office controls hidden throughout HE
+PASS | Mid-HE save/Continue restores timeline without replaying shot1
+PASS | Shot2 subtitle and police-light presentation
+SCREENSHOT | 02_Consequences_1280x720
+PASS | Shot3 sunset subtitle 26-30s
+SCREENSHOT | 03_NewTomorrow_1280x720
+PASS | Actual unscaled timeline completes at 32 seconds
+SCREENSHOT | 04_HE_Title_1280x720
+PASS | Completed HE Continue shows title without replay
+PASS | Existing main menu restored without starting another loop
+PASS | Live 16:9 viewport (1920, 1080)
+PASS | Illustration covers viewport without black edges (1920, 1080) t=7.8
+PASS | Original illustration aspect ratio (1920, 1080)
+PASS | No shrinking or deformed text (1920, 1080)
+SCREENSHOT | Preview_7.8_1920x1080
+PASS | Live 16:9 viewport (1920, 1080)
+PASS | Illustration covers viewport without black edges (1920, 1080) t=17.8
+PASS | Original illustration aspect ratio (1920, 1080)
+PASS | No shrinking or deformed text (1920, 1080)
+SCREENSHOT | Preview_17.8_1920x1080
+PASS | Live 16:9 viewport (1920, 1080)
+PASS | Illustration covers viewport without black edges (1920, 1080) t=28
+PASS | Original illustration aspect ratio (1920, 1080)
+PASS | No shrinking or deformed text (1920, 1080)
+SCREENSHOT | Preview_28.0_1920x1080
+PASS | Live 16:9 viewport (1920, 1080)
+PASS | No shrinking or deformed text (1920, 1080)
+SCREENSHOT | Preview_33.2_1920x1080
+PASS | Editor preview leaves campaign/save unchanged (1920, 1080)
+PASS | Live 16:9 viewport (1600, 900)
+PASS | Illustration covers viewport without black edges (1600, 900) t=7.8
+PASS | Original illustration aspect ratio (1600, 900)
+PASS | No shrinking or deformed text (1600, 900)
+SCREENSHOT | Preview_7.8_1600x900
+PASS | Live 16:9 viewport (1600, 900)
+PASS | Illustration covers viewport without black edges (1600, 900) t=17.8
+PASS | Original illustration aspect ratio (1600, 900)
+PASS | No shrinking or deformed text (1600, 900)
+SCREENSHOT | Preview_17.8_1600x900
+PASS | Live 16:9 viewport (1600, 900)
+PASS | Illustration covers viewport without black edges (1600, 900) t=28
+PASS | Original illustration aspect ratio (1600, 900)
+PASS | No shrinking or deformed text (1600, 900)
+SCREENSHOT | Preview_28.0_1600x900
+PASS | Live 16:9 viewport (1600, 900)
+PASS | No shrinking or deformed text (1600, 900)
+SCREENSHOT | Preview_33.2_1600x900
+PASS | Editor preview leaves campaign/save unchanged (1600, 900)
+PASS | Live 16:9 viewport (1280, 720)
+PASS | Illustration covers viewport without black edges (1280, 720) t=7.8
+PASS | Original illustration aspect ratio (1280, 720)
+PASS | No shrinking or deformed text (1280, 720)
+SCREENSHOT | Preview_7.8_1280x720
+PASS | Live 16:9 viewport (1280, 720)
+PASS | Illustration covers viewport without black edges (1280, 720) t=17.8
+PASS | Original illustration aspect ratio (1280, 720)
+PASS | No shrinking or deformed text (1280, 720)
+SCREENSHOT | Preview_17.8_1280x720
+PASS | Live 16:9 viewport (1280, 720)
+PASS | Illustration covers viewport without black edges (1280, 720) t=28
+PASS | Original illustration aspect ratio (1280, 720)
+PASS | No shrinking or deformed text (1280, 720)
+SCREENSHOT | Preview_28.0_1280x720
+PASS | Live 16:9 viewport (1280, 720)
+PASS | No shrinking or deformed text (1280, 720)
+SCREENSHOT | Preview_33.2_1280x720
+PASS | Editor preview leaves campaign/save unchanged (1280, 720)
+PASS | New game and first-run Day1 do not invoke HE

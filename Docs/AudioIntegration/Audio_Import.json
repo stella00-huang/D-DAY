@@ -1,0 +1,197 @@
+{
+  "entries": [
+    {
+      "name": "main_menu.wav",
+      "source": "C:\\Users\\stella\\Downloads\\main_menu.wav",
+      "path": "Assets/Audio/BGM/main_menu.wav",
+      "sha256": "4b01f3cbf18f3f92908de3b233cb9173a09b2b3f3519a339de28cab4b18244f9",
+      "kind": "BGM",
+      "rms75Db": -15.12,
+      "peakDb": -0.0,
+      "duration": 161.33383,
+      "gain": 0.32058,
+      "measurement": "75th percentile of audible one-second RMS windows; not perceptual LUFS"
+    },
+    {
+      "name": "day1_2.mp3",
+      "source": "C:\\Users\\stella\\Downloads\\day1_2.mp3",
+      "path": "Assets/Audio/BGM/day1_2.mp3",
+      "sha256": "ab25e361bbb637fc3c27d31fa7ca2060ba47eb5418c341aba4de7f32a8c5bc4f",
+      "kind": "BGM",
+      "rms75Db": -23.94,
+      "peakDb": -8.56,
+      "duration": 87.15601,
+      "gain": 0.88516,
+      "measurement": "75th percentile of audible one-second RMS windows; not perceptual LUFS"
+    },
+    {
+      "name": "day3_4.mp3",
+      "source": "C:\\Users\\stella\\Downloads\\day3_4.mp3",
+      "path": "Assets/Audio/BGM/day3_4.mp3",
+      "sha256": "061126286c07a5fe286a258aac2881d23ea192617f9b932245dfbb18c9af3521",
+      "kind": "BGM",
+      "rms75Db": -16.56,
+      "peakDb": 0.02,
+      "duration": 120.24163,
+      "gain": 0.37848,
+      "measurement": "75th percentile of audible one-second RMS windows; not perceptual LUFS"
+    },
+    {
+      "name": "day5_6.mp3",
+      "source": "C:\\Users\\stella\\Downloads\\day5_6.mp3",
+      "path": "Assets/Audio/BGM/day5_6.mp3",
+      "sha256": "a1e829dd67962fb045f31f7bdaab63bcd260c5d4e3547ba1982ca1b3c9a34f46",
+      "kind": "BGM",
+      "rms75Db": -12.53,
+      "peakDb": -0.26,
+      "duration": 33.10345,
+      "gain": 0.23782,
+      "measurement": "75th percentile of audible one-second RMS windows; not perceptual LUFS"
+    },
+    {
+      "name": "day_7.flac",
+      "source": "C:\\Users\\stella\\Downloads\\day_7.flac",
+      "path": "Assets/Audio/BGM/day_7.flac",
+      "sha256": "f56399aea2635b52e3929af8acac08207c53c30aaffec3ac4b296963a1c4ce5d",
+      "kind": "BGM"
+    },
+    {
+      "name": "he.ogg",
+      "source": "C:\\Users\\stella\\Downloads\\he.ogg",
+      "path": "Assets/Audio/BGM/he.ogg",
+      "sha256": "427a4a557b29695263da90c42e6f41a43e9078b7eafa9926163f5e2515547fcf",
+      "kind": "BGM",
+      "rms75Db": -22.4,
+      "peakDb": -6.72,
+      "duration": 51.2,
+      "gain": 0.74095,
+      "measurement": "75th percentile of audible one-second RMS windows; not perceptual LUFS"
+    },
+    {
+      "name": "be.mp3",
+      "source": "C:\\Users\\stella\\Downloads\\be.mp3",
+      "path": "Assets/Audio/BGM/be.mp3",
+      "sha256": "74fffc8d85b98cabb4c22b23b681d38ae943af65c2f44e89c193cba4b0b8a977",
+      "kind": "BGM",
+      "rms75Db": -21.7,
+      "peakDb": -3.2,
+      "duration": 49.29306,
+      "gain": 0.68376,
+      "measurement": "75th percentile of audible one-second RMS windows; not perceptual LUFS"
+    },
+    {
+      "name": "day_7.wav",
+      "source": "E:\\聚光灯\\Assets\\Audio\\BGM\\day_7.flac",
+      "path": "Assets/Audio/BGM/day_7.wav",
+      "sha256": "5ffe26b66ccb633d465728957fe93d171e2df445e4bf123ff546bc91c1581ec4",
+      "kind": "BGM",
+      "losslessPCM": "437328a91ee5022d064e79d274a0903be28e4809b0cb20203ad7a16078538a9e",
+      "stream": {
+        "sampleRate": 48000,
+        "channels": 2,
+        "subtype": "PCM_24"
+      },
+      "rms75Db": -14.96,
+      "peakDb": -1.18,
+      "duration": 76.79952,
+      "gain": 0.31494,
+      "measurement": "75th percentile of audible one-second RMS windows; not perceptual LUFS"
+    },
+    {
+      "name": "click_001.ogg",
+      "source": "kenney_interface-sounds.zip/Audio/click_001.ogg",
+      "path": "Assets/Audio/SFX/Kenney/click_001.ogg",
+      "sha256": "ccfb7fa0cccdd9faec0eb16033c732b1e308d139d80f799161495d58f7adcdb9",
+      "kind": "SFX",
+      "rms75Db": -26.52,
+      "peakDb": -1.35,
+      "duration": 0.10002,
+      "gain": 0.53234,
+      "measurement": "75th percentile of audible one-second RMS windows; not perceptual LUFS"
+    },
+    {
+      "name": "select_001.ogg",
+      "source": "kenney_interface-sounds.zip/Audio/select_001.ogg",
+      "path": "Assets/Audio/SFX/Kenney/select_001.ogg",
+      "sha256": "aec0c31ea934a35936ae0d2ab8fac8123c93aa5647f935853a58dbaf90278b7a",
+      "kind": "SFX",
+      "rms75Db": -17.63,
+      "peakDb": -1.13,
+      "duration": 0.04329,
+      "gain": 0.19118,
+      "measurement": "75th percentile of audible one-second RMS windows; not perceptual LUFS"
+    },
+    {
+      "name": "drop_001.ogg",
+      "source": "kenney_interface-sounds.zip/Audio/drop_001.ogg",
+      "path": "Assets/Audio/SFX/Kenney/drop_001.ogg",
+      "sha256": "692ee3a6f1821402ca649ff735bee9591dc4846c8098fc7d6a90fd15fa57c1af",
+      "kind": "SFX",
+      "rms75Db": -20.38,
+      "peakDb": -0.89,
+      "duration": 0.10982,
+      "gain": 0.26232,
+      "measurement": "75th percentile of audible one-second RMS windows; not perceptual LUFS"
+    },
+    {
+      "name": "error_001.ogg",
+      "source": "kenney_interface-sounds.zip/Audio/error_001.ogg",
+      "path": "Assets/Audio/SFX/Kenney/error_001.ogg",
+      "sha256": "46e67425d16339772e8d328fb36a49426c9467418686e11beeb71ff84b0f6433",
+      "kind": "SFX",
+      "rms75Db": -19.07,
+      "peakDb": -0.8,
+      "duration": 0.16456,
+      "gain": 0.22569,
+      "measurement": "75th percentile of audible one-second RMS windows; not perceptual LUFS"
+    },
+    {
+      "name": "confirmation_001.ogg",
+      "source": "kenney_interface-sounds.zip/Audio/confirmation_001.ogg",
+      "path": "Assets/Audio/SFX/Kenney/confirmation_001.ogg",
+      "sha256": "063564703b6094d70718a3e787a55cc9141611e4ecd6b6637f8828f79b4a8c3a",
+      "kind": "SFX",
+      "rms75Db": -11.31,
+      "peakDb": -0.93,
+      "duration": 0.28984,
+      "gain": 0.09239,
+      "measurement": "75th percentile of audible one-second RMS windows; not perceptual LUFS"
+    },
+    {
+      "name": "back_001.ogg",
+      "source": "kenney_interface-sounds.zip/Audio/back_001.ogg",
+      "path": "Assets/Audio/SFX/Kenney/back_001.ogg",
+      "sha256": "07db973f79f6ae0f2edc34561e7592e24d0577455919fb602cb8ecc0da991dcf",
+      "kind": "SFX",
+      "rms75Db": -21.45,
+      "peakDb": -0.96,
+      "duration": 0.06388,
+      "gain": 0.29681,
+      "measurement": "75th percentile of audible one-second RMS windows; not perceptual LUFS"
+    },
+    {
+      "name": "question_001.ogg",
+      "source": "kenney_interface-sounds.zip/Audio/question_001.ogg",
+      "path": "Assets/Audio/SFX/Kenney/question_001.ogg",
+      "sha256": "abb8f9e4eb2071491b0b15f84ee302386b1847609310c1b000ae174639a6cc5a",
+      "kind": "SFX",
+      "rms75Db": -11.77,
+      "peakDb": -0.9,
+      "duration": 0.49068,
+      "gain": 0.09734,
+      "measurement": "75th percentile of audible one-second RMS windows; not perceptual LUFS"
+    },
+    {
+      "name": "toggle_001.ogg",
+      "source": "kenney_interface-sounds.zip/Audio/toggle_001.ogg",
+      "path": "Assets/Audio/SFX/Kenney/toggle_001.ogg",
+      "sha256": "ca1d2dde5f0b286abac4f070e23edab8f30927c8a533665cdf2ac6492a415e49",
+      "kind": "SFX",
+      "rms75Db": -14.11,
+      "peakDb": -0.91,
+      "duration": 0.13932,
+      "gain": 0.12748,
+      "measurement": "75th percentile of audible one-second RMS windows; not perceptual LUFS"
+    }
+  ]
+}

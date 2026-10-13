@@ -1,0 +1,5 @@
+Existing protected files: 72
+Changed protected files: 0
+Planned shots: 13
+PV allocation: 60 seconds
+No raw video was generated in this preparation task.

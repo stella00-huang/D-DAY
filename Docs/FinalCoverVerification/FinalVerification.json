@@ -1,0 +1,29 @@
+{
+  "context": {
+    "success": true,
+    "selectedGameObjects": {
+      "count": 0,
+      "objects": []
+    },
+    "selectedAssets": {
+      "count": 0,
+      "assets": []
+    },
+    "activeScene": {
+      "name": "TodayWhereToSit",
+      "path": "Assets/Scenes/TodayWhereToSit.unity",
+      "isDirty": false
+    },
+    "focusedWindow": "GameView",
+    "isPlaying": false,
+    "isCompiling": false
+  },
+  "errors": {
+    "count": 0,
+    "logs": []
+  },
+  "protectedFiles": 218,
+  "changedProtectedFiles": 0,
+  "coverSha256": "A7DA908E98266907A9F54FFF6168835E8FB12E3D038DEB2A4807E89335C00638",
+  "sourceMatches": true
+}

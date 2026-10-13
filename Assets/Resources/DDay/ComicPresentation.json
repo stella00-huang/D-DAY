@@ -1,0 +1,671 @@
+{
+  "shots": [
+    {
+      "eventId": "B2_L1_D1",
+      "shotId": "B2_L1_D1_S01",
+      "firstLine": 0,
+      "lastLine": 0,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "environment",
+      "actors": [],
+      "itemId": "",
+      "tint": 0.56,
+      "timeCaption": "9月5日 · 18:15",
+      "effect": "pan"
+    },
+    {
+      "eventId": "B2_L1_D1",
+      "shotId": "B2_L1_D1_S02",
+      "firstLine": 1,
+      "lastLine": 2,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "character",
+      "actors": [
+        {
+          "id": "rabbit",
+          "x": 0.43,
+          "expression": "neutral",
+          "facingLeft": false,
+          "scale": 1,
+          "tilt": 0
+        }
+      ],
+      "itemId": "orin_photo",
+      "tint": 0.68,
+      "timeCaption": "",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L1_D1",
+      "shotId": "B2_L1_D1_S03",
+      "firstLine": 3,
+      "lastLine": 4,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "character",
+      "actors": [
+        {
+          "id": "rabbit",
+          "x": 0.5,
+          "expression": "neutral",
+          "facingLeft": false,
+          "scale": 1.05,
+          "tilt": 0
+        }
+      ],
+      "itemId": "",
+      "tint": 0.57,
+      "timeCaption": "",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L1_D1",
+      "shotId": "B2_L1_D1_S04",
+      "firstLine": 5,
+      "lastLine": 5,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "suspense",
+      "actors": [
+        {
+          "id": "rabbit",
+          "x": 0.36,
+          "expression": "neutral",
+          "facingLeft": false,
+          "scale": 0.76,
+          "tilt": 12
+        }
+      ],
+      "itemId": "orin_photo",
+      "tint": 0.48,
+      "timeCaption": "",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L1_D1",
+      "shotId": "B2_L1_D1_S05",
+      "firstLine": 6,
+      "lastLine": 7,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "photo",
+      "actors": [],
+      "itemId": "orin_photo",
+      "tint": 0.5,
+      "timeCaption": "",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L1_D2",
+      "shotId": "B2_L1_D2_S01",
+      "firstLine": 0,
+      "lastLine": 1,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "character",
+      "actors": [
+        {
+          "id": "wolf",
+          "x": 0.5,
+          "expression": "nervous",
+          "facingLeft": false,
+          "scale": 1,
+          "tilt": 0
+        }
+      ],
+      "itemId": "",
+      "tint": 0.85,
+      "timeCaption": "9月8日 · 下班后",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L1_D2",
+      "shotId": "B2_L1_D2_S02",
+      "firstLine": 2,
+      "lastLine": 2,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "duo",
+      "actors": [
+        {
+          "id": "wolf",
+          "x": 0.32,
+          "expression": "nervous",
+          "facingLeft": false,
+          "scale": 1,
+          "tilt": 0
+        },
+        {
+          "id": "shiba",
+          "x": 0.72,
+          "expression": "neutral",
+          "facingLeft": true,
+          "scale": 1,
+          "tilt": 0
+        }
+      ],
+      "itemId": "",
+      "tint": 0.85,
+      "timeCaption": "",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L1_D2",
+      "shotId": "B2_L1_D2_S03",
+      "firstLine": 3,
+      "lastLine": 3,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "environment",
+      "actors": [],
+      "itemId": "",
+      "tint": 0.73,
+      "timeCaption": "",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L1_D4",
+      "shotId": "B2_L1_D4_S01",
+      "firstLine": 0,
+      "lastLine": 0,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "character",
+      "actors": [
+        {
+          "id": "fox",
+          "x": 0.38,
+          "expression": "serious",
+          "facingLeft": false,
+          "scale": 1,
+          "tilt": 0
+        },
+        {
+          "id": "shiba",
+          "x": 0.72,
+          "expression": "neutral",
+          "facingLeft": true,
+          "scale": 1,
+          "tilt": 0
+        }
+      ],
+      "itemId": "",
+      "tint": 0.85,
+      "timeCaption": "9月10日 · 下班后",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L1_D4",
+      "shotId": "B2_L1_D4_S02",
+      "firstLine": 1,
+      "lastLine": 1,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "environment",
+      "actors": [],
+      "itemId": "",
+      "tint": 0.85,
+      "timeCaption": "",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L1_D6",
+      "shotId": "B2_L1_D6_S01",
+      "firstLine": 0,
+      "lastLine": 9,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "dinner",
+      "actors": [
+        {
+          "id": "panda",
+          "x": 0.23,
+          "expression": "neutral",
+          "facingLeft": false,
+          "scale": 0.9,
+          "tilt": 0
+        },
+        {
+          "id": "fox",
+          "x": 0.5,
+          "expression": "serious",
+          "facingLeft": false,
+          "scale": 0.9,
+          "tilt": 0
+        },
+        {
+          "id": "shiba",
+          "x": 0.77,
+          "expression": "neutral",
+          "facingLeft": true,
+          "scale": 0.9,
+          "tilt": 0
+        }
+      ],
+      "itemId": "",
+      "tint": 0.85,
+      "timeCaption": "9月12日 · 夜晚",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L1_D6",
+      "shotId": "B2_L1_D6_S02",
+      "firstLine": 10,
+      "lastLine": 16,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "dinner",
+      "actors": [
+        {
+          "id": "panda",
+          "x": 0.3,
+          "expression": "neutral",
+          "facingLeft": false,
+          "scale": 1,
+          "tilt": 0
+        },
+        {
+          "id": "cat",
+          "x": 0.7,
+          "expression": "serious",
+          "facingLeft": true,
+          "scale": 1,
+          "tilt": 0
+        }
+      ],
+      "itemId": "",
+      "tint": 0.72,
+      "timeCaption": "",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L1_D6",
+      "shotId": "B2_L1_D6_S03",
+      "firstLine": 17,
+      "lastLine": 29,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "duo",
+      "actors": [
+        {
+          "id": "wolf",
+          "x": 0.3,
+          "expression": "nervous",
+          "facingLeft": false,
+          "scale": 1,
+          "tilt": 0
+        },
+        {
+          "id": "bear",
+          "x": 0.7,
+          "expression": "neutral",
+          "facingLeft": true,
+          "scale": 1,
+          "tilt": 0
+        }
+      ],
+      "itemId": "",
+      "tint": 0.64,
+      "timeCaption": "",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L1_D6",
+      "shotId": "B2_L1_D6_S04",
+      "firstLine": 30,
+      "lastLine": 37,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "duo",
+      "actors": [
+        {
+          "id": "panda",
+          "x": 0.3,
+          "expression": "sad",
+          "facingLeft": false,
+          "scale": 1,
+          "tilt": 0
+        },
+        {
+          "id": "bear",
+          "x": 0.7,
+          "expression": "neutral",
+          "facingLeft": true,
+          "scale": 1,
+          "tilt": 0
+        }
+      ],
+      "itemId": "",
+      "tint": 0.61,
+      "timeCaption": "聚餐尾声",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L1_D6",
+      "shotId": "B2_L1_D6_S05",
+      "firstLine": 38,
+      "lastLine": 43,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "document",
+      "actors": [],
+      "itemId": "letter",
+      "tint": 0.58,
+      "timeCaption": "",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L1_D6",
+      "shotId": "B2_L1_D6_S06",
+      "firstLine": 44,
+      "lastLine": 49,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "suspense",
+      "actors": [
+        {
+          "id": "bear",
+          "x": 0.5,
+          "expression": "neutral",
+          "facingLeft": false,
+          "scale": 1,
+          "tilt": 0
+        }
+      ],
+      "itemId": "",
+      "tint": 0.43,
+      "timeCaption": "聚餐后",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L2_D1",
+      "shotId": "B2_L2_D1_S01",
+      "firstLine": 0,
+      "lastLine": 0,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "duo",
+      "actors": [
+        {
+          "id": "wolf",
+          "x": 0.3,
+          "expression": "nervous",
+          "facingLeft": false,
+          "scale": 1,
+          "tilt": 0
+        },
+        {
+          "id": "rabbit",
+          "x": 0.7,
+          "expression": "happy",
+          "facingLeft": true,
+          "scale": 1,
+          "tilt": 0
+        }
+      ],
+      "itemId": "",
+      "tint": 0.85,
+      "timeCaption": "9月5日 · 18:15",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L2_D1",
+      "shotId": "B2_L2_D1_S02",
+      "firstLine": 1,
+      "lastLine": 1,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "suspense",
+      "actors": [
+        {
+          "id": "bear",
+          "x": 0.5,
+          "expression": "neutral",
+          "facingLeft": false,
+          "scale": 1,
+          "tilt": 0
+        }
+      ],
+      "itemId": "",
+      "tint": 0.48,
+      "timeCaption": "",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L2_D2",
+      "shotId": "B2_L2_D2_S01",
+      "firstLine": 0,
+      "lastLine": 1,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "duo",
+      "actors": [
+        {
+          "id": "wolf",
+          "x": 0.3,
+          "expression": "nervous",
+          "facingLeft": false,
+          "scale": 1,
+          "tilt": 0
+        },
+        {
+          "id": "rabbit",
+          "x": 0.7,
+          "expression": "happy",
+          "facingLeft": true,
+          "scale": 1,
+          "tilt": 0
+        }
+      ],
+      "itemId": "",
+      "tint": 0.85,
+      "timeCaption": "9月8日 · 下班后",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L2_D2",
+      "shotId": "B2_L2_D2_S02",
+      "firstLine": 2,
+      "lastLine": 2,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "duo",
+      "actors": [
+        {
+          "id": "wolf",
+          "x": 0.3,
+          "expression": "nervous",
+          "facingLeft": false,
+          "scale": 1,
+          "tilt": 0
+        },
+        {
+          "id": "rabbit",
+          "x": 0.7,
+          "expression": "happy",
+          "facingLeft": true,
+          "scale": 1,
+          "tilt": 0
+        }
+      ],
+      "itemId": "",
+      "tint": 0.85,
+      "timeCaption": "",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L2_D2",
+      "shotId": "B2_L2_D2_S03",
+      "firstLine": 3,
+      "lastLine": 3,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "environment",
+      "actors": [],
+      "itemId": "",
+      "tint": 0.72,
+      "timeCaption": "",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L2_D4",
+      "shotId": "B2_L2_D4_S01",
+      "firstLine": 0,
+      "lastLine": 0,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "character",
+      "actors": [
+        {
+          "id": "wolf",
+          "x": 0.38,
+          "expression": "nervous",
+          "facingLeft": false,
+          "scale": 1,
+          "tilt": 0
+        },
+        {
+          "id": "shiba",
+          "x": 0.72,
+          "expression": "neutral",
+          "facingLeft": true,
+          "scale": 1,
+          "tilt": 0
+        }
+      ],
+      "itemId": "",
+      "tint": 0.85,
+      "timeCaption": "9月10日 · 下班后",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L2_D4",
+      "shotId": "B2_L2_D4_S02",
+      "firstLine": 1,
+      "lastLine": 1,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "environment",
+      "actors": [],
+      "itemId": "",
+      "tint": 0.85,
+      "timeCaption": "",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L2_D6",
+      "shotId": "B2_L2_D6_S01",
+      "firstLine": 0,
+      "lastLine": 1,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "dinner",
+      "actors": [
+        {
+          "id": "wolf",
+          "x": 0.23,
+          "expression": "neutral",
+          "facingLeft": false,
+          "scale": 0.9,
+          "tilt": 0
+        },
+        {
+          "id": "rabbit",
+          "x": 0.5,
+          "expression": "neutral",
+          "facingLeft": false,
+          "scale": 0.9,
+          "tilt": 0
+        },
+        {
+          "id": "fox",
+          "x": 0.77,
+          "expression": "serious",
+          "facingLeft": true,
+          "scale": 0.9,
+          "tilt": 0
+        }
+      ],
+      "itemId": "",
+      "tint": 0.85,
+      "timeCaption": "9月12日 · 夜晚",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L2_D6",
+      "shotId": "B2_L2_D6_S02",
+      "firstLine": 2,
+      "lastLine": 3,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "dinner",
+      "actors": [
+        {
+          "id": "panda",
+          "x": 0.3,
+          "expression": "neutral",
+          "facingLeft": false,
+          "scale": 1,
+          "tilt": 0
+        },
+        {
+          "id": "shiba",
+          "x": 0.7,
+          "expression": "neutral",
+          "facingLeft": true,
+          "scale": 1,
+          "tilt": 0
+        }
+      ],
+      "itemId": "",
+      "tint": 0.75,
+      "timeCaption": "",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L2_D6",
+      "shotId": "B2_L2_D6_S03",
+      "firstLine": 4,
+      "lastLine": 7,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "duo",
+      "actors": [
+        {
+          "id": "rabbit",
+          "x": 0.3,
+          "expression": "neutral",
+          "facingLeft": false,
+          "scale": 1,
+          "tilt": 0
+        },
+        {
+          "id": "cat",
+          "x": 0.7,
+          "expression": "serious",
+          "facingLeft": true,
+          "scale": 1,
+          "tilt": 0
+        }
+      ],
+      "itemId": "",
+      "tint": 0.68,
+      "timeCaption": "",
+      "effect": "push"
+    },
+    {
+      "eventId": "B2_L2_D6",
+      "shotId": "B2_L2_D6_S04",
+      "firstLine": 8,
+      "lastLine": 12,
+      "background": "DDay/OfficeTemplate/BackgroundFacilitiesV2",
+      "kind": "private",
+      "actors": [
+        {
+          "id": "rabbit",
+          "x": 0.23,
+          "expression": "neutral",
+          "facingLeft": false,
+          "scale": 0.88,
+          "tilt": 0
+        },
+        {
+          "id": "panda",
+          "x": 0.5,
+          "expression": "neutral",
+          "facingLeft": false,
+          "scale": 0.88,
+          "tilt": 0
+        },
+        {
+          "id": "cat",
+          "x": 0.77,
+          "expression": "serious",
+          "facingLeft": true,
+          "scale": 0.88,
+          "tilt": 0
+        }
+      ],
+      "itemId": "",
+      "tint": 0.57,
+      "timeCaption": "聚餐后 · 私下会面",
+      "effect": "push"
+    }
+  ]
+}

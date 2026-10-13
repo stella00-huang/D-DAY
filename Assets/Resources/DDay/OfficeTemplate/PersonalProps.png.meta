@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 0bbe6e8822128ff40be48e63950c2a98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1673354538902626644
+    second: PersonalProps_0
+  - first:
+      213: -2646012114151726141
+    second: PersonalProps_1
+  - first:
+      213: 6443599307766456117
+    second: PersonalProps_2
+  - first:
+      213: -8342140267792554096
+    second: PersonalProps_3
+  - first:
+      213: -7556800955001786259
+    second: PersonalProps_4
+  - first:
+      213: 3989496333708875778
+    second: PersonalProps_5
+  - first:
+      213: 5790657679451328343
+    second: PersonalProps_6
+  - first:
+      213: 2114963602846957802
+    second: PersonalProps_7
+  - first:
+      213: 4775846823663190698
+    second: PersonalProps_8
+  - first:
+      213: -8174772014732797062
+    second: PersonalProps_9
+  - first:
+      213: -233348117574663306
+    second: PersonalProps_10
+  - first:
+      213: -9186381349239061998
+    second: PersonalProps_11
+  - first:
+      213: 245329117763782552
+    second: PersonalProps_12
+  - first:
+      213: 7215684169475279879
+    second: PersonalProps_13
+  - first:
+      213: 439973869139386124
+    second: PersonalProps_14
+  - first:
+      213: 1165185521323521440
+    second: PersonalProps_15
+  - first:
+      213: -2815512192119024498
+    second: PersonalProps_16
+  - first:
+      213: -6334514471144923435
+    second: PersonalProps_17
+  - first:
+      213: 2669242812115952114
+    second: PersonalProps_18
+  - first:
+      213: -4254516974458716251
+    second: PersonalProps_19
+  - first:
+      213: 4258096874541809307
+    second: PersonalProps_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PersonalProps_0
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 42
+        width: 240
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451249a5613f83710800000000000000
+      internalID: 1673354538902626644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_1
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 537
+        width: 187
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c32b98500a774bd0800000000000000
+      internalID: -2646012114151726141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_2
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 507
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f5f564e634c6950800000000000000
+      internalID: 6443599307766456117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_3
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 524
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0972ebfff93ca3c80800000000000000
+      internalID: -8342140267792554096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_4
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 519
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6039cea199d02790800000000000000
+      internalID: -7556800955001786259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_5
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 521
+        width: 253
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208d07b37c98d5730800000000000000
+      internalID: 3989496333708875778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_6
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 162
+        width: 574
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f859faa7c8c5050800000000000000
+      internalID: 5790657679451328343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_7
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 470
+        width: 160
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0c294f03cd95d10800000000000000
+      internalID: 2114963602846957802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 40
+        width: 283
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa24f12f167374240800000000000000
+      internalID: 4775846823663190698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_9
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 39
+        width: 458
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b1c061a206d8e80800000000000000
+      internalID: -8174772014732797062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_10
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 185
+        width: 268
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673c4f69f1bf2ccf0800000000000000
+      internalID: -233348117574663306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_11
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 0
+        width: 418
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212055b95da638080800000000000000
+      internalID: -9186381349239061998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_12
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 190
+        width: 319
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897ce556885976300800000000000000
+      internalID: 245329117763782552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 49
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ccbf49582432460800000000000000
+      internalID: 7215684169475279879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_14
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 80
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fd18427e91b1600800000000000000
+      internalID: 439973869139386124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_15
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 23
+        width: 136
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5bae7ee029b2010800000000000000
+      internalID: 1165185521323521440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_16
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 53
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84d6f7149a4de8d0800000000000000
+      internalID: -2815512192119024498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_17
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 25
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ded5d276a84718a0800000000000000
+      internalID: -6334514471144923435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_18
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 49
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1af63023e0b0520800000000000000
+      internalID: 2669242812115952114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_19
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 63
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afb4866a5be4f4c0800000000000000
+      internalID: -4254516974458716251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonalProps_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 50
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ef34a0c8cc71b30800000000000000
+      internalID: 4258096874541809307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PersonalProps_0: 1673354538902626644
+      PersonalProps_1: -2646012114151726141
+      PersonalProps_10: -233348117574663306
+      PersonalProps_11: -9186381349239061998
+      PersonalProps_12: 245329117763782552
+      PersonalProps_13: 7215684169475279879
+      PersonalProps_14: 439973869139386124
+      PersonalProps_15: 1165185521323521440
+      PersonalProps_16: -2815512192119024498
+      PersonalProps_17: -6334514471144923435
+      PersonalProps_18: 2669242812115952114
+      PersonalProps_19: -4254516974458716251
+      PersonalProps_2: 6443599307766456117
+      PersonalProps_20: 4258096874541809307
+      PersonalProps_3: -8342140267792554096
+      PersonalProps_4: -7556800955001786259
+      PersonalProps_5: 3989496333708875778
+      PersonalProps_6: 5790657679451328343
+      PersonalProps_7: 2114963602846957802
+      PersonalProps_8: 4775846823663190698
+      PersonalProps_9: -8174772014732797062
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

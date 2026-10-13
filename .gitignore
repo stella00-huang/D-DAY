@@ -1,0 +1,32 @@
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+/Builds/
+/.vs/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+*.unitypackage
+/unity-release.json
+/hub-cli*.txt
+/ValidationLogs/
+
+# Local backups and generated exports
+/Backups/
+/Exports/
+/_DDayValidationProject/
+
+# Local tools and generated artifacts
+/.agents/
+/*.zip
+/*.7z
+
+# OS files
+.DS_Store
+Thumbs.db
+

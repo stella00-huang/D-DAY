@@ -1,0 +1,43 @@
+{
+  "timestamp": "2026-10-13T01:35:07",
+  "compilation": {
+    "status": "success",
+    "result": {
+      "isCompiling": false,
+      "isUpdating": false
+    }
+  },
+  "errors": {
+    "status": "success",
+    "result": {
+      "count": 0,
+      "logs": []
+    }
+  },
+  "editor": {
+    "status": "success",
+    "result": {
+      "success": true,
+      "selectedGameObjects": {
+        "count": 0,
+        "objects": []
+      },
+      "selectedAssets": {
+        "count": 0,
+        "assets": []
+      },
+      "activeScene": {
+        "name": "TodayWhereToSit",
+        "path": "Assets/Scenes/TodayWhereToSit.unity",
+        "isDirty": false
+      },
+      "focusedWindow": "GameView",
+      "isPlaying": false,
+      "isCompiling": false
+    }
+  },
+  "protectedFileCount": 98,
+  "changedProtectedFiles": [
+    null
+  ]
+}

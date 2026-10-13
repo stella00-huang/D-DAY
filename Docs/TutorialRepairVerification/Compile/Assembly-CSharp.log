@@ -1,0 +1,1 @@
+Assets\Scripts\DDay\HEEndingPlayer.cs(14,31): warning CS0108: 'HEEndingPlayer.light' hides inherited member 'Component.light'. Use the new keyword if hiding was intended.

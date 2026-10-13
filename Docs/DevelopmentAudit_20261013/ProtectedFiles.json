@@ -1,0 +1,394 @@
+[
+  {
+    "path": "Assets/Audio/BGM.meta",
+    "sha256": "4cc8d9ce97474857c46b11fed636146485dc8fa711552b7399ec0eec3a653ff2"
+  },
+  {
+    "path": "Assets/Audio/SFX.meta",
+    "sha256": "b28abb680fb9e4835bf5bbb8bf09c582fb7e75d8ed31cf7d70d4bacc7b911a16"
+  },
+  {
+    "path": "Assets/Audio/BGM/be.mp3",
+    "sha256": "74fffc8d85b98cabb4c22b23b681d38ae943af65c2f44e89c193cba4b0b8a977"
+  },
+  {
+    "path": "Assets/Audio/BGM/be.mp3.meta",
+    "sha256": "3cd65977c0b4b5591136221cbf658b69b3929955b2c9aa3599a6867da7632822"
+  },
+  {
+    "path": "Assets/Audio/BGM/day1_2.mp3",
+    "sha256": "ab25e361bbb637fc3c27d31fa7ca2060ba47eb5418c341aba4de7f32a8c5bc4f"
+  },
+  {
+    "path": "Assets/Audio/BGM/day1_2.mp3.meta",
+    "sha256": "635c431f24159b0490716f4ee84e90885a1b19cbd41c77082068273f09f73541"
+  },
+  {
+    "path": "Assets/Audio/BGM/day3_4.mp3",
+    "sha256": "061126286c07a5fe286a258aac2881d23ea192617f9b932245dfbb18c9af3521"
+  },
+  {
+    "path": "Assets/Audio/BGM/day3_4.mp3.meta",
+    "sha256": "e0b696a0187a25591b1805cd48e2b0132622d1cb79ad000f1aa9e6dcd4c65806"
+  },
+  {
+    "path": "Assets/Audio/BGM/day5_6.mp3",
+    "sha256": "a1e829dd67962fb045f31f7bdaab63bcd260c5d4e3547ba1982ca1b3c9a34f46"
+  },
+  {
+    "path": "Assets/Audio/BGM/day5_6.mp3.meta",
+    "sha256": "444cee641539ae283fa213420cc1f28ca00110d2f116c874d14441b0e9926ad1"
+  },
+  {
+    "path": "Assets/Audio/BGM/day_7.flac",
+    "sha256": "f56399aea2635b52e3929af8acac08207c53c30aaffec3ac4b296963a1c4ce5d"
+  },
+  {
+    "path": "Assets/Audio/BGM/day_7.flac.meta",
+    "sha256": "d2b69ecbbbc636a9222acc75c166d41977c97a93d353e1bc9aaa3f3a61015610"
+  },
+  {
+    "path": "Assets/Audio/BGM/day_7.wav",
+    "sha256": "5ffe26b66ccb633d465728957fe93d171e2df445e4bf123ff546bc91c1581ec4"
+  },
+  {
+    "path": "Assets/Audio/BGM/day_7.wav.meta",
+    "sha256": "47b07b04e29f586345628355700a6ec352c2bb36096266fb9996fc2cc90c05e8"
+  },
+  {
+    "path": "Assets/Audio/BGM/he.ogg",
+    "sha256": "427a4a557b29695263da90c42e6f41a43e9078b7eafa9926163f5e2515547fcf"
+  },
+  {
+    "path": "Assets/Audio/BGM/he.ogg.meta",
+    "sha256": "d8b340643b8157318db557368e11d594f93fca9c5f6f59560275fbcf05b36eba"
+  },
+  {
+    "path": "Assets/Audio/BGM/main_menu.wav",
+    "sha256": "4b01f3cbf18f3f92908de3b233cb9173a09b2b3f3519a339de28cab4b18244f9"
+  },
+  {
+    "path": "Assets/Audio/BGM/main_menu.wav.meta",
+    "sha256": "236e0db1e8436c1bcc637eb8480a196bae89a23f8f59238c74d71ec072c0a26d"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney.meta",
+    "sha256": "7f1139fb47bb113ab0e6baad5546c303483f7b26e03bafb1702825b94c89dc83"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney/back_001.ogg",
+    "sha256": "07db973f79f6ae0f2edc34561e7592e24d0577455919fb602cb8ecc0da991dcf"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney/back_001.ogg.meta",
+    "sha256": "5fcc2318c2ba30bae95a52915c08e03f358be6197d659ff240e235d124c531b6"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney/click_001.ogg",
+    "sha256": "ccfb7fa0cccdd9faec0eb16033c732b1e308d139d80f799161495d58f7adcdb9"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney/click_001.ogg.meta",
+    "sha256": "f579cb1399a41a4196d81dada1d999078601090992b31feb32985a88746a0c0d"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney/confirmation_001.ogg",
+    "sha256": "063564703b6094d70718a3e787a55cc9141611e4ecd6b6637f8828f79b4a8c3a"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney/confirmation_001.ogg.meta",
+    "sha256": "35f23bdf45bdad33efba8bb5ebf7271a3e6958392a863d6b4864d9479acef3b8"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney/drop_001.ogg",
+    "sha256": "692ee3a6f1821402ca649ff735bee9591dc4846c8098fc7d6a90fd15fa57c1af"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney/drop_001.ogg.meta",
+    "sha256": "702a55db2282f091a8f2c93a0a8b9bab23704a3fb858ee3a25a6a82874bf7bb7"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney/error_001.ogg",
+    "sha256": "46e67425d16339772e8d328fb36a49426c9467418686e11beeb71ff84b0f6433"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney/error_001.ogg.meta",
+    "sha256": "763ab970f595ad1c1646a97b55f9ff3646281db5e693d6684dca7f2acb1a91cd"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney/License.txt",
+    "sha256": "f7966c773bbed0eca6a9c75081c44a178b38eae112724dbb5fdfbd4192d118a9"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney/License.txt.meta",
+    "sha256": "8d8d461c9ab7d7d01ad5feb4f6ee057caefa89b604f8bd373f8f2085bb629e2f"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney/question_001.ogg",
+    "sha256": "abb8f9e4eb2071491b0b15f84ee302386b1847609310c1b000ae174639a6cc5a"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney/question_001.ogg.meta",
+    "sha256": "316166d58d993e8a4bde3fd431a6bcb6f188875662d57c24712878e7a35b8390"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney/select_001.ogg",
+    "sha256": "aec0c31ea934a35936ae0d2ab8fac8123c93aa5647f935853a58dbaf90278b7a"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney/select_001.ogg.meta",
+    "sha256": "6ce48cb2391e21b371fb0f2b59447a55a6cdf2d3e0202a8287d848cae878c6ed"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney/toggle_001.ogg",
+    "sha256": "ca1d2dde5f0b286abac4f070e23edab8f30927c8a533665cdf2ac6492a415e49"
+  },
+  {
+    "path": "Assets/Audio/SFX/Kenney/toggle_001.ogg.meta",
+    "sha256": "0b03960ea2e51e860b62ea6a433a7f786196da6b5d8f992cbd7a38e52312488f"
+  },
+  {
+    "path": "Assets/Resources/DDay/Endings/BE.meta",
+    "sha256": "6e6887128a99aaf05fcd3319774aa0d3685df06ea73579c3e703f0c823aaf97a"
+  },
+  {
+    "path": "Assets/Resources/DDay/Endings/HE.meta",
+    "sha256": "233e69a6fba4feafead5cbd7cc014e6cc1a12d89c12f3a02aa4a7193b2857083"
+  },
+  {
+    "path": "Assets/Resources/DDay/Endings/BE/BEEndingConfig.asset",
+    "sha256": "c8b1414b91e9602bc0872f06392bd1bfd0bcfcbc33ef8ba87f56a61cf3f45b70"
+  },
+  {
+    "path": "Assets/Resources/DDay/Endings/BE/BEEndingConfig.asset.meta",
+    "sha256": "31848459140ced95d31312a76dcadbb11a74d4cc463bc0cffffffe76d1e6cfd9"
+  },
+  {
+    "path": "Assets/Resources/DDay/Endings/HE/HEEndingConfig.asset",
+    "sha256": "fab04ac4c17a8a040732506b0b49de05b07fe83db288955ba9f623edc310dd4f"
+  },
+  {
+    "path": "Assets/Resources/DDay/Endings/HE/HEEndingConfig.asset.meta",
+    "sha256": "996f6e0a50c1085245431529056e0b30b97246684c572383cf65d267fa372fe9"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day1.meta",
+    "sha256": "8d28ed5d83074c591b736eddbf9d1a0b596b750da0f63b2c8ef5fe0cf566762a"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day2.meta",
+    "sha256": "38699b214acc1bcd72d5820b0b4813f33ebc37e19a0707e77500fe89616372ba"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day4.meta",
+    "sha256": "9deaf73673f96a0173663838d0673da7079fd022ca343cf8beec49b1cdaef0a3"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day6.meta",
+    "sha256": "a3bb52a942435a2d9801cd66aa408ab7c10769d62a72080ca4a20f40b275601c"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7.meta",
+    "sha256": "5aaafac08c1cbf2e0a894bf906d5fcb4f78911309786cc4c10eca01ee1029911"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day1/Day1ComicPage.png",
+    "sha256": "8af5604a7e41a67feb95ebf435c5b7f66f02046a4dd7a0af45fb8cb53f96bedf"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day1/Day1ComicPage.png.meta",
+    "sha256": "eca48a047b297d9d17429d3798dc5323799bc257c8fd7065e34218ff5c7f501f"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day1/Day1ComicPresentation.json",
+    "sha256": "eabed24ff7df64e498bc130b4038a13b36cf93d5a0eaa0ead8871c15d06336c4"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day1/Day1ComicPresentation.json.meta",
+    "sha256": "38ee28d33e73e79a249b94e8498a4828a7acc481310626ed583dbc11aec2f2e9"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day2/Day2ComicPage.png",
+    "sha256": "3c970b83c70029ac519b867fe46a91dc706469ae9ed57e2b19f5c430350a9f7c"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day2/Day2ComicPage.png.meta",
+    "sha256": "f65ec35b26663d4b7ed4b65c8ca96dd08d5188097f535219ef8e8333737c6d40"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day2/Day2ComicPresentation.json",
+    "sha256": "d4b8bc7137168202383ac193cebf05afae5fb62c48005ab76a836268a4ac343c"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day2/Day2ComicPresentation.json.meta",
+    "sha256": "e6bfe5d94dadc1514f048f5b050c58170353a65ddd013f03b71d0be5c74bd121"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day4/Day4ComicPage.png",
+    "sha256": "9fa387943a9c0f31e9875aff4e67ca57036d2b2494f3d309e159de098b63b47a"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day4/Day4ComicPage.png.meta",
+    "sha256": "c3a1078f18f8e4ed147d02aa11cb05de0ecd0b5a916966c0fc03e3273134fd95"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day4/Day4ComicPresentation.json",
+    "sha256": "67148392b08810485ee8af4fb0c05dcbef8df03d74c17359ad48067ab550596a"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day4/Day4ComicPresentation.json.meta",
+    "sha256": "81d186f2866e655da501d45debbe188a0ba9db908f7450b5b8b6dfbb8c3aab90"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day6/Day6ComicPage.png",
+    "sha256": "866273a83eb5cf575bc16732e77f913f15b33b0a670f4be81fbe31f427a9d301"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day6/Day6ComicPage.png.meta",
+    "sha256": "0607ce6158d7981046ad21bb6818287c25dd460551989ed47e339fe5b41c93f9"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day6/Day6ComicPresentation.json",
+    "sha256": "7b8b4a8b6e6ac33ad3584425f39d9ddb89a02e63d29ae12944872e2d3c894046"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day6/Day6ComicPresentation.json.meta",
+    "sha256": "5975b5e4e4de890bc1bbb31c598ac40c099d00a082b7245542be0b341cc2644d"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits.meta",
+    "sha256": "d4b032bb668e30b6396284fb9336b57112d4e263e30f5c922c54d541b0708a3d"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/PortraitSheet_Cleaned.png",
+    "sha256": "5c4b01adac3efe6d2c3a3e344f5037636f9a3a6036e5358ebc7c4577d95145b9"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/PortraitSheet_Cleaned.png.meta",
+    "sha256": "cc97a34a1cdd397ce256ae1df5b0da0fb253c9bf31b31884b2fe4a49eaa1ab8c"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/bear_neutral.png",
+    "sha256": "c83826ce5af46c4a7d8b1be0e471c1a5ab6cf44ea929ea7703d4b6b6e38a2f24"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/bear_neutral.png.meta",
+    "sha256": "8b99b822b68d7f79855601fb976dcc22ff74ee3ac87958dd3c52f7bf504448b2"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/bear_surprised.png",
+    "sha256": "29f4d2686a1e7447c900ce166f9661b6884b0eae17fa3e9956cdf97c812ae82d"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/bear_surprised.png.meta",
+    "sha256": "6ce0300639b7f51219439a19098d2427274518ef3138f177af053214ef0e1371"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/boss_neutral.png",
+    "sha256": "dc80fca7044d2c267403f6766c20692dbdbab64aa7fbd7b4c305d7e7f625ca60"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/boss_neutral.png.meta",
+    "sha256": "cc53284e17b08bd14b94c1a1aa9015782384f1c1771f9e891c82dab4af81a368"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/boss_surprised.png",
+    "sha256": "fb7e4dd822c66d8626b208b97b9d17835b835e7b4e1419d6bd50916b342cb15e"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/boss_surprised.png.meta",
+    "sha256": "fb7aec82cf5e23be7d9b7e20dc3484839843881e29e3d9a754838e052d060c1b"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/cat_neutral.png",
+    "sha256": "a705a2154a3abc9ebc2e85cc39d574b29a55c87a353c931600333a5038baa1ea"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/cat_neutral.png.meta",
+    "sha256": "9e6059cd5d30a60a7153b3be379ffab8cd5a6608651b3f11cfae00749400d47c"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/cat_surprised.png",
+    "sha256": "abddc11cd2d5ac265a092b81d7a9326afc4e428bb1c57e6e7b3155407c94eef2"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/cat_surprised.png.meta",
+    "sha256": "9682ec7fcd2ba5f07aef536ac15d63ce7ee41d14e6ecd90d09ee38cd189a4d07"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/fox_neutral.png",
+    "sha256": "a5fbcc297121ad80494570b97bc97e10fcf7ef6c8b837aba78a87431e2716ca3"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/fox_neutral.png.meta",
+    "sha256": "7f83f0cc000e85c650494bb8a7b0fb6297a30a2ebc1dd397d5f425e6ee58a290"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/fox_surprised.png",
+    "sha256": "853fc8dc9106a411c2f9aa4cc62ca1a18f238fc6814b7d55d5969ffd1388da7c"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/fox_surprised.png.meta",
+    "sha256": "5124e4e6182afdb11c304d5df4d5ba6612b1d8ac21514964129757dfab3528b2"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/panda_neutral.png",
+    "sha256": "9759d5aff5ebb216ccf5676f9d738a03312cf9eb46980d97de210ccadc71873c"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/panda_neutral.png.meta",
+    "sha256": "2d6af0dd5fe130ab060cc1a0cf4ff071724a27bc048a6638578646385456a106"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/panda_surprised.png",
+    "sha256": "49caf99c26aaa41803d65ca679df01720b9fcf6a1dfeb277a2ac96261b67de6a"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/panda_surprised.png.meta",
+    "sha256": "cb750785fac024a6cda7b1cced7fc59c670ef24d2371196cd0d5fcf63fc3b8ab"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/shiba_neutral.png",
+    "sha256": "f0a6f4216093271023c8bff8e05d044fb9bf8b4d0d2736a50c1f53139ea73ce2"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/shiba_neutral.png.meta",
+    "sha256": "27ef5778b2bd60c0b651c6b467384c8bf2b034357867a5925218d0b9f7353c99"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/shiba_surprised.png",
+    "sha256": "e04e81d6d1451b44c2ac518fafbd2591cec960b65667029a99f92aad911369f8"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/shiba_surprised.png.meta",
+    "sha256": "15d801d669fbcb4830a4cd65d3499f287ec813fcba6646be608eedb93685c8c9"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/wolf_neutral.png",
+    "sha256": "beb2f3cf959360ab9ae6c777021a77b070cb9604b1aa8f083ca1f74c6cf3cefa"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/wolf_neutral.png.meta",
+    "sha256": "d64476cbe1250befe9119e9c91dcd6831d8d1ec5431d1f41c4dd780bc07dd448"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/wolf_surprised.png",
+    "sha256": "26973732cd19cf7a6a48d51fb6182c9b93c0497b8cecfafa684ab738b63c141d"
+  },
+  {
+    "path": "Assets/Resources/DDay/Story/Day7/Portraits/wolf_surprised.png.meta",
+    "sha256": "43212354cd9bf042c8cde0a355e4f628c5b34a2105f951bf8161c4557897620c"
+  },
+  {
+    "path": "Assets/Scripts/DDay/HEEndingPlayer.cs",
+    "sha256": "4142df873d985e31920c9e607e9811706b062eb7cf20210bcefea5e69c5ff0cc"
+  },
+  {
+    "path": "Assets/Scripts/DDay/DDayFinalDecisionUI.cs",
+    "sha256": "3d921480e90e2d8702ab9d7253e07eca0aa05fca8f20a236b9ead648684a1e2b"
+  },
+  {
+    "path": "配置表AB.xlsx",
+    "sha256": "97e00e7a2755e8f81433db1e92ccd6069a5ce75d90e6e5e606fed919e21cdffe"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "Error": {
+    "status": "success",
+    "result": {
+      "count": 0,
+      "logs": [],
+      "source": "console"
+    }
+  },
+  "debug_check_compilation": {
+    "status": "success",
+    "result": {
+      "isCompiling": false,
+      "isUpdating": false
+    }
+  },
+  "Warning": {
+    "status": "success",
+    "result": {
+      "count": 0,
+      "logs": [],
+      "source": "console"
+    }
+  },
+  "editor_get_state": {
+    "status": "success",
+    "result": {
+      "isPlaying": false,
+      "isPaused": false,
+      "isCompiling": false,
+      "timeSinceStartup": 138740.5946699,
+      "unityVersion": "6000.0.62f1",
+      "platform": "WindowsEditor"
+    }
+  }
+}

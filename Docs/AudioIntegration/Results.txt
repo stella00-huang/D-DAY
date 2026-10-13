@@ -1,0 +1,91 @@
+PASS
+Runtime routing, fades, loop blending, one-shot endings, settings and SFX callbacks verified. Physical listening/native mouse not claimed.
+PASS | Exactly one campaign audio manager
+PASS | Exactly one enabled AudioListener
+PASS | Correct imported clip for MainMenu
+PASS | Streaming BGM MainMenu
+PASS | Configured loop policy MainMenu
+PASS | Correct imported clip for Days12
+PASS | Streaming BGM Days12
+PASS | Configured loop policy Days12
+PASS | Correct imported clip for Days34
+PASS | Streaming BGM Days34
+PASS | Configured loop policy Days34
+PASS | Correct imported clip for Days56
+PASS | Streaming BGM Days56
+PASS | Configured loop policy Days56
+PASS | Correct imported clip for Day7
+PASS | Streaming BGM Day7
+PASS | Configured loop policy Day7
+PASS | Correct imported clip for HE
+PASS | Streaming BGM HE
+PASS | Configured loop policy HE
+PASS | Correct imported clip for BE
+PASS | Streaming BGM BE
+PASS | Configured loop policy BE
+PASS | SFX clip exists Click
+PASS | SFX clip exists Pickup
+PASS | SFX clip exists Drop
+PASS | SFX clip exists Error
+PASS | SFX clip exists Confirmation
+PASS | SFX clip exists Back
+PASS | SFX clip exists Clue
+PASS | SFX clip exists Toggle
+PASS | SFX clip exists Dialogue
+PASS | Main menu music playing
+PASS | Actual date route L1 D1
+PASS | Outgoing music stops within fade L1 D1
+PASS | Actual date route L1 D2
+PASS | Outgoing music stops within fade L1 D2
+PASS | Actual date route L1 D3
+PASS | Outgoing music stops within fade L1 D3
+PASS | Actual date route L1 D4
+PASS | Outgoing music stops within fade L1 D4
+PASS | Actual date route L1 D5
+PASS | Outgoing music stops within fade L1 D5
+PASS | Actual date route L1 D6
+PASS | Outgoing music stops within fade L1 D6
+PASS | Actual date route L1 D7
+PASS | Outgoing music stops within fade L1 D7
+PASS | Actual date route L2 D1
+PASS | Outgoing music stops within fade L2 D1
+PASS | Actual date route L2 D2
+PASS | Outgoing music stops within fade L2 D2
+PASS | Actual date route L2 D3
+PASS | Outgoing music stops within fade L2 D3
+PASS | Actual date route L2 D4
+PASS | Outgoing music stops within fade L2 D4
+PASS | Actual date route L2 D5
+PASS | Outgoing music stops within fade L2 D5
+PASS | Actual date route L2 D6
+PASS | Outgoing music stops within fade L2 D6
+PASS | Actual date route L2 D7
+PASS | Outgoing music stops within fade L2 D7
+PASS | UI/auto save does not restart same BGM
+PASS | Normal song tail/start blend completes once
+PASS | Ending has correct non-looping music BE music
+PASS | Shot changes never restart BE music
+PASS | Ending track finishes without restart BE music
+PASS | Return restores menu music BE music
+PASS | Ending has correct non-looping music HE music
+PASS | Shot changes never restart HE music
+PASS | Ending track finishes without restart HE music
+PASS | Return restores menu music HE music
+PASS | One rate-limited SFX Click
+PASS | One rate-limited SFX Pickup
+PASS | One rate-limited SFX Drop
+PASS | One rate-limited SFX Error
+PASS | One rate-limited SFX Confirmation
+PASS | One rate-limited SFX Back
+PASS | One rate-limited SFX Clue
+PASS | One rate-limited SFX Toggle
+PASS | One rate-limited SFX Dialogue
+PASS | Actual drag movement callback picks up once
+PASS | Valid placement callback plays drop once
+PASS | Invalid placement callback plays error once
+PASS | Simple click/cancel does not play successful drop
+PASS | First acquired record plays discovery
+PASS | Duplicate record does not replay discovery
+PASS | Pause menu SFX works at timeScale zero
+PASS | Independent saved volume buses
+PASS | Audio settings reload correctly

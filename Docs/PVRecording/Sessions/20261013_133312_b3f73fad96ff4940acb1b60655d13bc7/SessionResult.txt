@@ -1,0 +1,3 @@
+Formal campaign/manual saves unchanged: True
+Save override and four preferences restored.
+No video was recorded by this helper.
